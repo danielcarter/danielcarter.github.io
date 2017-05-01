@@ -1,0 +1,49 @@
+{% include header.html %}
+
+  <h2>{{ page.title }}</h2>
+  <p>
+    {% if page.venue %}{{ page. venue }}<br />{% endif %}
+  {{ page.dates }}</p>
+
+  {{content}}
+
+  {% if page.assignments %}
+    <div class="box assignments">
+      <h3>Assignments</h3>
+      <ul>
+        {% for target_assignment in page.assignments %}
+          {% for possible_assignment in site.assignments %}
+            {% if target_assignment == possible_assignment.short_title %}
+              <li>
+                <a href="{{possible_assignment.url}}">{{ possible_assignment.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if page.readings %}
+      <div class="box readings">
+        <h3>Readings</h3>
+        <ul>
+          {% for reading in page.readings %}
+            {% assign current_reading = site.data.readings[reading] %}
+            <li>
+              {% if current_reading.file %}
+                <a href="{{site.url}}/assets/readings/{{current_reading.file}}" target="_blank">
+              {% elsif current_reading.link %}
+                <a href="{{current_reading.link}}" target="_blank">
+              {% endif %}
+                {{ current_reading.citation }}
+              {% if current_reading.file or current_reading.link %}
+              </a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+{% include footer.html %}

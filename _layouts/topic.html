@@ -1,0 +1,22 @@
+{% include header.html %}
+
+
+  <h2>{{ page.title }}</h2>
+
+  {{content}}
+
+  {% if page.publications %}
+    <div class="box publications">
+      <h3>Related Publications</h3>
+      <ul>
+        {% for publication in page.publications %}
+        {% assign current_publication = site.data.publications[publication] %}
+          <li>
+            <a href="{{current_publication.link}}" target="_blank">{{ current_publication.citation }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+{% include footer.html %}

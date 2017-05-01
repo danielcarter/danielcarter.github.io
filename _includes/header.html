@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>{{page.title}} - Daniel Carter</title>
+  <meta name="description" content="">
+  <meta name="author" content="Daniel Carter">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Fonts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Source+Sans+Pro" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{site.url}}/css/syntax.css" />
+  <link rel="stylesheet" href="{{site.url}}/css/main.css" />
+
+
+  <script src="{{site.url}}/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <header>
+      <h1>Daniel Carter</h1>
+      <nav>
+        <ul>
+          <li>Courses</li>
+          <li>
+            <ul>
+              {% for course in site.courses %}
+                {% unless course.menu == false %}
+                  <li>
+                    <a href="{{site.url}}{{course.url}}">{{ course.short_title }}</a>
+                  </li>
+                {% endunless %}
+              {% endfor %}
+            </ul>
+          </li>
+          <li>Research</li>
+          <li>
+            <ul>
+              {% for topic in site.topics %}
+                <li>
+                  <a href="{{site.url}}{{topic.url}}">{{ topic.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li>CV</li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="main">

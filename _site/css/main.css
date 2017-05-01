@@ -1,0 +1,92 @@
+html, .root {
+  font-size: 14px;
+  line-height: 21px; }
+
+body {
+  font-family: "Source Sans Pro", helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  width: 1100px;
+  margin: auto;
+  color: #444; }
+
+h1, h2 {
+  font-weight: normal;
+  font-family: "Crimson Text", georgia, serif;
+  margin: 0 0 1em 0; }
+
+h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: "Source Sans Pro", helvetica, sans-serif;
+  margin: 0 0 1em 0; }
+
+a:link, a:hover, a:active, a:visited {
+  color: #444;
+  border-bottom: 1px solid;
+  text-decoration: none; }
+
+/*** HEADER ***/
+header {
+  width: 240px;
+  float: left;
+  padding: 4em 40px 0 0;
+  text-align: left; }
+  header h1 {
+    font-size: 1em;
+    font-weight: bold;
+    font-family: "Source Sans Pro", helvetica, sans-serif;
+    display: inline-block; }
+  header nav ul {
+    margin: 0;
+    padding: 0; }
+    header nav ul li {
+      list-style-type: none; }
+      header nav ul li ul {
+        margin: 5px 0 15px; }
+        header nav ul li ul li {
+          margin: 0 0 0 20px;
+          list-style-type: square; }
+
+section.main {
+  width: 820px;
+  max-width: 50em;
+  float: left;
+  padding: 4em 0; }
+  section.main .box {
+    background-color: #ffedf8;
+    color: #444;
+    padding: 20px;
+    margin: 3em 0;
+    background-color: #ffedf8; }
+    section.main .box a {
+      color: #444; }
+  section.main .assignments {
+    background-color: #d4f6fc; }
+  section.main .resources {
+    background-color: #f9ffd6; }
+
+/*** Bootstrap Table ***/
+/* Pulled from https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap.css#L2079-L2241 */
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem; }
+
+table th,
+table td {
+  padding: 0.75rem;
+  vertical-align: top; }
+
+table thead th {
+  vertical-align: bottom;
+  font-weight: bold; }
+
+table table {
+  background-color: #fff; }
+
+table-sm th,
+table-sm td {
+  padding: 0.3rem; }
+
+table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05); }

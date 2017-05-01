@@ -1,0 +1,145 @@
+---
+---
+
+$sans: 'Source Sans Pro', helvetica, sans-serif;
+$serif: 'Crimson Text', georgia, serif;
+
+$dark: #444;
+$light: #ededed;
+
+$light_bg_1: #ffedf8;
+$light_bg_2: #d4f6fc;
+$light_bg_3: #f9ffd6;
+
+$full_width: 1100px;
+$sidebar_width: 240px;
+$gutter: 40px;
+
+
+html, .root {
+  font-size: 14px;
+  line-height: 21px;
+}
+body {
+  font-family: $sans;
+  font-size: 1em;
+  line-height: 1.5em;
+  width: $full_width;
+  margin: auto;
+  color: $dark;
+}
+
+h1, h2 { font-weight: normal; font-family: $serif; margin: 0 0 1em 0; }
+h3, h4, h5, h6 { font-weight: bold; font-family: $sans;  margin: 0 0 1em 0; }
+
+a:link, a:hover, a:active, a:visited {
+  color: $dark;
+  border-bottom: 1px solid;
+  text-decoration: none;
+}
+
+/*** HEADER ***/
+
+header {
+
+  width: $sidebar_width;
+  float: left;
+  padding: 4em $gutter 0 0;
+  text-align: left;
+
+  h1 {
+    font-size: 1em;
+    font-weight: bold;
+    font-family: $sans;
+    display: inline-block;
+  }
+
+  nav ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style-type: none;
+
+      ul {
+
+        margin: 5px 0 15px;
+
+        li {
+          margin: 0 0 0 20px;
+          list-style-type: square;
+        }
+
+      }
+
+    }//li
+
+
+  }//nav ul
+
+} // header
+
+section.main {
+  width: $full_width - $sidebar_width - $gutter;
+  max-width: 50em;
+  float: left;
+  padding: 4em 0;
+
+  .box {
+
+    background-color: $light_bg_1;
+    color: $dark;
+    padding: 20px;
+    margin: 3em 0;
+    background-color: $light_bg_1;
+
+    a {
+      color: $dark;
+    }
+
+  }
+
+  .assignments {
+    background-color: $light_bg_2;
+  }
+
+  .resources {
+    background-color: $light_bg_3;
+  }
+
+}
+
+
+/*** Bootstrap Table ***/
+/* Pulled from https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap.css#L2079-L2241 */
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+table th,
+table td {
+  padding: 0.75rem;
+  vertical-align: top;
+}
+
+table thead th {
+  vertical-align: bottom;
+  font-weight: bold;
+}
+
+table table {
+  background-color: #fff;
+}
+
+table-sm th,
+table-sm td {
+  padding: 0.3rem;
+}
+
+
+table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
