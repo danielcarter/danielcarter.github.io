@@ -24,7 +24,7 @@ This class will focus on unsupervised technique, using topic models as our examp
 
 ### Day 4: Reflections
 
-We'll step back from learning about text analysis and consider debates about these techniques' role in humanities work. Drawing on arguments by Lev Manovich and others, we'll consider discuss what makes us excited, what makes us hesitant, and we'll begin talking about how we might (or might not) use text analysis and similar forms of computational analysis in our work.
+We'll step back from learning about text analysis and consider debates about these techniques' role in humanities work. Drawing on arguments by Lev Manovich and others, we'll discuss what makes us excited and what makes us hesitant, and we'll begin talking about how we might (or might not) use text analysis and similar forms of computational analysis in our future work.
 
 ### Day 5: Project Day
 

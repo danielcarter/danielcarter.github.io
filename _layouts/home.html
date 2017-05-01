@@ -1,30 +1,5 @@
 {% include header.html %}
 
-<ul>
-  {% for course in site.courses %}
-    <li>
-      <a href="{{ course.url }}">{{ course.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{{content}}
 
-<p>Pages</p>
-<ul>
-  {% for page in site.html_pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
-{% for c in site.projects %}
-
-  <li>{{ c.path }}</li>
-
-{% endfor %}
+{% include footer.html %}

@@ -5,3 +5,7 @@
 layout: home
 permalink: index.html
 ---
+
+## About 
+
+I've just finished my PhD in the School of Information at the University of Texas at Austin and will start as a professor of digital media at Texas State University in 2017. I try to understand how new forms of data and analytics shape people's work practices and everyday lives. I also think about ways to encourage understanding and creative use of new (and old) technologies.
