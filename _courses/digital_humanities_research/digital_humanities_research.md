@@ -20,7 +20,7 @@ We'll continue learning about text analysis by introducing supervised techniques
 
 ### Day 3: Unsupervised Techniques: Topic Models
 
-This class will focus on unsupervised technique, using topic models as our example. Unlike supervised techniques, unsupervised techniques do not allow the researcher to guide analysis. We'll work with the same collection of texts and begin discussing how the results we've produced might be useful in our work.
+This class will focus on unsupervised techniques, using topic models as our example. Unlike supervised techniques, unsupervised techniques do not allow the researcher to guide analysis. We'll work with the same collection of texts and begin discussing how the results we've produced might be useful in our work.
 
 ### Day 4: Reflections
 

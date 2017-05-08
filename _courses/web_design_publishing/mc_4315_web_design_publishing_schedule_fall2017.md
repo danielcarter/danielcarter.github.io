@@ -1,11 +1,9 @@
 ---
 menu: false
-title: MC 4315 Web Design Publishing
+title: "MC 4315 Web Design Publishing: Schedule"
 short_title: Web Design Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
 ---
-
-### Schedule
 
 Date | Description | Due
 ---: | :----------- | :---
@@ -21,21 +19,21 @@ M 9/25 | Introduction to Design | [Project 1: Basic Site (Phase 2)](/assignments
 W 9/27 | Introduction to Design (cont.) | ****Read Donald Norman, _The Design of Everyday Things_, Chapter 1
 M 10/2 | Sketching and Wireframing |
 W 10/4 | Work Day: From Sketch to Code |
-M 10/9 | |
-W 10/11 | |
-M 10/16 | |
-W 10/18 | |
-M 10/23 | |
-W 10/25 | |
-M 10/30 | |
-W 11/1 | |
-M 11/6 | |
-W 11/8 | |
-M 11/13 | |
-W 11/15 | |
-M 11/20 | |
+M 10/9 | CSS Frameworks |
+W 10/11 | CSS Frameworks (cont.) |
+M 10/16 | Responsive Design |
+W 10/18 | Responsive Design (cont.) |
+M 10/23 | Work Day: Partner Project |
+W 10/25 | Work Day: Partner Project |
+M 10/30 | Multimedia |
+W 11/1 | Multimedia (cont.) | [Project 2: Partner Project](/assignments/web/web_design_publishing_project_2.html)
+M 11/6 | Data |
+W 11/8 | Data (cont.) |
+M 11/13 | Content Management Systems | Install Wordpress
+W 11/15 | Content Management Systems |
+M 11/20 | Work Day: Final Project |
 W 11/22 | NO CLASS |
 M 11/27 | |
 W 11/29 | |
-M 12/4 | |
-W 12/6 | |
+M 12/4 | Presentations |
+W 12/6 | Presentations |
