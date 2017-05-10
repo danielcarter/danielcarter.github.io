@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 title: MC 4315 Web Design Publishing
 short_title: Web Design Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
