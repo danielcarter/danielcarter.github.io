@@ -7,3 +7,24 @@ htmldog_html_tutorials:
 htmldog_css_tutorials:
   title: "HTML Dog: CSS Tutorials"
   link: "http://htmldog.com/guides/css/"
+boostrap_documentation:
+  title: "Bootstrap Documentation"
+  link: "https://getbootstrap.com/css/"
+client_handout:
+  title: "Client Handout **MAKE THIS**"
+  file: "x.pdf"
+pew_internet_fact_sheet:
+  title: "Pew Internet / Broadband Fact Sheet"
+  link: "http://www.pewinternet.org/fact-sheet/internet-broadband/"
+pew_mobile_fact_sheet:
+  title: "Pew Mobile Fact Sheet"
+  link: "http://www.pewinternet.org/fact-sheet/mobile/"
+pew_social_fact_sheet:
+  title: "Pew Social Media Fact Sheet"
+  link: "http://www.pewinternet.org/fact-sheet/social-media/"
+rookie_how_the_internet_works:
+  title: "Rookie Magazine: How the Internet Works"
+  link: "http://www.rookiemag.com/2016/11/how-internet-works/"
+dh_research_github:
+  title: "Intro to DH Research - Github"
+  link: "https://github.com/danielcarter/courses/tree/master/Intro_to_DH_Research"

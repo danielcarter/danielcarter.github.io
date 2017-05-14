@@ -18,18 +18,25 @@ This course introduces students to web design and development. In addition to ga
 
 By the end of this course, students will be able to:
 
-- design projects based on principles of user-centered design.
 - develop projects in HTML and CSS, as well as using current frameworks and content management systems.
-- evaluate user experience.
+- work collaboratively on web projects.
+- work with clients to understand their goals.
 - discuss the role of web design and development in relation to current social issues.
 
 ### Course Organization
 
-This course involves learning technical skills and also developing perspectives on web publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics.
+This course involves learning technical skills and also developing perspectives on web publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. While the course requires minimal reading, you should expect to spend several hours each work working on projects and completing required tutorials.
+
+### Getting Help
+
+Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also post a message to Twitter using the class hashtag ___, come to my office hours or email me.
 
 ### Evaluation
 
-
+Project 1 | 15%
+Project 2 | 15%
+Final Project | 25%
+Participation and attendance | 10%
 
 ### Communication
 

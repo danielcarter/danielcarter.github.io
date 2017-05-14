@@ -46,4 +46,26 @@
       </div>
       {% endif %}
 
+			{% if page.resources %}
+				<div class="box resources">
+					<h3>Resources</h3>
+					<ul>
+						{% for resource in page.resources %}
+							{% assign current_resource = site.data.resources[resource] %}
+							<li>
+								{% if current_resource.file %}
+									<a href="{{site.url}}/assets/resources/{{current_resource.file}}" target="_blank">
+								{% elsif current_resource.link %}
+									<a href="{{current_resource.link}}" target="_blank">
+								{% endif %}
+									{{ current_resource.title }}
+								{% if current_resource.file or current_resource.link %}
+								</a>
+								{% endif %}
+							</li>
+						{% endfor %}
+					</ul>
+				</div>
+			{% endif %}
+
 {% include footer.html %}
