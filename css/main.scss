@@ -54,6 +54,7 @@ header {
   float: left;
   padding: 4em $gutter 0 0;
   text-align: left;
+  line-height: 2em;
 
   a {
     border: none;
@@ -65,6 +66,7 @@ header {
     font-weight: bold;
     font-family: $sans;
     display: inline-block;
+    margin: 0;
 
     a {
       color: $dark;
@@ -81,7 +83,7 @@ header {
 
       ul {
 
-        margin: 5px 0 15px;
+        margin: 0;
 
         li {
           margin: 0 0 0 20px;
