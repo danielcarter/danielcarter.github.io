@@ -19,12 +19,11 @@ For your second project, you'll work in pairs to create a site for an organizati
 
 1. The first thing you need to do is learn about the organization -- who's involved, what do they care about and who would be interested in their site? Complete the Client Handout and ____ turn it in with your site ___.
 2. Based on the Client Handout, work with your partner to sketch several possible designs. Discuss the advantages of each and how they reflect the organization's goals and values. Turn in your sketches _____.
-3. Based on your sketches, create a site with at least four pages. Use Bootstrap's CSS framework, and make the site responsive.
+3. Based on your sketches, create a site with at least four pages. Use Bootstrap's CSS framework and make the site responsive.
 
 ### Evaluation
 
 - A+: Site meets all the requirements for an A but also contains one or more of the following:
-  - Substantial data such as member profiles or details about past and future events.
   - Substantial multimedia components such as a photo gallery or videos.
   - A 600-word essay on why the design choices you made reflect the goals and values of the organization.  
 - A: Site meets all requirements and clearly represents the goals and values of the organization. More than minimal effort has been put in to site design.

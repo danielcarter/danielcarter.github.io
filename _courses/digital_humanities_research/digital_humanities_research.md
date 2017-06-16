@@ -7,9 +7,14 @@ dates: June 19-23, 2017
 readings:
   - manovich_trending
   - binder_alien
+  - drucker_graphesis
+  - blei_topic_modeling
+  - brett_topic_modeling
+  - jockers_macroanalysis
 resources:
   - dh_research_github
 ---
+
 This five-day course will introduce graduate students to techniques for analyzing humanities data, with a focus on textual data. Topics will include feature extraction, exploratory analysis and data visualization, as well as a basic introduction to machine learning techniques such as topic modeling and support vector machine classifiers. No prior technical knowledge is needed for the course – while students will gain basic programming skills in R, the course’s emphasis will be on developing a conceptual understanding of techniques in order to think about how they might be used in future work. Along with the reading of core digital humanities texts, this technical understanding will be used to ground discussions of questions that are central to digital humanities work such as how aggregate quantitative data can be used to understand situated cultural objects.
 
 ### Day 1: Introduction: Representing Text with Numbers

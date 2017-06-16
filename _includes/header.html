@@ -25,7 +25,7 @@
 
 
 </head>
-<body class={{page.title | downcase}}>
+<body class="{% for option in page.template-options %}{{ option }} {% endfor %}">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

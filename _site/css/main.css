@@ -81,8 +81,11 @@ section.main {
   section.main .resources {
     background-color: #f9ffd6; }
 
+body.no-title section.main {
+  padding-top: 8em; }
+
 /*** Design Page ***/
-body.design .main p {
+body.gallery .main p {
   margin: 0 0 5em; }
 
 /*** Bootstrap Table ***/

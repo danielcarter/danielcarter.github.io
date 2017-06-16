@@ -130,8 +130,12 @@ section.main {
 
 }
 
+body.no-title section.main {
+  padding-top: 8em;
+}
+
 /*** Design Page ***/
-body.design .main p {
+body.gallery .main p {
   margin: 0 0 5em;
 }
 

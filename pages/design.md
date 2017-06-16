@@ -2,6 +2,8 @@
 layout: default
 permalink: design.html
 title: Design
+template-options:
+  - gallery
 ---
 
 <iframe src="https://player.vimeo.com/video/66526768?loop=1&title=0&byline=0&portrait=0" width="600" height="374" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

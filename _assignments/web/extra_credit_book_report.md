@@ -11,6 +11,7 @@ readings:
   - rushkoff_throwing
   - rushkoff_program
   - jenkins_spreadable
+  - tufecki_twitter
 ---
 
 Choose a book from the list below and write a 500 to 600-word reflection on it. You don't need to read the entire book, but you should at least closely read the introduction and one chapter that interests you. In your reflection, explore one or more of the following questions:

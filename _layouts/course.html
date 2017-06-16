@@ -55,6 +55,8 @@
 							<li>
 								{% if current_resource.file %}
 									<a href="{{site.url}}/assets/resources/{{current_resource.file}}" target="_blank">
+                {% elsif current_resource.internal_link %}
+                  <a href="{{site.url}}/{{current_resource.internal_link}}" target="_blank">
 								{% elsif current_resource.link %}
 									<a href="{{current_resource.link}}" target="_blank">
 								{% endif %}

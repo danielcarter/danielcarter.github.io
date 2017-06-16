@@ -29,6 +29,8 @@ collections:
     output: true
   courses:
     output: true
+  resources:
+    output: true
 
 defaults:
   -
@@ -49,6 +51,12 @@ defaults:
       type: "topics"
     values:
       layout: "topic"
+  -
+    scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "default"
 
 # Build settings
 markdown: kramdown

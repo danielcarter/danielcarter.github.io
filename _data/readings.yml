@@ -26,3 +26,16 @@ rushkoff_program:
   citation: "Rushkoff, D. (2011). Program or Be Programmed: Ten Commands for a Digital Age. Berkeley, CA: Soft Skull Press."
 jenkins_spreadable:
   citation: "Jenkins, H., Ford, S., & Green, J. (2013). Spreadable Media: Creating Value and Meaning in a Networked Culture. New York ; London: NYU Press."
+tufecki_twitter:
+  citation: "Tufekci, Z. (2017). Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press.
+"
+blei_topic_modeling:
+  citation: "Blei, D. M. (2013). Topic Modeling and Digital Humanities. Journal of Digital Humanities. Retrieved from http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/
+"
+  link: "http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/"
+brett_topic_modeling:
+  citation: "Brett, M. R. (2013). Topic Modeling: A Basic Introduction. Journal of Digital Humanities. Retrieved from http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
+"
+  link: "http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/"
+jockers_macroanalysis:
+  citation: "Jockers, M. L. (2013). Macroanalysis: Digital Methods and Literary History. University of Illinois Press."

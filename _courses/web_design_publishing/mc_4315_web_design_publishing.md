@@ -6,10 +6,12 @@ dates: Fall 2017, MW 3:30 - 4:50pm
 assignments:
   - web_design_publishing_project_1
   - web_design_publishing_project_2
-  - web_design_publishing_project_3
-  - web_design_publishing_project_4
+  - web_design_publishing_final_project
   - web_extra_credit_book_reflection
   - web_extra_credit_skill_expansion
+resources:
+  - questions_to_ask
+  - client_handout
 ---
 
 [Full Schedule](/courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html)
