@@ -21,13 +21,13 @@ This five-day course will introduce graduate students to techniques for analyzin
 
 We'll begin learning about text analysis by covering different ways that texts get represented with numbers. We'll cover basic concepts like document-term matrices and start using visualization for exploratory analysis.
 
-### Day 2: Supervised Techniques: Support Vector Machines
-
-We'll continue learning about text analysis by introducing supervised techniques -- techniques that allow the researcher to guide large-scale analysis. Working in groups, we'll classify sample texts and then train support vector machine (SVM) classifiers to search for similar texts in a larger collection. We'll continue to use visualization techniques to explore our results.
-
-### Day 3: Unsupervised Techniques: Topic Models
+### Day 2: Unsupervised Techniques: Topic Models
 
 This class will focus on unsupervised techniques, using topic models as our example. Unlike supervised techniques, unsupervised techniques do not allow the researcher to guide analysis. We'll work with the same collection of texts and begin discussing how the results we've produced might be useful in our work.
+
+### Day 3: Supervised Techniques: Support Vector Machines
+
+We'll continue learning about text analysis by introducing supervised techniques -- techniques that allow the researcher to guide large-scale analysis. Working in groups, we'll classify sample texts and then train support vector machine (SVM) classifiers to search for similar texts in a larger collection. We'll continue to use visualization techniques to explore our results.
 
 ### Day 4: Reflections
 
