@@ -39,3 +39,6 @@ brett_topic_modeling:
   link: "http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/"
 jockers_macroanalysis:
   citation: "Jockers, M. L. (2013). Macroanalysis: Digital Methods and Literary History. University of Illinois Press."
+jockers_topic_modeling_recipe:
+  citation: 'Jockers, M. (2013, April 12). “Secret” Recipe for Topic Modeling Themes.'
+  link: http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/

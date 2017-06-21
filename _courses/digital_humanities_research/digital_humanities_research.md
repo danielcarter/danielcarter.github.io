@@ -5,12 +5,12 @@ short_title: Intro to Digital Humanities Research
 venue: University of Texas Digital Media Summer Institute, Porto, Portugal
 dates: June 19-23, 2017
 readings:
-  - manovich_trending
-  - binder_alien
-  - drucker_graphesis
   - blei_topic_modeling
   - brett_topic_modeling
+  - jockers_topic_modeling_recipe
   - jockers_macroanalysis
+  - drucker_graphesis
+
 resources:
   - dh_research_github
 ---
