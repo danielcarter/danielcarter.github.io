@@ -1,4 +1,67 @@
 
+  {% if page.assignments %}
+    <div class="box assignments">
+      <h3>Assignments</h3>
+      <ul>
+        {% for target_assignment in page.assignments %}
+          {% for possible_assignment in site.assignments %}
+            {% if target_assignment == possible_assignment.short_title %}
+              <li>
+                <a href="{{possible_assignment.url}}">{{ possible_assignment.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if page.readings %}
+      <div class="box readings">
+        <h3>Readings</h3>
+        <ul>
+          {% for reading in page.readings %}
+            {% assign current_reading = site.data.readings[reading] %}
+            <li>
+              {% if current_reading.file %}
+                <a href="{{site.url}}/assets/readings/{{current_reading.file}}" target="_blank">
+              {% elsif current_reading.link %}
+                <a href="{{current_reading.link}}" target="_blank">
+              {% endif %}
+                {{ current_reading.citation }}
+              {% if current_reading.file or current_reading.link %}
+              </a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if page.resources %}
+        <div class="box resources">
+          <h3>Resources</h3>
+          <ul>
+            {% for resource in page.resources %}
+              {% assign current_resource = site.data.resources[resource] %}
+              <li>
+                {% if current_resource.file %}
+                  <a href="{{site.url}}/assets/resources/{{current_resource.file}}" target="_blank">
+                {% elsif current_resource.internal_link %}
+                  <a href="{{site.url}}/{{current_resource.internal_link}}" target="_blank">
+                {% elsif current_resource.link %}
+                  <a href="{{current_resource.link}}" target="_blank">
+                {% endif %}
+                  {{ current_resource.title }}
+                {% if current_resource.file or current_resource.link %}
+                </a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
     </div><!--.main-->
   </div><!-- .container -->
 

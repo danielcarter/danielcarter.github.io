@@ -42,3 +42,9 @@ jockers_macroanalysis:
 jockers_topic_modeling_recipe:
   citation: 'Jockers, M. (2013, April 12). “Secret” Recipe for Topic Modeling Themes.'
   link: http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/
+barlow_declaration:
+  citation: 'Barlow, J. P. (1996). A Declaration of the Independence of Cyberspace.'
+  link: 'https://www.eff.org/cyberspace-independence'
+new_yorker_decentralize_internet:
+  citation: 'Kopfstein, J. (2013, December 12). The Mission to Decentralize the Internet. The New Yorker.'
+  link: 'http://www.newyorker.com/tech/elements/the-mission-to-decentralize-the-internet'

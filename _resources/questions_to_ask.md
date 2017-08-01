@@ -18,6 +18,6 @@ title: Questions to Ask
 - What actions does it discourage?
 - Can it be modified or changed? In what ways?
 - What does it replace?
-- What happens to it over time?
+- What happens to it over time? How long is it intended to last?
 - Who can use it?
 - How much does it cost? What else does it require?

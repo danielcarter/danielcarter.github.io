@@ -1,44 +1,48 @@
 ---
-menu: false
-title: MC 4315 Web Design Publishing
-short_title: Web Design Publishing
+menu: true
+title: MC 4315 Web and Design Publishing
+short_title: Web Design and Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
+venue: Media Innovation Lab
+schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html
 assignments:
   - web_design_publishing_project_1
   - web_design_publishing_project_2
-  - web_design_publishing_final_project
-  - web_extra_credit_book_reflection
-  - web_extra_credit_skill_expansion
-resources:
-  - questions_to_ask
-  - client_handout
+  - web_design_publishing_imovie_exercise
+  - web_design_publishing_project_3
 ---
 
-[Full Schedule](/courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html)
-
-This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will learn principles of user-centered design and will think about web design and development in the context of social issues such as diversity and inclusion.
+This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will learn principles of user-centered design and will think about web design and development in the context of social issues such as access and diversity.
 
 By the end of this course, students will be able to:
 
-- develop projects in HTML and CSS, as well as using current frameworks and content management systems.
-- work collaboratively on web projects.
-- work with clients to understand their goals.
-- discuss the role of web design and development in relation to current social issues.
+- design and develop projects in HTML and CSS, as well as using current frameworks and content management systems.
+- use human-centered design methods.
+- think creatively about web publishing.
 
 ### Course Organization
 
-This course involves learning technical skills and also developing perspectives on web publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. While the course requires minimal reading, you should expect to spend several hours each work working on projects and completing required tutorials.
+This course involves learning technical skills and also developing ways of thinking about web design and publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. While the course requires minimal reading, you should expect to spend several hours each working on projects and completing required tutorials.
 
 ### Getting Help
 
-Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also post a message to Twitter using the class hashtag ___, come to my office hours or email me.
+Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
+
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc4317fall2017.slack.com).
 
 ### Evaluation
 
-Project 1 | 15%
-Project 2 | 15%
-Final Project | 25%
+Project 1: Personal Site | 15%
+Project 2: Organization Site | 20%
+Project 3: Multimedia Reporting | 25%
+iMovie Exercise | 10%
+Troubleshooting Quiz | 10%
+Weekly Quizzes | 10%
 Participation and attendance | 10%
+
+### Extra Credit
+
+If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
 
 ### Communication
 

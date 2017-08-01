@@ -1,8 +1,10 @@
 {% include header.html %}
 
-  {% if page.title %}
-    <h2>{{ page.title }}</h2>
-  {% endif %}
+  {% unless page.template-options contains 'no-title' %}
+    {% if page.title %}
+      <h2>{{ page.title }}</h2>
+    {% endif %}
+  {% endunless %}
 
   {{content}}
 

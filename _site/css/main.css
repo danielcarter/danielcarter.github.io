@@ -42,6 +42,11 @@ header {
   padding: 4em 40px 0 0;
   text-align: left;
   line-height: 2em; }
+  header ul {
+    padding: 0;
+    margin: 0; }
+    header ul li {
+      list-style-type: none; }
   header a {
     border: none;
     color: #999; }
@@ -53,9 +58,12 @@ header {
     margin: 0; }
     header h1 a {
       color: #444; }
+  header nav {
+    padding-bottom: 2em; }
   header nav ul {
     margin: 0;
-    padding: 0; }
+    padding: 0;
+    color: #999; }
     header nav ul li {
       list-style-type: none; }
       header nav ul li ul {
@@ -115,3 +123,13 @@ table-sm td {
 
 table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05); }
+
+table td strong, p.schedule_link a {
+  font-weight: normal;
+  background-color: #00d8ff;
+  padding: .25em .5em;
+  border: none;
+  border-radius: .25em; }
+
+table td strong a {
+  border: none; }

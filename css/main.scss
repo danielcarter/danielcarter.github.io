@@ -12,6 +12,8 @@ $light_bg_1: #ffedf8;
 $light_bg_2: #d4f6fc;
 $light_bg_3: #f9ffd6;
 
+$higlight_text: #00d8ff;
+
 $full_width: 1100px;
 $sidebar_width: 240px;
 $gutter: 40px;
@@ -56,6 +58,16 @@ header {
   text-align: left;
   line-height: 2em;
 
+  ul {
+    padding: 0;
+    margin: 0;
+
+    li {
+      list-style-type: none;
+    }
+
+  }
+
   a {
     border: none;
     color: $dark2;
@@ -74,9 +86,14 @@ header {
 
   }
 
+  nav {
+    padding-bottom: 2em;
+  }
+
   nav ul {
     margin: 0;
     padding: 0;
+    color: $dark2;
 
     li {
       list-style-type: none;
@@ -175,4 +192,16 @@ table-sm td {
 
 table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
+}
+
+table td strong, p.schedule_link a {
+  font-weight: normal;
+  background-color: $higlight_text;
+  padding: .25em .5em;
+  border: none;
+  border-radius: .25em;
+}
+
+table td strong a {
+  border: none;
 }
