@@ -8,15 +8,15 @@ permalink: publications.html
 
 (2017) T. Clement and **D. Carter**. Connecting Theory and Practice in Digital Humanities Information Work. *Journal of the Association for Information Science and Technology*, 68(6), 1385–1396.
 
-(2017) (2017) M. Feinberg, **D. Carter**, J. Bullard and A. Gursoy. Translating Texture: Design as Integration. *Proceedings of the ACM Conference in Designing Interactive Systems 2017*.
+(2017) M. Feinberg, **D. Carter**, J. Bullard and A. Gursoy. Translating Texture: Design as Integration. *Proceedings of the ACM Conference in Designing Interactive Systems 2017*.
 
-(2017) R. Olliverre, L. Younge, D. Robles, D. Guerrero, M. Adam, & **D. Carter**. (2017). Labor in the Gig Economy: Opportunities for Information Studies. In *iConference 2017 Proceedings*.
+(2017) R. Olliverre, L. Younge, D. Robles, D. Guerrero, M. Adam, & **D. Carter**. Labor in the Gig Economy: Opportunities for Information Studies. In *iConference 2017 Proceedings*.
 
 (2016) **D. Carter**. Hustle and Brand: The Sociotechnical Shaping of Influence. *Social Media + Society*, 2(3), 1-12.
 
 (2016) **D. Carter**. Infrastructure and the Experience of Documents. *Journal of Documentation* 72(1), 65-80.
 
-(2016) **D. Carter** and D. Sholler. (2016). Data science on the ground: Hype, criticism, and everyday work. *Journal of the Association for Information Science and Technology*, 67(10), 2309–2319.
+(2016) **D. Carter** and D. Sholler. Data science on the ground: Hype, criticism, and everyday work. *Journal of the Association for Information Science and Technology*, 67(10), 2309–2319.
 
 (2015) **D. Carter**. Encoding and Representing Repetition in Lyn Hejinian's My Life. *Scholarly Editing* 36.
 

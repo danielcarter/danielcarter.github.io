@@ -6,13 +6,14 @@ template-options:
   - gallery
 ---
 
-My research engages with design in two ways: through [publications](publications.html) that extend design theory and through the creation of objects and prototypes that are used and reflected on. 
+My research engages with design in two ways: through [publications](publications.html) that extend design theory and through the creation of objects and prototypes that are used and reflected on.
 
 <iframe src="https://player.vimeo.com/video/66526768?loop=1&title=0&byline=0&portrait=0" width="600" height="374" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Software prototype for visualizing and comparing multiple versions of a text (e.g., two editions of a novel). Uses topic modeling and principal component analysis to visualize similarity. Built in Processing.
 
 <iframe src="https://player.vimeo.com/video/59351349?loop=1&title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ![Poetry Visualizations]({{ site.url }}/assets/images/poetry_viz.jpg)
 Poetry visualization prototype built in Processing.
 

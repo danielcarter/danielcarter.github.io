@@ -14,7 +14,7 @@ $light_bg_3: #f9ffd6;
 
 $higlight_text: #00d8ff;
 
-$full_width: 1100px;
+$full_width: 900px;
 $sidebar_width: 240px;
 $gutter: 40px;
 
@@ -25,18 +25,18 @@ html, .root {
 }
 body {
   font-family: $sans;
-  font-size: 1em;
+  font-size: 16px;
   line-height: 1.5em;
   width: $full_width;
   color: $dark;
-  margin: 0 40px;
+  margin: 0 0 0 60px;
 }
 
 p {
   margin: 0 0 1em 0;
 }
 
-h1, h2 { font-weight: normal; font-family: $serif; margin: 0 0 1em 0; }
+h1, h2 { font-weight: normal; font-family: $serif; margin: 0 0 .5em 0; }
 h3, h4, h5, h6 { font-weight: bold; font-family: $sans;  margin: 0 0 1em 0; }
 
 h3 { font-size: 1em; }
@@ -52,9 +52,10 @@ a {
 
 header {
 
+  font-size: .8em;
   width: $sidebar_width;
   float: left;
-  padding: 4em $gutter 0 0;
+  margin: 40px $gutter 0 0;
   text-align: left;
   line-height: 2em;
 
@@ -116,13 +117,22 @@ header {
 } // header
 
 section.main {
+
+  font-family: $serif;
+  font-size: 1.2em;
   width: $full_width - $sidebar_width - $gutter;
   float: left;
-  padding: 4em 0;
+  margin: 40px 0;
   position: relative;
+  line-height: 1.5em;
 
-  p, .box, img, ul, ol, table {
-    max-width: 50em;
+  img {
+    width: 100%;
+  }
+
+  p.venue, p.schedule_link {
+    font-size: .666666667em;
+    font-family: $sans;
   }
 
   .box {
@@ -150,7 +160,7 @@ section.main {
 }
 
 body.no-title section.main {
-  padding-top: 8em;
+  /*padding-top: 8em;*/
 }
 
 /*** Design Page ***/
@@ -166,12 +176,15 @@ body.gallery .main p {
 table {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 2em;
+  font-size: .66667em;
+  font-family: $sans;
+  line-height: 1.5em;
 }
 
 table th,
 table td {
-  padding: 0.75rem;
+  padding: 0.75em;
   vertical-align: top;
 }
 
@@ -186,7 +199,7 @@ table table {
 
 table-sm th,
 table-sm td {
-  padding: 0.3rem;
+  padding: 0.3em;
 }
 
 

@@ -1,6 +1,6 @@
 ---
 menu: true
-title: MC 4315 Web and Design Publishing
+title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
 venue: Media Innovation Lab
