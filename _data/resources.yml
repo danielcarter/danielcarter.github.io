@@ -37,3 +37,9 @@ chrome_inspector_styles:
 chrome_inspector_elements:
   title: "Chrome DevTools - Elements Panel"
   link: "https://www.youtube.com/watch?v=DO54CzdVrBQ"
+html_starter_template:
+  title: "HTML Starter Template"
+  link: "/assets/resources/html_starter_template.zip"
+html_css_starter_template:
+  title: "HTML and CSS Starter Template"
+  link: "/assets/resources/html_css_starter_template.zip"

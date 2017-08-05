@@ -5,6 +5,8 @@ resources:
   - htmldog_html_tutorials
   - htmldog_css_tutorials
   - chrome_inspector_styles
+  - html_starter_template
+  - html_css_starter_template
 ---
 
 For your first project, you'll be creating a simple personal site. In Phase 1, you'll code the site in HTML, and in Phase 2 you'll use CSS to style the site.
@@ -23,8 +25,7 @@ For your first project, you'll be creating a simple personal site. In Phase 1, y
   - at least one table.
   - at least three links to external sites.
   - your email address, linked using mailto:, like we talked about in class. You can make one of your pages a contact page, or you can choose another way to include this.
-3. Validate your HTML using the [w3c validator](https://validator.w3.org/). Fix any errors.
-4. On your server, create a folder called projects, and create a folder within that folder called project_1. Upload your four .html files to this folder. The main page of your site should be named index.html. I should be able to access your site at www.yourdomain.com/projects/project_1/index.html. __Send me a link to your project in a Slack DM__.
+3. On your server, create a folder called projects, and create a folder within that folder called project_1. Upload your four .html files to this folder. The main page of your site should be named index.html. I should be able to access your site at www.yourdomain.com/projects/project_1/index.html. __Send me a link to your project in a Slack DM__.
 
 
 ### Phase 2: CSS
