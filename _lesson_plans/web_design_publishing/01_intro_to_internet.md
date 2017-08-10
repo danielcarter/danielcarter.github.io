@@ -28,8 +28,12 @@ Main points:
 
 - Talk about video. ...
 	- Is it really democratic? Is Reddit a democracy? Does everyone have the same voice?
-	- What can't you say? Where?
 	- Are there really no more gatekeepers?
+	- To what extent is this two-way communication? Are youtube stars really that different than networks?
+	- Anybody ever started a blog? How many people read it?
+	- If you're so excited about working for a newspaper, why are you so excited about Facebook? How do we feel about falling nytimes profits?
+	- What can't you say? Where?
+	- What's the culture of the internet? Do you like it?
 
 - Go over syllabus.
 
