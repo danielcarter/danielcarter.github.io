@@ -18,7 +18,7 @@ This course introduces students to web design and development. In addition to ga
 By the end of this course, students will be able to:
 
 - design and develop projects in HTML and CSS, as well as using current frameworks and content management systems.
-- conduct user research. 
+- conduct user research.
 - use human-centered design methods.
 - think creatively about web publishing.
 
@@ -45,6 +45,10 @@ Participation and attendance | 10%
 ### Extra Credit
 
 If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
+
+### Late Work
+
+Unless you have received an extension, assignments turned in late will have five points deducted per day. Work turned in over a week late will not be graded.
 
 ### Communication
 

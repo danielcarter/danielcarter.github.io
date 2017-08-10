@@ -44,6 +44,10 @@ Participation and attendance | 10%
 
 If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
 
+### Late Work
+
+Unless you have received an extension, assignments turned in late will have five points deducted per day. Work turned in over a week late will not be graded. 
+
 ### Communication
 
 You must use an active Texas State email account. Communication via TRACS uses your Texas State email, and the university is required to send grade information out only through the Texas State email system. Make sure you check your email on a regular basis, as schedule changes will be communicated there as well as on TRACS.

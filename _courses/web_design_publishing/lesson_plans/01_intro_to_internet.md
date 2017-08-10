@@ -14,22 +14,43 @@ title: Introduction to the Internet
 
 #### Day 1
 
-- Present a history of the internet, specifically related to publishing and communication. Talk about centralization and platforms.
-- Trace a story across different platforms. What skills / people are needed to make it appear there?
-- Discuss Pew Research Center Fact Sheets. Have students read and discuss in small groups, then as a class ask what they found interesting. Talk about how different messages might need to be created in different ways to reach different groups. Have them throttle the internet to 2g and go to sites they frequent. (What if we voted using smartphones? What if important news was only available using broadband?)
+Main points:
+
+- The internet is not one thing for everyone.
+- People's choices shape the internet.
+- The internet has changed a lot.
+
+- Split into three groups (talk about Pew fact sheets as you introduce groups):
+	- One group is relatively high-income Americans. (No change.)
+	- One group is low-income Americans. (Throttle to 2g, make screen really small.)
+	- One group is in China. (Look up whether site is blocked before accessing.)
+- Have them look for information about a recent news event. Five minutes or so. What are they able to learn? What was hard / different?
+
+- Talk about video. ...
+	- Is it really democratic? Is Reddit a democracy? Does everyone have the same voice?
+	- What can't you say? Where?
+	- Are there really no more gatekeepers?
+
+- Go over syllabus.
 
 #### Day 2
 
-- Model the presentation format.
-- Model how servers work by having students play different roles.
+- Model how a webpage gets to a student's browser:
+	- Student
 	- Browser
-	- HTML file
 	- DNS server
-	- Server (python)
+	- Web server (show server farm images)
 	- Database
-	- Ruby script
-	- non-http server
-- Start using Atom. Create several file types and open them in a browser:
-	- txt
-	- html
-	- python
+- Model this process using FTP and your server.
+	- Make a basic HTML file. Open it in Chrome. View -> Developer -> View Source
+	- Make a basic Python file. Open it in Chrome. Open it over server.
+- Talk about things that might go wrong:
+	- wrong filename
+	-
+- Talk about the difference between publishing a website this way and on putting something on Facebook.
+	- Where do you need to be?
+	- What do you need to know?
+	- What are the pros and cons?
+	- What if you were publishing something controversial?
+	- What if you were publishing something really long?
+	- How would you publish something you want to last?

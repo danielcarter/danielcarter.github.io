@@ -13,25 +13,24 @@ title: Introduction to HTML
 
 #### Day 1
 
-- Model presentation format again.
-- Students write descriptions of their bags. Introduce XML(elements and attributes) and have them translate their descriptions into XML.
-	- Model this with my wallet.
+- Talk about structure and content. (e.g., essay)
+	- Bring in newspapers and talk about the different parts of the article.
+	- Have them work in groups to make up the structure of another article.
+	- Go to the same article on the web. Does it have the same parts?
 - Open text editor and create new file: html_notes.html. Talk about how we're going to do notes.
 - Introduce HTML and basic elements. (Live coding.)
-	- HTML DESCRIBES WHAT THINGS ARE -- NOT HOW THEY LOOK.
+	- h1 ... 
 	- comments
-	- head, body
 	- p
-	- h1 ...
 	- ul, ol
 	- article, header, footer, nav, section, summary
+	- head, body
 - Introduce starter HTML site.
 - Practice writing HTML for sample documents (e.g., magazine articles).
 - Practice uploading to their server.
 
 #### Day 2
 
-- Model presentation format again.
 - Introduce tables. Have them extend html_notes.html. (Live coding.)
 - Introduce links. Talk about file structure.
 	- link to a file in the same folder, one folder down, one folder up.

@@ -8,7 +8,7 @@ venue: Media Innovation Lab
 
 Date | Description | Due
 ---: | :----------- | :---
-M 8/28 | Introduction to the Internet | Watch [The Internet Behind the Web](https://www.youtube.com/watch?v=SDucuVi5FrI)
+M 8/28 | Introduction to the Internet | Watch [The True Story of the Internet: People](https://www.youtube.com/watch?v=f42J_reRO0Q)
 W 8/30 | Introduction to the Internet| Read [How the Internet Works](http://www.rookiemag.com/2016/11/how-internet-works/)
 M 9/4 | NO CLASS |
 W 9/6 | Introduction to HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/)
