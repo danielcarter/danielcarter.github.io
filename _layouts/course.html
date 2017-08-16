@@ -3,8 +3,8 @@
   <h2>{{ page.title }}</h2>
   <p class="venue">
     {% if page.dates %}{{ page.dates }}{% endif %}{% if page.venue %}, {{ page.venue }}{% endif %}
-    {% if page.office_hours %}
-      <br />Office hours: {{ page.office_hours }}
+    {% if page.office_hours != false %}
+      <br />Office hours: {{ site.office_hours }}
     {% endif %}
   </p>
 

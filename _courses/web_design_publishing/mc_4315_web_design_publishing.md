@@ -5,7 +5,6 @@ short_title: Web Design and Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
 venue: Media Innovation Lab
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html
-office_hours: MC 236C | MW 1:00 - 3:00pm, Th 3:00 - 5:00pm and by appointment
 assignments:
   - web_design_publishing_project_1
   - web_design_publishing_project_2

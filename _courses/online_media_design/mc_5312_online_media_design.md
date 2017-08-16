@@ -5,7 +5,6 @@ short_title: Online Media Design
 dates: Fall 2017, Th 6:30 - 9:20pm
 venue: Media Innovation Lab
 schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule_fall2017.html
-office_hours: MC 236C | MW 1:00 - 3:00pm, Th 3:00 - 5:00pm and by appointment
 assignments:
   - online_media_project_1
   - online_media_user_research
