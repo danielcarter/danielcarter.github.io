@@ -4,6 +4,8 @@ title: "MC 5312 Online Media Design: Schedule"
 short_title: Web Design Publishing
 venue: Media Innovation Lab
 dates: Fall 2017, Th 6:30 - 9:20pm
+office_hours: MC 236C | MW 1:00 - 3:00pm, Th 3:00 - 5:00pm and by appointment
+
 ---
 
 Date | Description | Due

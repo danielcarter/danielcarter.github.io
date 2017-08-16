@@ -40,7 +40,7 @@ h1, h2 { font-weight: normal; font-family: $serif; margin: 0 0 .5em 0; }
 h3, h4, h5, h6 { font-weight: bold; font-family: $sans;  margin: 0 0 1em 0; }
 
 h3 { font-size: 1em; }
-h4 { text-transform: uppercase; font-weight: normal; }
+h4 { font-weight: normal; font-size: 1em; }
 
 a {
   color: $dark;
@@ -83,6 +83,10 @@ header {
 
     a {
       color: $dark;
+    }
+
+    span a {
+      display: none;
     }
 
   }
@@ -217,4 +221,49 @@ table td strong, p.schedule_link a {
 
 table td strong a {
   border: none;
+}
+
+
+
+
+/****** MOBILE ******/
+
+@media only screen and (max-width: 960px) {
+
+  body {
+    margin: 20px;
+    width: auto;
+  }
+
+  header, section.main {
+    width: auto;
+    float: none;
+  }
+
+  header {
+
+    h1 {
+
+      margin: 0 0 1em 0;
+
+      span a {
+      padding: 6px 11px;
+      color: $dark;
+      background-color: $higlight_text;
+      display: inline;
+      margin: 0px 10px 0 0px;
+      vertical-align: middle;
+      }
+
+    }
+
+    nav { display: block;}
+    nav.hidden { display: none; }
+
+  }
+
+  section.main { font-size: 16px; }
+
+  iframe { max-width: 100%; }
+
 }

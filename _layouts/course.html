@@ -3,7 +3,12 @@
   <h2>{{ page.title }}</h2>
   <p class="venue">
     {% if page.dates %}{{ page.dates }}{% endif %}{% if page.venue %}, {{ page.venue }}{% endif %}
+    {% if page.office_hours %}
+      <br />Office hours: {{ page.office_hours }}
+    {% endif %}
   </p>
+
+
 
   {% if page.schedule_link %}
     <p class="schedule_link"><a href="{{site.url}}{{ page.schedule_link }}">Full Schedule</a></p>

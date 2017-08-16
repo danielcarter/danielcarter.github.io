@@ -27,8 +27,8 @@ h3 {
   font-size: 1em; }
 
 h4 {
-  text-transform: uppercase;
-  font-weight: normal; }
+  font-weight: normal;
+  font-size: 1em; }
 
 a {
   color: #444;
@@ -59,6 +59,8 @@ header {
     margin: 0; }
     header h1 a {
       color: #444; }
+    header h1 span a {
+      display: none; }
   header nav {
     padding-bottom: 2em; }
   header nav ul {
@@ -143,3 +145,33 @@ table td strong, p.schedule_link a {
 
 table td strong a {
   border: none; }
+
+/****** MOBILE ******/
+@media only screen and (max-width: 960px) {
+  body {
+    margin: 20px;
+    width: auto; }
+
+  header, section.main {
+    width: auto;
+    float: none; }
+
+  header h1 {
+    margin: 0 0 1em 0; }
+    header h1 span a {
+      padding: 6px 11px;
+      color: #444;
+      background-color: #00d8ff;
+      display: inline;
+      margin: 0px 10px 0 0px;
+      vertical-align: middle; }
+  header nav {
+    display: block; }
+  header nav.hidden {
+    display: none; }
+
+  section.main {
+    font-size: 16px; }
+
+  iframe {
+    max-width: 100%; } }

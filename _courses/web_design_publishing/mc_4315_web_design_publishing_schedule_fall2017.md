@@ -4,6 +4,8 @@ title: "MC 4315 Web Design and Publishing: Schedule"
 short_title: Web Design Publishing
 dates: Fall 2017, MW 3:30 - 4:50pm
 venue: Media Innovation Lab
+office_hours: MC 236C | MW 1:00 - 3:00pm, Th 3:00 - 5:00pm and by appointment
+
 ---
 
 Date | Description | Due
