@@ -27,13 +27,25 @@ Main points:
 - Have them look for information about a recent news event. Five minutes or so. What are they able to learn? What was hard / different?
 
 - Talk about video. ...
-	- Is it really democratic? Is Reddit a democracy? Does everyone have the same voice?
+	- Is it really democratic? Does everyone have their "little piece of power"?
 	- Are there really no more gatekeepers?
 	- To what extent is this two-way communication? Are youtube stars really that different than networks?
 	- Anybody ever started a blog? How many people read it?
 	- If you're so excited about working for a newspaper, why are you so excited about Facebook? How do we feel about falling nytimes profits?
 	- What can't you say? Where?
 	- What's the culture of the internet? Do you like it?
+	- "a service that captures the totality of human relationships"
+	- What's the difference between Facebook and Wikipedia? Do we have enough rules to "discourage bad things"?
+	- How do you feel about this idea of dominos falling? Are we really just watching something that's bound to happen?
+
+- For grads, talk about reading: ()
+	- Does this sound like today? Does it sound like 20 years ago?
+	- Is the internet "an act of nature" that "grows through our collective actions"?
+	- Have we created "a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity"?
+	- Is there no property?
+	- What are the "guard posts" of the internet?
+	- He says that information -- what we say -- is not related to industry. Is that true?
+	- What's changed since then?
 
 - Go over syllabus.
 
