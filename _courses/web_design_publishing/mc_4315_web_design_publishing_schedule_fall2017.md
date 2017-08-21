@@ -10,10 +10,10 @@ venue: Media Innovation Lab
 Date | Description | Due
 ---: | :----------- | :---
 M 8/28 | Introduction to the Internet | Watch [The True Story of the Internet: People](https://www.youtube.com/watch?v=f42J_reRO0Q)
-W 8/30 | Introduction to the Internet| Read [How the Internet Works](http://www.rookiemag.com/2016/11/how-internet-works/)
+W 8/30 | Introduction to the Internet| [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [How the Internet Works](http://www.rookiemag.com/2016/11/how-internet-works/)
 M 9/4 | NO CLASS |
 W 9/6 | Introduction to HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/)
-M 9/11 | Introduction to HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br />Read [HTML Doctor: Let's Talk About Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+M 9/11 | Introduction to HTML | Read [HTML Doctor: Let's Talk About Semantics](http://html5doctor.com/lets-talk-about-semantics/)
 W 9/13 | Introduction to CSS | __[Turn in Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [HTML Dog CSS Tutorials, all beginner tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://htmldog.com/guides/html/beginner/)
 M 9/18 | Introduction to CSS | Watch [Chrome DevTools - Elements Panel](https://www.youtube.com/watch?v=DO54CzdVrBQ)
 W 9/20 | Introduction to Design | __[Turn in Project 1: Basic Site (Phase 2)](/assignments/web/web_design_publishing_project_1.html)__ <br />Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)

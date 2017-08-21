@@ -18,7 +18,12 @@ Main points:
 
 - The internet is not one thing for everyone.
 - People's choices shape the internet.
-- The internet has changed a lot.
+- The internet has changed a lot, and it's still changing.
+
+- Go over syllabus.
+- Go through presentation.
+	- After evolution section, talk about the documentary. Questions below.
+	- After the demographics section, do the group activity below.
 
 - Split into three groups (talk about Pew fact sheets as you introduce groups):
 	- One group is relatively high-income Americans. (No change.)
@@ -38,16 +43,6 @@ Main points:
 	- What's the difference between Facebook and Wikipedia? Do we have enough rules to "discourage bad things"?
 	- How do you feel about this idea of dominos falling? Are we really just watching something that's bound to happen?
 
-- For grads, talk about reading: ()
-	- Does this sound like today? Does it sound like 20 years ago?
-	- Is the internet "an act of nature" that "grows through our collective actions"?
-	- Have we created "a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity"?
-	- Is there no property?
-	- What are the "guard posts" of the internet?
-	- He says that information -- what we say -- is not related to industry. Is that true?
-	- What's changed since then?
-
-- Go over syllabus.
 
 #### Day 2
 
@@ -57,12 +52,14 @@ Main points:
 	- DNS server
 	- Web server (show server farm images)
 	- Database
-- Model this process using FTP and your server.
-	- Make a basic HTML file. Open it in Chrome. View -> Developer -> View Source
-	- Make a basic Python file. Open it in Chrome. Open it over server.
+- For twice-weekly classes, model this process using FTP and their servers.
+	- Make a basic HTML file.
+	- Make a basic Python file.
 - Talk about things that might go wrong:
 	- wrong filename
-	-
+	- wrong file type
+	- wrong directory
+
 - Talk about the difference between publishing a website this way and on putting something on Facebook.
 	- Where do you need to be?
 	- What do you need to know?
