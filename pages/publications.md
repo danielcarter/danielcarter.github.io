@@ -4,7 +4,7 @@ title: Publications
 permalink: publications.html
 ---
 
-### Peer Reviewed Articles and Conference Proceedings
+### Peer Reviewed Articles and Published Conference Proceedings
 
 (2017) T. Clement and **D. Carter**. Connecting Theory and Practice in Digital Humanities Information Work. *Journal of the Association for Information Science and Technology*, 68(6), 1385–1396.
 
