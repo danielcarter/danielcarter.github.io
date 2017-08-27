@@ -19,12 +19,12 @@ M 9/18 | Introduction to CSS | Watch [Chrome DevTools - Elements Panel](https://
 W 9/20 | Introduction to Design | __[Turn in Project 1: Basic Site (Phase 2)](/assignments/web/web_design_publishing_project_1.html)__ <br />Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)
 M 9/25 | Introduction to Design | Read [Top 10 Principles of Effective Web Design](https://shortiedesigns.com/2014/03/10-top-principles-effective-web-design/), [Principles of Interaction Design](http://bokardo.com/principles-of-user-interface-design/), [Ten Principles of Inclusive Web Design](http://sandiwassmer.co.uk/resources/the-ten-principles-of-inclusive-web-design)
 W 9/27 | In-Class Design Project |
-M 10/2 | In-Class Design Project |
-W 10/4 | Multimedia |
-M 10/9 | Multimedia |
-W 10/11 | User Research | __[Turn in iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__<br /> Read [IDEO Field Guide to Human-Centered Design, pages 29-127](/assets/readings/field_guide_to_user_centered_design.pdf) (Skim this but pick several methods to focus on.)
-M 10/16 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)<br /> Read [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
-W 10/18 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
+M 10/2 | Multimedia | Watch [Introducing Photoshop: Design, sections 1-4 and 8](https://www.lynda.com/Photoshop-tutorials/Up-Running-Photoshop-CC-Design/108138-2.html)
+W 10/4 | Multimedia | Watch [iMovie Essential Training, sections 1-5](https://www.lynda.com/iMovie-tutorials/iMovie-10-1-1-Essential-Training/487935-2.html)
+M 10/9 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)<br /> Read [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
+W 10/11 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
+M 10/16 | NO CLASS | Attend Mass Comm. Week
+W 10/18 | NO CLASS | __[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__<br />Attend Mass Comm. Week
 M 10/23 | CSS Frameworks |
 W 10/25 | Responsive Design | Watch [Bootstrap Responsive Layout Tutorial](https://www.youtube.com/watch?v=Ct7APU7t-ts) <br />Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/), [Guidelines to building a responsive web design](https://responsivedesign.is/guidelines/)
 M 10/30 | Responsive Design |
