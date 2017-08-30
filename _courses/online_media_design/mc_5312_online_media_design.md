@@ -3,7 +3,7 @@ menu: true
 title: MC 5312 Online Media Design
 short_title: Online Media Design
 dates: Fall 2017, Th 6:30 - 9:20pm
-venue: Media Innovation Lab
+venue: Old Main 238
 schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule_fall2017.html
 assignments:
   - online_media_project_1

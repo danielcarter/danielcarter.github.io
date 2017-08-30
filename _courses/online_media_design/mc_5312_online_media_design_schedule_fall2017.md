@@ -2,7 +2,7 @@
 menu: false
 title: "MC 5312 Online Media Design: Schedule"
 short_title: Web Design Publishing
-venue: Media Innovation Lab
+venue: Old Main 238
 dates: Fall 2017, Th 6:30 - 9:20pm
 
 ---
