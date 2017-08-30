@@ -1,5 +1,5 @@
 ---
-title: 'Project 2: Partner Project'
+title: 'Project 2: Organization Site'
 short_title: online_media_project_2
 resources:
   - boostrap_documentation
