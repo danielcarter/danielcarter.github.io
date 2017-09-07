@@ -16,10 +16,9 @@ title: Introduction to HTML
 - Talk about structure and content. (e.g., essay)
 	- Bring in newspapers and talk about the different parts of the article.
 	- Have them work in groups to make up the structure of another article.
-	- Go to the same article on the web. Does it have the same parts?
 - Open text editor and create new file: html_notes.html. Talk about how we're going to do notes.
 - Introduce HTML and basic elements. (Live coding.)
-	- h1 ... 
+	- h1 ...
 	- comments
 	- p
 	- ul, ol

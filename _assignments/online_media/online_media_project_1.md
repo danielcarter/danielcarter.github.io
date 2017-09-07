@@ -35,7 +35,7 @@ For your first project, you'll be creating a simple personal site. In Phase 1, y
 
 ### Evaluation
 
-- A+: Site meets all requirements and includes more than minimal CSS. It doesn't need to be stunning, but you should spend some time playing with different styling options.
+- A+: Site meets all requirements and includes more than minimal CSS. Markup is well-formatted and expresses the structure of the content. The site doesn't need to be visually stunning, but you should spend some time playing with different styling options.
 - A: Site meets all requirements.
-- B: Site does not meet all requirements. HTML does not validate or some required elements missing.
-- C: Site is missing pages or is missing several required elements.
+- B: Site does not meet all requirements. Site is missing a required element or has one or two HTML errors.
+- C: Site is missing pages, is missing several required elements or contains numerous HTML errors.

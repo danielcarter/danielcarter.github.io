@@ -12,58 +12,40 @@ title: Introduction to the Internet
 
 ### Lesson Plans
 
-#### Day 1
+(If splitting over two days, break after talking about documentary.)
 
-Main points:
-
-- The internet is not one thing for everyone.
-- People's choices shape the internet.
-- The internet has changed a lot, and it's still changing.
-
-- Go over syllabus.
-- Go through presentation.
-	- After evolution section, talk about the documentary. Questions below.
-	- After the demographics section, do the group activity below.
-
-- Split into three groups (talk about Pew fact sheets as you introduce groups):
-	- One group is relatively high-income Americans. (No change.)
-	- One group is low-income Americans. (Throttle to 2g, make screen really small.)
-	- One group is in China. (Look up whether site is blocked before accessing.)
-- Have them look for information about a recent news event. Five minutes or so. What are they able to learn? What was hard / different?
-
-- Talk about video. ...
-	- Is it really democratic? Does everyone have their "little piece of power"?
-	- Are there really no more gatekeepers?
+- Intros
+- Go over syllabus
+- Talk about documentary ...
+	- Is it really democratic? Does everyone have their "little piece of power"? Do we have broadcast towers? What do you actually watch on Youtube?
+	- Are there really no more gatekeepers? So, the Washington Post is irrelevant now?
+	- How do people get music now?
 	- To what extent is this two-way communication? Are youtube stars really that different than networks?
 	- Anybody ever started a blog? How many people read it?
 	- If you're so excited about working for a newspaper, why are you so excited about Facebook? How do we feel about falling nytimes profits?
-	- What can't you say? Where?
-	- What's the culture of the internet? Do you like it?
-	- "a service that captures the totality of human relationships"
 	- What's the difference between Facebook and Wikipedia? Do we have enough rules to "discourage bad things"?
+	- What can't you say? Where?
+	- Has the web turned out to be something that "big business can never hope to control" or the "medium of the little guy"?
+
+
+	- What is "web-enabled people power"?
+	- Do we talk about Facebook the same way now? Is MZ still a "kid"?
+	- Also, CL is still around...
+	- What choices did we used to make? What do we make now? Who will make choices in the future?
+	- Who will need to code in the future?
+	- "a service that captures the totality of human relationships"
 	- How do you feel about this idea of dominos falling? Are we really just watching something that's bound to happen?
 
-
-#### Day 2
-
-- Model how a webpage gets to a student's browser:
-	- Student
-	- Browser
+- Slides talking about internet and changing ways of communicating.
+- Can leave off demographic bits if need more time.
+- Activity: Have students stand in for different parts of network:
+	- browser
 	- DNS server
-	- Web server (show server farm images)
-	- Database
-- For twice-weekly classes, model this process using FTP and their servers.
-	- Make a basic HTML file.
-	- Make a basic Python file.
-- Talk about things that might go wrong:
-	- wrong filename
-	- wrong file type
-	- wrong directory
-
-- Talk about the difference between publishing a website this way and on putting something on Facebook.
-	- Where do you need to be?
-	- What do you need to know?
-	- What are the pros and cons?
-	- What if you were publishing something controversial?
-	- What if you were publishing something really long?
-	- How would you publish something you want to last?
+	- web server
+	- HTML page (start with index.html, go to another one)
+	- FTP client
+- Talk about FTP clients and text editors
+	- Open their webspace
+	- create an html file (not index.html -- talk about why nothing comes up)
+	- create an index.html file
+	- create a folder
