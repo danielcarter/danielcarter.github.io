@@ -11,30 +11,14 @@ title: Introduction to HTML
 
 ### Lesson Plans
 
-#### Day 1
+- Introduce concept of structure. Walk through a few examples and have them describe the structure.
+- Download the basic site template and walk through basic tags. (If one-day course, walk through all tags.) Include some weird things:
+	- image in a link
+	- different elements in a list, in a table
 
-- Talk about structure and content. (e.g., essay)
-	- Bring in newspapers and talk about the different parts of the article.
-	- Have them work in groups to make up the structure of another article.
-- Open text editor and create new file: html_notes.html. Talk about how we're going to do notes.
-- Introduce HTML and basic elements. (Live coding.)
-	- h1 ...
-	- comments
-	- p
-	- ul, ol
-	- article, header, footer, nav, section, summary
-	- head, body
-- Introduce starter HTML site.
-- Practice writing HTML for sample documents (e.g., magazine articles).
-- Practice uploading to their server.
+If two-day course, break here.
 
-#### Day 2
-
-- Introduce tables. Have them extend html_notes.html. (Live coding.)
-- Introduce links. Talk about file structure.
-	- link to a file in the same folder, one folder down, one folder up.
-- Introduce elements that reference other files:
-	- img
-	- audio
-	- video
-- Activity: ???????
+- Talk about semantics, HTML5 elements
+	- If time, look at accessibility with a screen reader
+- Have them code a few examples. (e.g., Yelp results list)
+- FTP practice
