@@ -12,7 +12,7 @@ title: Introduction to HTML
 ### Lesson Plans
 
 - Introduce concept of structure. Walk through a few examples and have them describe the structure.
-- Download the basic site template and walk through basic tags. (If one-day course, walk through all tags.) Include some weird things:
+- Download the basic site template, talk about good project workflow and walk through basic tags. (If one-day course, walk through all tags.) Include some weird things:
 	- image in a link
 	- different elements in a list, in a table
 
