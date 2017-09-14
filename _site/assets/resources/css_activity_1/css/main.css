@@ -2,3 +2,7 @@ body {
   font-family: helvetica, sans-serif;
   font-size: 14px;
 }
+
+aside {
+  display: none;
+}
