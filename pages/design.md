@@ -23,4 +23,4 @@ Visual edition of two versions of Lyn Hejinian’s _My Life_. Uses string compar
 
 ![Tender Buttons book]({{ site.url }}/assets/images/stein.jpg)
 ![Tender Buttons book]({{ site.url }}/assets/images/stein_screen.png)
-Interactive edition of Gertrude Stein’s _Tender Buttons_. Published with Monofonus Press and used as a classroom intervention in [a study presented at the iConference](https://www.ideals.illinois.edu/bitstream/handle/2142/73657/188_ready.pdf?sequence=2&isAllowed=y). [Companion site](http://www.inletters.com/projects/stein). [Austin Chronicle Review](https://www.austinchronicle.com/daily/books/2014-04-23/whos-afraid-of-gertrude-stein/).
+Interactive edition of Gertrude Stein’s _Tender Buttons_. Published with Monofonus Press and used as a classroom intervention in [a study presented at the iConference](https://www.ideals.illinois.edu/bitstream/handle/2142/73657/188_ready.pdf?sequence=2&isAllowed=y). [Companion site]({{site.url}}/assets/projects/stein/). [Austin Chronicle Review](https://www.austinchronicle.com/daily/books/2014-04-23/whos-afraid-of-gertrude-stein/).

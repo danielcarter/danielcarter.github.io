@@ -1,0 +1,617 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/**
+blue: #3ecaff;
+red: #ED1067;
+**/
+
+body {
+    background: #fff url('../img/tiny_grid.png') top left repeat;
+    font-size: 12px;
+    font-family: 'Anonymous Pro', helvetica, arial, sans-serif;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #ED1067;
+}
+
+h1, h2, h3, h4, h5, h6, p, li, input {
+    padding: 0 0 12px 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anonymous Pro'; 
+    font-weight: normal;   
+}
+
+ul {
+    padding: 0 0 0 12px;
+    margin: 0;
+}
+
+.page {
+    display: none;
+}
+
+.page.active {
+    display: block;
+}
+
+#winner-screen {
+    display: none;
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    z-index: 200;
+}
+
+#winner-screen.blue {
+    background-color: #3ecaff;
+}
+
+#winner-screen.active {
+    display: block;
+}
+
+.col {
+    position: absolute;
+    left: 522px;
+    z-index: 2;
+}
+
+.col2 {
+    left: 886px;
+}
+
+.box {
+    background-color: #fff;
+    color: #ED1067;
+    width: 285px;
+    border: 2px solid #ED1067;
+    padding: 2em 2em 1em 2em;
+    margin: 27px 0;
+    position: relative;
+}
+
+    .proceed {
+        text-indent: -9999em;
+        background: #3ecaff url('../img/arrow_right.png') top left no-repeat;
+        height: 26px;
+        width: 27px;
+        position: absolute;
+        border-left: 2px solid #333;
+        border-bottom: 2px solid#333;
+        border-top: 2px solid #ededed;
+        border-right: 2px solid #ededed;
+        top: -5px;
+        right: -29px;
+        display: none;
+    }
+
+    .prompt.active.input-filled .proceed, .active.stein .proceed, .active.personal .proceed {
+        display: block;
+    }
+
+    .shot.personal .proceed, .shot.stein .proceed {
+        display: none;
+    }
+    
+    .proceed.down {
+        background: #3ecaff url('../img/arrow_down.png') top left no-repeat;        
+    }
+
+    .proceed.left {
+        background: #3ecaff url('../img/arrow_left.png') top left no-repeat;        
+    }
+
+    .proceed.up {
+        background: #3ecaff url('../img/arrow_up.png') top left no-repeat;        
+    }        
+
+    .stein .proceed, .page .proceed.back {
+        background-color: #ED1067;
+    }
+
+    .proceed.right:hover {
+        background: #3ecaff url('../img/arrow_right.png') 0px -26px no-repeat;        
+    }
+
+    .proceed.down:hover {
+        background: #3ecaff url('../img/arrow_down.png') 0px -26px no-repeat;        
+    }
+
+    .proceed.left:hover {
+        background: #3ecaff url('../img/arrow_left.png') 0px -26px no-repeat;        
+    }
+
+    .proceed.up:hover {
+        background: #3ecaff url('../img/arrow_up.png') 0px -26px no-repeat;        
+    }
+
+    .stein .proceed:hover {
+        background: #ED1067 url('../img/arrow_right.png') 0px -26px no-repeat;        
+    }    
+
+    .page .proceed.back {
+        position: absolute;
+        left: 0;
+        top: 23px;
+        display: block;
+        z-index: 100;
+    }
+
+    .page .proceed.back:hover {
+        background: #ED1067 url('../img/arrow_left.png') 0px -26px no-repeat;        
+    }
+
+#intro {
+    text-align: center;
+    background-color: #fff;
+    color: #333;
+    border: 2px solid #333;
+}
+
+    #intro .proceed {
+        display: block;
+    }
+
+.stein {
+    position: fixed;
+    top: 0;
+    left: 27px;
+    width: 415px;
+    z-index: 99;
+}
+
+    .stein p, .stein h1 {
+        font-size: 1.25em;
+    }
+
+    .stein .highlight {
+        color: #3ecaff;
+    }
+
+.prompt {
+    background-color: #fff;
+    border: 2px solid #333;
+    color: #333;
+}
+
+    .prompt h1 {
+        font-size: 1.25em;
+    }
+
+    .prompt input {
+        border: 2px solid #3ecaff;
+        background-color: #fff;
+        padding: 6px 12px;
+        width: 258px;
+        margin-bottom: 12px;
+        font-family: 'Anonymous Pro';
+    }
+
+.secret {
+    border: 2px solid #333;
+    color: #3ecaff;
+    background: #fff url('../img/bg_secret.png') top left repeat;
+    cursor: pointer;
+}   
+
+.secret.not-secret {
+    background: #fff;
+} 
+
+    .secret .answer {
+        text-align: center;
+    }
+
+        .secret .answer img {
+            margin: 0 auto 24px auto;
+        }
+
+
+.personal {
+    background-color: #3ecaff;
+    color: #333;
+    border: 2px solid #333;
+}
+
+    .personal a {
+        color: #fff;
+    }
+    
+.asparagus {
+    position: fixed;
+    z-index: 1;
+    background: transparent url('../img/asparagus.png') top left no-repeat;
+    height: 26px;
+    width: 26px;
+    overflow: hidden;
+    cursor: pointer;
+}    
+
+.asparagus.ice {
+    background: transparent url('../img/asparagus.png') 0 -26px no-repeat;
+}
+
+.asparagus.star {
+    background: transparent url('../img/asparagus.png') 0 -52px no-repeat;
+}
+
+.asparagus.proceed {
+    background: transparent url('../img/arrow_blue_right.png') top left no-repeat;
+    display: block;
+    border:none;
+}
+
+.asparagus.proceed:hover {
+    background: transparent url('../img/arrow_blue_right.png') 0 -26px no-repeat;
+}
+
+.chicken {
+    position: absolute;
+    height: 26px;
+    width: 26px;
+    background: transparent url('../img/chicken.png') top left no-repeat;
+}
+
+.choice {
+    height: 110px;
+    width: 110px;
+    overflow: hidden;
+    margin: 0px auto;
+    background: transparent url('../img/choice-chicken.png') top left no-repeat;
+    position: relative;
+    display: block;
+}
+
+.choice.pheasant {
+    background: transparent url('../img/choice-pheasant.png') top left no-repeat;
+}
+
+.choice:hover, .choice.hover {
+    background: transparent url('../img/choice-chicken.png') 0px -110px no-repeat;
+}
+
+.choice.pheasant:hover, .choice.pheasant.hover {
+    background: transparent url('../img/choice-pheasant.png') 0px -110px no-repeat;
+}
+
+.choice.winner {
+    z-index: 202;
+    position: absolute;
+}
+
+.choice:hover {
+    background: transparent url('../img/choice-chicken.png') 0px -110px no-repeat;
+}
+
+.choice.pheasant:hover, .choice.pheasant.hover {
+    background: transparent url('../img/choice-pheasant.png') 0px -110px no-repeat;
+}
+
+.winner-winner {
+    color: #fff;
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.winner-winner a {
+    color: #fff;
+}
+
+.winner-winner.blue {
+    color: #3ecaff;
+}
+
+body.winner {
+    background-color: #ED1067;
+    background-image: none;
+}
+
+#chicken-winner, #pheasant-winner {
+    display: none;
+    top: 100px;
+    margin: 100px auto 10px;
+    width: 96px;
+}
+
+body.winner #chicken-winner, body.winner #pheasant-winner {
+    display: block;
+}
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
