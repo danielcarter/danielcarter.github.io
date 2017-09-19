@@ -17,7 +17,7 @@ M 9/11 | Introduction to HTML | Read [HTML Doctor: Let's Talk About Semantics](h
 W 9/13 | Introduction to CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
 M 9/18 | Introduction to CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br />Watch [Chrome DevTools - Elements Panel](https://www.youtube.com/watch?v=DO54CzdVrBQ)
 W 9/20 | Introduction to Design | __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)
-M 9/25 | Introduction to Design | Read [Top 10 Principles of Effective Web Design](https://shortiedesigns.com/2014/03/10-top-principles-effective-web-design/), [Principles of Interaction Design](http://bokardo.com/principles-of-user-interface-design/), [Ten Principles of Inclusive Web Design](http://sandiwassmer.co.uk/resources/the-ten-principles-of-inclusive-web-design)
+M 9/25 | Introduction to Design | 
 W 9/27 | In-Class Design Project |
 M 10/2 | Multimedia | Watch [Introducing Photoshop: Design, sections 1-4 and 8](https://www.lynda.com/Photoshop-tutorials/Up-Running-Photoshop-CC-Design/108138-2.html)
 W 10/4 | Multimedia | Watch [iMovie Essential Training, sections 1-5](https://www.lynda.com/iMovie-tutorials/iMovie-10-1-1-Essential-Training/487935-2.html)
