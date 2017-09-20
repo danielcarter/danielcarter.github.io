@@ -16,9 +16,9 @@ W 9/6 | Introduction to HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting 
 M 9/11 | Introduction to HTML | Read [HTML Doctor: Let's Talk About Semantics](http://html5doctor.com/lets-talk-about-semantics/)
 W 9/13 | Introduction to CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
 M 9/18 | Introduction to CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br />Watch [Chrome DevTools - Elements Panel](https://www.youtube.com/watch?v=DO54CzdVrBQ)
-W 9/20 | Introduction to Design | __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)
-M 9/25 | Introduction to Design | 
-W 9/27 | In-Class Design Project |
+W 9/20 | Introduction to Design | Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)
+M 9/25 | Introduction to Design |
+W 9/27 | In-Class Design Project | __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__
 M 10/2 | Multimedia | Watch [Introducing Photoshop: Design, sections 1-4 and 8](https://www.lynda.com/Photoshop-tutorials/Up-Running-Photoshop-CC-Design/108138-2.html)
 W 10/4 | Multimedia | Watch [iMovie Essential Training, sections 1-5](https://www.lynda.com/iMovie-tutorials/iMovie-10-1-1-Essential-Training/487935-2.html)
 M 10/9 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)<br /> Read [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
