@@ -24,7 +24,7 @@ For this project, you'll be conducting user research in preparation for your org
   - Guided Tour (p. 64)
 3. Conduct your research following IDEO's guidelines. Document your research—record interviews, make notes and take photographs.
 4. Analyze your collected data. What patterns do you notice? What have you learned that helps you answer your questions?
-5. Write a 1500-word report on your research:
+5. Write a 1200-word report on your research:
   - Begin with your questions and a description of your chosen methods.
   - Next, include a section titled Results, in which you describe what you've learned. Connect your results with evidence from your research: include direct quotes, photographs or details from your notes that support your claims.
-  - End your report with a section titled Implications for Design. Describe two to three guidelines that you will use as you design the organization site and that result from your research. 
+  - End your report with a section titled Implications for Design. Describe two to three guidelines that you will use as you design the organization site and that result from your research.
