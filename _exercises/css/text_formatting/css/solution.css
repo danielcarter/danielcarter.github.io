@@ -1,0 +1,65 @@
+html {
+  font-size: 14px;
+
+}
+
+body {
+  font-family: arial, helvetica, sans-serif;
+}
+
+.container {
+  width: 1000px;
+  margin: 0px auto;
+  padding: 40px 0;
+}
+
+header, .main {
+  background-color: #ededed;
+}
+
+header {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding: 40px;
+}
+
+header h1 {
+	font-size: 3rem; /* 3 x 14px = 42px */
+}
+
+.main {
+  width:680px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+/*** article ***/
+
+article {
+  font-family: georgia, serif;
+	font-size: 21px; /* Could also use 1.5rem here, in which case if you increase the font size on the html element, the article font size would also increase. Setting the font size in px on the article means it would stay the same. */
+	line-height: 1.5em; /* 1em is now 21px, so 1.5 * 21px = 31.5px */
+	color: #222;
+}
+
+article h1, article h2, article h3, article h4, article h5, article h6 {
+	font-family: helvetica, sans-serif;
+}
+
+article p {
+	margin: 0;
+	padding: 0 0 1em 0; /*Padding using ems means you get consistent spacing adn good rhythm. */
+}
+
+article ul {
+	margin: 1em 0 2em;
+}
+
+article blockquote {
+	border-top: 2px solid #888;
+	font-style: italic;
+	color: #888;
+	padding: 1em 0;
+	font-size: 2em;
+	line-height: 1.25em;
+}
