@@ -32,6 +32,8 @@ collections:
     output: true
   lesson_plans:
     output: true
+  exercises:
+    output: true
 
 defaults:
   -
@@ -58,6 +60,7 @@ defaults:
       type: "resources"
     values:
       layout: "default"
+
 
 # Build settings
 markdown: kramdown

@@ -6,6 +6,8 @@ permalink: publications.html
 
 ### Peer Reviewed Articles and Published Conference Proceedings
 
+(2017) **D. Carter**. The labor of online product promotion: Barriers to collective action. *First Monday*, 22(10).
+
 (2017) T. Clement and **D. Carter**. Connecting Theory and Practice in Digital Humanities Information Work. *Journal of the Association for Information Science and Technology*, 68(6), 1385–1396.
 
 (2017) M. Feinberg, **D. Carter**, J. Bullard and A. Gursoy. Translating Texture: Design as Integration. *Proceedings of the ACM Conference in Designing Interactive Systems 2017*.
