@@ -43,3 +43,6 @@ html_starter_template:
 html_css_starter_template:
   title: "HTML and CSS Starter Template"
   link: "/assets/resources/css_starter_template.zip"
+web_exercises:
+  title: "Web Design Exercises"
+  link: "/web_exercises.html"

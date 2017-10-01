@@ -10,6 +10,8 @@ assignments:
   - web_design_publishing_project_2
   - web_design_publishing_imovie_exercise
   - web_design_publishing_project_3
+resources:
+  - web_exercises
 ---
 
 This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will learn principles of user-centered design and will think about web design and development in the context of social issues such as access and diversity.
