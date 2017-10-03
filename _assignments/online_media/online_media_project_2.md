@@ -3,6 +3,7 @@ title: 'Project 2: Organization Site'
 short_title: online_media_project_2
 resources:
   - boostrap_documentation
+  - bootstrap_starter_template
 ---
 
 For your second project, you'll create a site for an organization. You can pick any organization you want, but you need to have access to people associated with it -- you can already know them or meet them for this project. Think about school organizations (e.g., a show on KTSW), community organizations (e.g., a non-profit or a business) or anything else -- ask me if you're not sure if something will work.  
@@ -22,9 +23,9 @@ For your second project, you'll create a site for an organization. You can pick 
 
 ### Evaluation
 
-- A+: Site meets all the requirements for an A but also does the following:
-  - successfully builds on user research.
-  - includes multiple creative design concepts.
-- A: Site meets all requirements and represents the goals of the organization. More than minimal effort has been put in to site design.
-- B: Site does not meet all requirements or shows minimal effort in design.
-- C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap).
+- A+: Site meets all the requirements for an A but also shows exceptional effort in:
+  - successfully building on user research.
+  - producing multiple creative design concepts.
+- A: Site meets all requirements and represents the goals of the organization. Site builds from user research and shows more than minimal effort in site design.
+- B: Site does not meet all requirements or shows minimal effort.
+- C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap or is not responsive).

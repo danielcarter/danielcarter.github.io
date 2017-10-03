@@ -25,8 +25,8 @@ For your second project, you'll create a site for an organization. You can pick 
 ### Evaluation
 
 - A+: Site meets all the requirements for an A but also does the following:
-  - shows more than minimal time spend learning about the client.
+  - shows more than minimal time spent learning about the client.
   - includes multiple creative design concepts.
 - A: Site meets all requirements and represents the goals of the organization. More than minimal effort has been put in to site design.
 - B: Site does not meet all requirements or shows minimal effort in design.
-- C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap).
+- C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap or is not responsive).

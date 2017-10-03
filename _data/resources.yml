@@ -46,3 +46,6 @@ html_css_starter_template:
 web_exercises:
   title: "Web Design Exercises"
   link: "/web_exercises.html"
+bootstrap_starter_template:
+  title: "Bootstrap Starter Template"
+  link: "/assets/resources/bootstrap_starter_template.zip"
