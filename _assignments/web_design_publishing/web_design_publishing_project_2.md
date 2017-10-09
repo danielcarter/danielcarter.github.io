@@ -4,6 +4,7 @@ short_title: web_design_publishing_project_2
 resources:
   - client_handout
   - boostrap_documentation
+  - bootstrap_starter_template
 ---
 
 For your second project, you'll create a site for an organization. You can pick any organization you want, but you need to have access to people associated with it -- you can already know them or meet them for this project. Think about school organizations (e.g., a show on KTSW), community organizations (e.g., a non-profit or a business) or anything else -- ask me if you're not sure if something will work.  
