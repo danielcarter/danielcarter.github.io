@@ -10,11 +10,12 @@ Each exercise includes an index.html file and a solution.html file. The goal of 
 
 For these exercises, you'll be editing main.css to make index.html appear the same as solution.html.
 
-- [Two-column Layout]({{site.url}}/exercises/css/two-column-layout.zip)
-- [Text Formatting]({{site.url}}/exercises/css/text_formatting.zip)
+- Two-column Layout: [Download]({{site.url}}/exercises/css/two-column-layout.zip) or [View Solution]({{site.url}}/exercises/css/two-column-layout/solution.html)
+- Text Formatting: [Download]({{site.url}}/exercises/css/text_formatting.zip) or [View Solution]({{site.url}}/exercises/css/text_formatting/solution.html)
 
 ### Bootstrap
 
 For these exercises, you'll be editing index.html and main.css to make index.html appear the same as solution.html. You will need to write HTML markup using Bootstrap classes and components and might also need to write custom CSS in main.css.
 
-- [Bootstrap Intro]({{site.url}}/exercises/bootstrap/bootstrap_intro.zip)
+- Bootstrap Intro: [Download]({{site.url}}/exercises/bootstrap/bootstrap_intro.zip) or [View Solution]({{site.url}}/exercises/bootstrap/bootstrap_intro/solution.html)
+- Responsive Bios: [Download]({{site.url}}/exercises/bootstrap/responsive_bios.zip) or [View Solution]({{site.url}}/exercises/bootstrap/responsive_bios/solution.html)

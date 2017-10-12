@@ -4,6 +4,7 @@
 
 .progress {
 	height: 10px;
+	background-color: #222;
 }
 
 .progress-bar-strength {
@@ -69,12 +70,12 @@
 
 .bio-image-stats h2 {
 	font-size:1.25em;
+	margin-top: 10px;
 }
 
 .bio-image-stats h4 {
 	font-size: 1em;
 	margin-bottom: 4px;
-	color: #777;
 }
 
 .bio-image-stats .progress {
