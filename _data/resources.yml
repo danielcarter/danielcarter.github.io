@@ -22,9 +22,9 @@ rookie_how_the_internet_works:
 dh_research_github:
   title: "Intro to DH Research - Github"
   link: "https://github.com/danielcarter/courses/tree/master/Intro_to_DH_Research"
-client_handout:
-  title: "Client Handout"
-  internal_link: "resources/client_handout.html"
+rapid_user_research:
+  title: "Rapid User Research"
+  internal_link: "resources/rapid_user_research.html"
 questions_to_ask:
   title: "Questions to Ask"
   internal_link: "resources/questions_to_ask.html"
