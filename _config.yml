@@ -16,7 +16,7 @@
 email: dcarter@txstate.edu
 description: "Assistant professor of digital media studying data visualization and analytics, infrastructure and work. "
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://danielcarter.github.io"
+url: "https://danielcarter.github.io"
 
 office_hours: "OM 208 | MW 1:00 - 3:00pm, Th 3:00 - 5:00pm and by appointment"
 
