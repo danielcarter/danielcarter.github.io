@@ -19,3 +19,7 @@ For these exercises, you'll be editing index.html and main.css to make index.htm
 
 - Bootstrap Intro: [Download]({{site.url}}/exercises/bootstrap/bootstrap_intro.zip) or [View Solution]({{site.url}}/exercises/bootstrap/bootstrap_intro/solution.html)
 - Responsive Bios: [Download]({{site.url}}/exercises/bootstrap/responsive_bios.zip) or [View Solution]({{site.url}}/exercises/bootstrap/responsive_bios/solution.html)
+
+The link below is to a sample portfolio site built using Bootstrap. It's pretty simple, so it's a good starting point to customize and build your own.
+
+- Bootstrap Portfolio: [Download]({{site.url}}/exercises/bootstrap/bootstrap_portfolio.zip) or [View Portfolio]({{site.url}}/exercises/bootstrap/bootstrap_portfolio/index.html)
