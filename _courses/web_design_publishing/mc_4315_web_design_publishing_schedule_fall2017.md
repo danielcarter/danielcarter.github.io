@@ -25,8 +25,8 @@ M 10/9 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.
 W 10/11 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
 M 10/16 | NO CLASS | Attend Mass Comm. Week
 W 10/18 | NO CLASS | __[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__<br />Attend Mass Comm. Week
-M 10/23 | CSS Frameworks |
-W 10/25 | Responsive Design | Watch [Bootstrap Responsive Layout Tutorial](https://www.youtube.com/watch?v=Ct7APU7t-ts) <br />Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/), [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
+M 10/23 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
+W 10/25 | Responsive Design | Watch [Bootstrap Responsive Layout Tutorial](https://www.youtube.com/watch?v=Ct7APU7t-ts)
 M 10/30 | Responsive Design |
 W 11/1 | Troubleshooting Quiz |
 M 11/6 | Work Day: Project 2 |
