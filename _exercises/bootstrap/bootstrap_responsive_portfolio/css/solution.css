@@ -1,0 +1,16 @@
+.margin-top {
+	margin-top: 40px;
+}
+
+.row img {
+	width: 100%;
+	height: auto;
+}
+
+.portfolio-item {
+	margin-bottom: 2em;
+}
+
+.categories span {
+	padding: .25em .5em;
+}
