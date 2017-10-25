@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 title: MC 5317 Advanced Online Media
 short_title: Advanced Online Media
 dates: Spring 2018, W 6:30 - 9:20pm
@@ -30,7 +30,7 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc5312fall2017.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc5317spring2018.slack.com).
 
 ### Evaluation
 
