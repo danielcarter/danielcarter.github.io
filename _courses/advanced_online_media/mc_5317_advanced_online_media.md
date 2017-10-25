@@ -1,30 +1,26 @@
 ---
 menu: true
-title: MC 4315 Web Design and Publishing
-short_title: Web Design and Publishing
-dates: Fall 2017, MW 3:30 - 4:50pm
-venue: Media Innovation Lab
-schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html
+title: MC 5317 Advanced Online Media
+short_title: Advanced Online Media
+dates: Spring 2018, W 6:30 - 9:20pm
+venue: Old Main 106B
+schedule_link: /courses/advanced_online_media/mc_5317_advanced_online_media_schedule_spring2018.html
 assignments:
-  - web_design_publishing_project_1
-  - web_design_publishing_imovie_exercise
-  - web_design_publishing_troubleshooting_quiz
-  - web_design_publishing_project_2
-  - web_design_publishing_project_3
+  - advanced_online_media_project1
+  - advanced_online_media_project2
+  - advanced_online_media_project3
 resources:
   - web_exercises
-  - html_starter_template
-  - html_css_starter_template
-  - bootstrap_starter_template
 ---
 
-This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will learn principles of user-centered design and will think about web design and development in the context of social issues such as access and diversity.
+This course introduces students to advanced web development topics related to interaction and data.
 
-By the end of this course, students will be able to:
+### Course Objectives
 
-- design and develop projects in HTML and CSS, as well as using current frameworks and content management systems.
-- use human-centered design methods.
-- think creatively about web publishing.
+- Discuss the use of interactive elements and data in online communication.
+- Describe basic computer programming techniques.
+- Produce web elements that incorporate data and interactivity.
+- Assemble online projects that apply course skills to the student's domain of interest.
 
 ### Course Organization
 
@@ -34,16 +30,15 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc4317fall2017.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc5312fall2017.slack.com).
 
 ### Evaluation
 
-Project 1: Personal Site | 15%
-Project 2: Organization Site | 20%
-Project 3: Multimedia Reporting | 25%
-iMovie Exercise | 10%
-Troubleshooting Quiz | 10%
-Weekly Quizzes | 10%
+Weekly Exercises | 10%
+Project 1: Personal Site | 10%
+Project 2: Interactive Project | 20%
+Project 3: Data Project | 20%
+Project 4: Final Project | 30%
 Participation and attendance | 10%
 
 ### Grade Scale
@@ -56,7 +51,7 @@ F | < 60
 
 ### Extra Credit
 
-If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
+If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the two students who are voted most helpful at the end of the semester.
 
 ### Late Work
 
