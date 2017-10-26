@@ -12,6 +12,7 @@ For these exercises, you'll be editing main.css to make index.html appear the sa
 
 - Two-column Layout: [Download]({{site.url}}/exercises/css/two-column-layout.zip) or [View Solution]({{site.url}}/exercises/css/two-column-layout/solution.html)
 - Text Formatting: [Download]({{site.url}}/exercises/css/text_formatting.zip) or [View Solution]({{site.url}}/exercises/css/text_formatting/solution.html)
+- Header Image: [Download]({{site.url}}/exercises/css/header_image.zip) or [View Solution]({{site.url}}/exercises/css/header_image/solution.html)
 
 ### Bootstrap
 
