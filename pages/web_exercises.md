@@ -22,6 +22,8 @@ For these exercises, you'll be editing index.html and main.css to make index.htm
 - Responsive Bios: [Download]({{site.url}}/exercises/bootstrap/responsive_bios.zip) or [View Solution]({{site.url}}/exercises/bootstrap/responsive_bios/solution.html)
 - Responsive Portfolio
 [Download]({{site.url}}/exercises/bootstrap/bootstrap_responsive_portfolio.zip) or [View Solution]({{site.url}}/exercises/bootstrap/bootstrap_responsive_portfolio/solution.html)
+- Collapsing Navbar
+[Download]({{site.url}}/exercises/bootstrap/bootstrap_collapsing_navbar.zip) or [View Demo]({{site.url}}/exercises/bootstrap/bootstrap_collapsing_navbar/index.html)
 
 The links below are to a sample portfolio site built using Bootstrap. It's pretty basic, so you should customize it as you build your own.
 
