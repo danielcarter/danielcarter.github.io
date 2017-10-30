@@ -84,7 +84,7 @@ section.main {
   line-height: 1.5em; }
   section.main img {
     width: 100%; }
-  section.main p.venue, section.main p.schedule_link {
+  section.main p.venue, section.main p.schedule_link, section.main p.date_completed {
     font-size: .666666667em;
     font-family: helvetica, sans-serif; }
   section.main .box {

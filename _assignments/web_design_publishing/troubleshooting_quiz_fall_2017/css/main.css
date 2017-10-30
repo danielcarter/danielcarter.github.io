@@ -1,0 +1,74 @@
+html {
+}
+
+.container {
+  width: 1100px;
+  margin: 0px auto;
+  padding: 20px;
+}
+
+.masthead {
+  font-size: 56px;
+  font-family: "Cabin Sketch";
+}
+
+header {
+  text-align: center;
+  padding: 0 0 20px 0;
+  margin: 0 0 20px 0;
+  border-bottom: 1px solid;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  font-family: arial, helvetica, sans-serif;
+}
+
+header ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+header ul li a {
+  color: #fff;
+  background-color: #ccc;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+header ul li.active a {
+  color: #fff;
+  background-color: #333;
+}
+
+.articles {
+  float: left;
+  width: 700px;
+}
+
+.articles img {
+  width: 100%;
+}
+
+.articles .lead_article p {
+  font-style: italic;
+}
+
+.articles .secondary_article {
+  border-top: 1px solid;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.staff {
+  float: right;
+  width: 900px;
+}
+
+footer {
+  width: 100%;
+  clear: both;
+  text-align: center;
+  padding: 40px 0;
+  background-color: #ededed;
+}

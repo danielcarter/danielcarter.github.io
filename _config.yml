@@ -34,6 +34,8 @@ collections:
     output: true
   exercises:
     output: true
+  learning_journal:
+    output: true
 
 defaults:
   -
@@ -60,7 +62,12 @@ defaults:
       type: "resources"
     values:
       layout: "default"
-
+  -
+    scope:
+      path: ""
+      type: "learning_journal"
+    values:
+      layout: "learning_journal"
 
 # Build settings
 markdown: kramdown

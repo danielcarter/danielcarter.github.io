@@ -1,0 +1,83 @@
+.container {
+  max-width: 1400px;
+  margin: 40px auto;
+}
+
+article header {
+  height: 500px;
+  overflow: auto;
+  position: relative;
+}
+
+article header img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400px;
+  z-index: 0;
+}
+
+article header .headline {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  padding: 30px 40px;
+  z-index: 99;
+  background-color: #fff377;
+  color: #485B60;
+  font-family: Manuale, georgia;
+  font-weight: 600;
+  max-width: 75%;
+}
+
+article header .headline h1 {
+  font-size: 2em;
+  line-height: 1em;
+  padding: 0;
+  margin: 0;
+}
+
+article header .headline p {
+  line-height: 1em;
+  padding: 0;
+  margin: 0;
+}
+
+article .article_text {
+  font-family: arial;
+  font-size: 1.25em;
+  color: #333;
+  font-family: Manuale, georgia;
+  font-weight: normal;
+  font-weight: 400;
+  margin: 40px 0 20px 20px;
+  max-width: 100%;
+}
+
+article .article_text p {
+  max-width: 50em;
+  clear: both;
+}
+
+article .article-img-wide {
+    max-width: 75%;
+    float: right;
+    margin-right: 12.5%;
+    padding: 2em 0;
+}
+
+article .article-img-wide img {
+  max-width: 100%;
+}
+
+article .article-img-wide p {
+  text-align: right;
+  font-family: arial, helvetica, sans-serif;
+  color: #888;
+  font-size: .6em;
+  width: 400px;
+  max-width: 100%;
+  float: right;
+  padding-bottom: 1em;
+  border-bottom: 1px solid;
+}
