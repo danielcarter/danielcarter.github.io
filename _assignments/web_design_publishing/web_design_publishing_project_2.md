@@ -30,3 +30,7 @@ For your second project, you'll create a site for an organization. You can pick 
 - A: Site meets all requirements and represents the goals of the organization. More than minimal effort has been put in to site design.
 - B: Site does not meet all requirements or shows minimal effort in design.
 - C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap or is not responsive).
+
+### Examples
+
+- [Matador Color Guard](/assets/example_projects/matador_color_guard) by Sean Smith

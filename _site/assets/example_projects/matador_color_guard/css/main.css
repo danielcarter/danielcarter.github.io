@@ -1,0 +1,342 @@
+/***************** general *****************/
+
+.containter-fluid {
+  font-size: 16px;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+/**************** menu-header ****************/
+
+.sticky-column {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border: 15px solid white;
+  z-index: 1;
+}
+
+.sticky-column.our-show {
+  background-color: black;
+  border: 15px solid black;
+}
+
+.menu-header {
+  width: 100%;
+  margin: 0;
+}
+
+.member-login {
+  float: right;
+}
+
+.join-us {
+  float: right;
+  margin-right: 5px;
+}
+
+.btn-primary.active {
+  background-color: white;
+  color: black;
+}
+
+.btn-primary.active:hover {
+  background-color: gold;
+  color: black;
+}
+
+.btn-default.active {
+  background-color: black;
+  color: gold;
+}
+
+.btn-default.active:hover {
+  color: black;
+  background-color: white;
+}
+
+@media screen and (max-width: 767px) {
+  .member-login, .join-us {
+    display: none;
+  }
+}
+
+/************ jumbotron ***************/
+
+.jumbotron {
+  background-image: url(../images/guard4.JPG);
+  background-size: cover;
+  background-position: 0 25%;
+  min-height: 350px;
+  padding: 10%;
+  width: 100%;
+  height: auto;
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.jumbotron h1{
+ margin-top: 10%;
+ color:#fff;
+}
+
+/************* site panels *************/
+
+.thumbnail {
+  background-color: white;
+  border: 1.5px solid grey;
+}
+
+.thumbnail img {
+  border-top: 5px solid gold;
+  margin-bottom: 10px;
+}
+
+.btn-default {
+  background-color: White;
+  color: black;
+}
+
+/************ page titles **************/
+
+.page-title h1 {
+  text-align: center;
+  font-size: 5em;
+}
+
+/************ about-guard and about-staff and choreography ************/
+
+.about-image {
+  padding: 0;
+}
+
+.col-md-4 img {
+  width: 100%;
+  float: left;
+}
+
+.info-container {
+  margin-bottom: 30px;
+}
+
+.info-container h1 {
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.info-container h2 {
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+.info-container p {
+  float: right;
+  clear: none;
+  font-size: 1.5em;
+}
+
+.tablet-mobile-info-container h1 {
+  text-align: center;
+}
+
+@media screen and (max-width: 990px) {
+  .info-container {
+    display: none;
+  }
+  .color-guard-mobile {
+    float: left;
+    width: 50%;
+  }
+  .winterguard-mobile {
+    float: right;
+    width: 50%;
+  }
+  .tablet-mobile-info-container img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .info-container {
+    display: none;
+  }
+  .color-guard-mobile {
+    float: left;
+    width: 50%;
+  }
+  .winterguard-mobile {
+    float: right;
+    width: 50%;
+  }
+  .tablet-mobile-info-container img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .color-guard-mobile {
+    width: 100%;
+  }
+  .winterguard-mobile {
+    width: 100%;
+  }
+  .page-title h1 {
+    font-size: 4em;
+  }
+}
+
+/************** gallery footer **************/
+
+.jumbotron.gallery-jumbo {
+  background-image: url(../images/guard8.JPG);
+  margin-top: 0;
+}
+
+.gallery-jumbo h2 {
+  text-align: left;
+}
+
+/**************** member-login **************/
+
+.member-login-form {
+  margin-top: 20%;
+}
+
+/*************** calendar *******************/
+
+.cal-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.week-row {
+  margin-top: 60px;
+}
+
+.september {
+  margin-top: 0;
+}
+
+.september, .october, .november, .december {
+  height: 110vh;
+}
+
+.scroll-down-arrow {
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+  left: 20px;
+}
+
+.october, .december {
+  background-color: black;
+  color: white;
+}
+
+.col-md-1 {
+  width: 14%;
+}
+
+.cal-col {
+  float: left;
+}
+
+.cal-box {
+  box-sizing: border-box;
+  float: left;
+}
+
+.large-month-text {
+  position: relative;
+  left: 20px;
+  text-align: center;
+  font-family: 'Wire One',sans-serif;
+}
+.large-month-text h1 {
+  font-size: 35em;
+}
+
+@media screen and (max-width: 1220px) {
+  .large-month-text h1 {
+    font-size: 20em;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .row {
+    clear:both;
+    height: auto;
+  }
+}
+
+/************* about shows *************/
+
+.our-show {
+  background-color: black;
+  color: white;
+}
+
+
+
+.our-show img {
+  border-bottom: 5px solid magenta;
+}
+
+/*************** bulletin *****************/
+
+.alert {
+  text-align: center;
+}
+
+.btn-default:hover {
+  background-color: gold;
+}
+
+/************ weekly schedule ************/
+
+.schedule-header h1 {
+  text-align: center;
+  font-size: 3em
+}
+
+.hotel-info {
+  text-align: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/************** choreography ***************/
+
+.choreography-container {
+  clear: both;
+}
+
+.choreography-container h3 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+@media screen and (min-width: 991px) {
+  .tablet-mobile-info-container {
+    display: none;
+  }
+}
+
+/*************** join-us *****************/
+
+.join-us img {
+  width: 50%;
+}
+
+.join-us-text h1, h4 {
+  text-align: center;
+}
+
+.join-us-form {
+  margin-bottom: 20px;
+}
