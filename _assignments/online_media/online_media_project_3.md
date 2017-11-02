@@ -17,7 +17,7 @@ For your final project, you'll create a full multimedia journalism project.
 
 1. Choose a topic that will work well for a multimedia journalism project. You will be conducting interviews, taking photos and shooting video, so plan accordingly. The project should present original reporting and include multimedia content that you personally produce.
 2. Create a Wordpress installation in a subdirectory of your site.
-3. Choose a Bootstrap-based theme for your site.
+3. Choose a theme for your site.
 4. Using the design processes we've learned, produce several designs for your site. Think specifically about how your content will be organized and how users will move between sections.
 5. Your site must include:
   - at least four separate pages.
