@@ -10,7 +10,6 @@ For your final project, you'll create a full multimedia journalism project.
 ### Learning Objectives
 
 - Practice multimedia skills in a journalism context.
-- Practice using CSS frameworks and creating responsive sites.
 - Practice working with Wordpress.
 
 ### Instructions
