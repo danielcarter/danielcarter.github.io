@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+      <title></title>
+
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+
+      <!-- Your custom stylesheet -->
+      <link href="css/main.css" rel="stylesheet">
+
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+
+    </head>
+    <body>
+
+        <div class="container"><!-- Or .container-fluid if you want full width. -->
+
+          <div class="navbar navbar-default">
+
+            <div class="navbar-header">
+              <!-- This is the button to expand the nav on mobile.
+              The collapsed class means that it won't be visible on medium and large screens.
+              The navbar-toggle class makes it look like a button.
+              The data-toggle="collapse" attribute tells it that it's going to cause something else (the menu) to appear and disappear.
+              The data-target-"#navbar-collapsible" tells it which element to appear and disappear - in this case, the element with id navbar-collapsible.
+              -->
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapsible" aria-expanded="false">
+                <!-- This line is only for people who can't see - it won't display normally. -->
+                <span class="sr-only">Toggle navigation</span>
+                <!-- These three span elements make the bars in the hamburger. -->
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <!-- You usually link the site title to your homepage. -->
+              <a class="navbar-brand" href="#">Site Title</a>
+            </div><!-- .navbar-header -->
+
+            <!-- This is the nav that will appear and disappear.
+            The collapse class means that it will be visible on medium and large and hidden on small and extra-small.
+            The id is important, because we use it above to tell the button which element to toggle.
+            -->
+            <div class="collapse navbar-collapse" id="navbar-collapsible">
+              <ul class="nav navbar-nav">
+                <!-- The active class highlights the page you're on, so you'll need to change it for each page. -->
+                <li class="active"><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <!-- There are lots of other things you can put in navbars - see the Bootstrap Component documentation for examples. -->
+              </ul>
+            </div><!-- #navbar-collapsable -->
+
+          </div><!-- .navbar -->
+
+          <div class="row">
+            <div class="col-md-8">
+              <p class="lead">This page demonstrates how to create a navbar in Bootstrap that collapses for small devices. There are comments in the code that explain how things work, so be sure to read those.</p>
+            </div>
+          </div>
+
+        </div><!-- .container -->
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>
