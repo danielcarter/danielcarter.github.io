@@ -36,6 +36,6 @@ W 11/15 | Content Management Systems |
 M 11/20 | Content Management Systems | Read [Battle for the Body Field](https://alistapart.com/article/battle-for-the-body-field)
 W 11/22 | NO CLASS |
 M 11/27 | Work Day: Final Project | Watch [Content in a Zombie Apocalypse](https://karenmcgrane.com/2014/10/15/content-in-a-zombie-apocalypse/)
-W 11/29 | Career Speaker |
+W 11/29 | Work Day: Final Project |
 M 12/4 | Presentations | __[Project 3: Multimedia Reporting](/assignments/web_design_publishing/web_design_publishing_project_3.html)__
 W 12/6 | Presentations |
