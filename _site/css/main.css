@@ -88,13 +88,14 @@ section.main {
     font-size: .666666667em;
     font-family: helvetica, sans-serif; }
   section.main .box {
-    background-color: #ffedf8;
     color: #444;
     padding: 20px;
     margin: 3em 0;
     background-color: #ffedf8; }
     section.main .box a {
       color: #444; }
+    section.main .box ul {
+      margin-bottom: 10px; }
   section.main .assignments {
     background-color: #d4f6fc; }
   section.main .resources {
@@ -143,8 +144,14 @@ table td strong, p.schedule_link a {
   border: none;
   border-radius: .25em; }
 
+table td strong.major_project {
+  background-color: #ff008c; }
+
 table td strong a {
   border: none; }
+
+table td strong.major_project a {
+  color: #fff; }
 
 /****** MOBILE ******/
 @media only screen and (max-width: 960px) {

@@ -49,3 +49,6 @@ web_exercises:
 bootstrap_starter_template:
   title: "Bootstrap Starter Template"
   link: "/assets/resources/bootstrap_starter_template.zip"
+wordpress_resources:
+  title: "Wordpress Resources"
+  link: "/wordpress_resources.html"

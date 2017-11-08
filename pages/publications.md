@@ -27,5 +27,3 @@ permalink: publications.html
 ### Book Chapters
 
 T. Clement and **D. Carter**. Information. In R. F. Davis, M. K. Gold, K. D. Harris, & J. Sayers (Eds.), *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*. MLA Commons. Forthcoming.
-
-(2017) J. Meyr, **D. Carter** and S. Vie. Occupy Rhetoric: Responding to Charges of “Slacktivism” With Digital Activism Successes. In M. Adria & Y. Mao (Eds.), *Citizen Engagement and Public Participation in the Era of New Media*. IGI Global.

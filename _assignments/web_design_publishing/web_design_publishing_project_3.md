@@ -1,6 +1,8 @@
 ---
 title: 'Project 3: Multimedia Reporting'
 short_title: web_design_publishing_project_3
+resources:
+  - wordpress_resources
 ---
 
 For your final project, you'll create a full multimedia journalism project.

@@ -2,7 +2,7 @@
 title: 'Project 3: Multimedia Journalism Project'
 short_title: online_media_project_3
 resources:
-  - boostrap_documentation
+  - wordpress_resources
 ---
 
 For your final project, you'll create a full multimedia journalism project.

@@ -13,6 +13,7 @@ assignments:
   - online_media_project_3
 resources:
   - web_exercises
+  - wordpress_resources
   - html_starter_template
   - html_css_starter_template
   - bootstrap_starter_template
