@@ -8,12 +8,12 @@ $dark: #444;
 $dark2: #999;
 $light: #ededed;
 
-$light_bg_1: #ffedf8;
-$light_bg_2: #d4f6fc;
-$light_bg_3: #f9ffd6;
+$light_bg_1: #2aa198;
+$light_bg_2: #d33682;
+$light_bg_3: #2aa198;
 
-$higlight_text: #00d8ff;
-$higlight_text_important: #ff008c;
+$higlight_text: #2aa198;
+$higlight_text_important: #d33682;
 
 $full_width: 900px;
 $sidebar_width: 240px;
@@ -35,6 +35,14 @@ body {
 
 p {
   margin: 0 0 1em 0;
+}
+
+code {
+  font-size: .75em;
+}
+
+pre[class*="language-"] {
+  border-radius: 0;
 }
 
 h1, h2 { font-weight: normal; font-family: $serif; margin: 0 0 .5em 0; }
@@ -142,14 +150,14 @@ section.main {
 
   .box {
 
-    color: $dark;
+    color: #fff;
     padding: 20px;
     margin: 3em 0;
     background-color: $light_bg_1;
 
 
     a {
-      color: $dark;
+      color: #fff;
     }
 
     ul {
@@ -222,6 +230,7 @@ table td strong, p.schedule_link a {
   padding: .25em .5em;
   border: none;
   border-radius: .25em;
+  color: #fff;
 }
 
 table td strong.major_project {
@@ -230,6 +239,7 @@ table td strong.major_project {
 
 table td strong a {
   border: none;
+  color: #fff;
 }
 
 table td strong.major_project a {

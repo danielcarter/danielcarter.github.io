@@ -17,3 +17,4 @@ Below are themes and plugins that I have tested and found to be useful.
 - [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/) - Easily add customizable Google Maps to your site.
 - [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) - Create flexible page layouts. Note: does not work well with some other plugins.
 - [MasterSlider](https://wordpress.org/plugins/master-slider/) - An easy-to-use image slider.
+- [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Easily disable and hide comments.     

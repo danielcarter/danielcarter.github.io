@@ -28,3 +28,9 @@ For your second project, you'll create a site for an organization. You can pick 
 - A: Site meets all requirements and represents the goals of the organization. Site builds from user research and shows more than minimal effort in site design.
 - B: Site does not meet all requirements or shows minimal effort.
 - C: Site is missing pages or is missing several required elements (e.g., does not use Bootstrap or is not responsive).
+
+### Examples
+
+- [Lake Breeze Ski Lodge](/assets/example_projects/lake_breeze_ski_lodge) by Nicole Avalos
+- [Matador Color Guard](/assets/example_projects/matador_color_guard) by Sean Smith
+- [Milestone Motorcycles](/assets/example_projects/milestone_motorcycles) by John Hernandez

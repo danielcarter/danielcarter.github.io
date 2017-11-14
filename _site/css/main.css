@@ -13,6 +13,12 @@ body {
 p {
   margin: 0 0 1em 0; }
 
+code {
+  font-size: .75em; }
+
+pre[class*="language-"] {
+  border-radius: 0; }
+
 h1, h2 {
   font-weight: normal;
   font-family: "Crimson Text", georgia, serif;
@@ -88,18 +94,18 @@ section.main {
     font-size: .666666667em;
     font-family: helvetica, sans-serif; }
   section.main .box {
-    color: #444;
+    color: #fff;
     padding: 20px;
     margin: 3em 0;
-    background-color: #ffedf8; }
+    background-color: #2aa198; }
     section.main .box a {
-      color: #444; }
+      color: #fff; }
     section.main .box ul {
       margin-bottom: 10px; }
   section.main .assignments {
-    background-color: #d4f6fc; }
+    background-color: #d33682; }
   section.main .resources {
-    background-color: #f9ffd6; }
+    background-color: #2aa198; }
 
 body.no-title section.main {
   /*padding-top: 8em;*/ }
@@ -139,16 +145,18 @@ table tbody tr:nth-of-type(odd) {
 
 table td strong, p.schedule_link a {
   font-weight: normal;
-  background-color: #00d8ff;
+  background-color: #2aa198;
   padding: .25em .5em;
   border: none;
-  border-radius: .25em; }
+  border-radius: .25em;
+  color: #fff; }
 
 table td strong.major_project {
-  background-color: #ff008c; }
+  background-color: #d33682; }
 
 table td strong a {
-  border: none; }
+  border: none;
+  color: #fff; }
 
 table td strong.major_project a {
   color: #fff; }
@@ -168,7 +176,7 @@ table td strong.major_project a {
     header h1 span a {
       padding: 6px 11px;
       color: #444;
-      background-color: #00d8ff;
+      background-color: #2aa198;
       display: inline;
       margin: 0px 10px 0 0px;
       vertical-align: middle; }
