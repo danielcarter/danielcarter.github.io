@@ -17,10 +17,12 @@ This course introduces students to advanced web development topics related to in
 
 ### Course Objectives
 
-- Discuss the use of interactive elements and data in online communication.
-- Describe basic computer programming techniques.
-- Produce web elements that incorporate data and interactivity.
-- Assemble online projects that apply course skills to the student's domain of interest.
+By the end of this course, students should be able to:
+
+- discuss the use of interactive elements and data in online communication.
+- describe basic computer programming techniques.
+- produce web elements that incorporate data and interactivity.
+- assemble online projects that apply course skills to the student's domain of interest.
 
 ### Course Organization
 
