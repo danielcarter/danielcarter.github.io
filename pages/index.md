@@ -6,7 +6,7 @@ template-options:
   - no-title
 ---
 
-I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. By studying how people use and adapt technologies in order to meet their distinct needs, I hope to better understand how we can creatively shape technology use in the future. I have side interests in digital humanities, data visualization, labor and infrastructure.
+I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study how online labor, technology adaptation and infrastructure.
 
 Recently I've written about [Twitter marketing and Tupperware](http://theoutline.com/post/2487/twitter-parties-are-tupperware-parties-reborn) and [the most depressing side of the gig economy](http://theoutline.com/post/2393/the-only-job-a-robot-couldn-t-do) for [The Outline](http://theoutline.com).
 
