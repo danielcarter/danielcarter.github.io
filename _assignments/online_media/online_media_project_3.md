@@ -19,11 +19,10 @@ For your final project, you'll create a full multimedia journalism project.
 3. Choose a theme for your site.
 4. Using the design processes we've learned, produce several designs for your site. Think specifically about how your content will be organized and how users will move between sections.
 5. Your site must include:
-  - at least four separate pages.
+  - roughly 1500-1800 words of text.
   - at least one video and one slideshow. Extra credit will be given to sites that include additional data elements such as maps or graphs.
   - at least three plugins or widgets.
   - your contact information.
-6. Write a 600-word reflection on the project. Include best practices or things that went well, areas for improvement and a reflection on the appropriateness of Wordpress as a CMS for this kind of project. Send me your reflection in a Slack DM.
 
 ### Evaluation
 
