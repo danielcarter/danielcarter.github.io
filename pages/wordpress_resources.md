@@ -19,6 +19,6 @@ Below are themes and plugins that I have tested and found to be useful.
 - [SiteOrigin Widgets Bundle](https://wordpress.org/plugins/so-widgets-bundle/) A collection of widgets used with the Page Builder plugin.
 - [MasterSlider](https://wordpress.org/plugins/master-slider/) - An easy-to-use image slider.
 - [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/) - Add customizable Google Maps to your site.
--[Parallax Scroll](https://wordpress.org/plugins/adamrob-parallax-scroll/) - Add a parallax section to posts or pages.
+- [Parallax Scroll](https://wordpress.org/plugins/adamrob-parallax-scroll/) - Add a parallax section to posts or pages.
 - [Easy Smooth Scroll Links](https://wordpress.org/plugins/easy-smooth-scroll-links/) - Create links that scroll to page sections.
 - [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Easily disable and hide comments.     
