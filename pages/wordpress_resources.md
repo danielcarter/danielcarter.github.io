@@ -8,7 +8,7 @@ Below are themes and plugins that I have tested and found to be useful.
 
 ### Themes
 
-- [Maker](https://wordpress.org/themes/maker/) A very minimal theme.
+- [Maker](https://wordpress.org/themes/maker/) - A very minimal theme.
 - [Me](https://wordpress.org/themes/me/) - Another very minimal theme.
 - [Zillah](https://wordpress.org/themes/zillah/) - A solid, simple theme.
 - [Magnus](https://wordpress.org/themes/magnus/) - A photo-heavy theme.
