@@ -36,12 +36,12 @@ If you have questions that might be of interest to everyone or want to discuss a
 
 ### Evaluation
 
-Weekly Exercises | 10%
+Learning Journal | 10%
 Project 1: Personal Site | 10%
 Project 2: Interactive Project | 20%
-Project 3: Data Project | 20%
-Project 4: Final Project | 30%
-Participation and attendance | 10%
+Project 3: Interactive Project 2 | 20%
+Project 4:  Data Project | 20%
+Final Project | 20%
 
 ### Grade Scale
 
