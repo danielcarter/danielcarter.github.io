@@ -237,6 +237,9 @@ table td strong, p.schedule_link a {
   border: none;
   border-radius: .25em;
   color: #fff;
+  display: inline-block;
+  margin: .5em 0;
+  line-height: 1.5em;
 }
 
 table td strong.major_project {
