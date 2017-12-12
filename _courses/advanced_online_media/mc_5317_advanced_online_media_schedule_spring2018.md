@@ -11,7 +11,7 @@ Date | Description | Due
 ---: | :----------- | :---
 W 1/17 | Data Types and Variables | Read *Javascript for Kids* Chapter 1
 W 1/24 | Arrays and Conditionals |  Read *Javascript for Kids* Chapter 2 <br />__[Learning Journal](/assignments/advanced_online_media/learning_journal.html)__
-W 1/31 | Manipulating the DOM 1: selecting elements, basic manipulation | __[Project 1](/assignments/advanced_online_media/advanced_online_media_project_1.html)__{: .major_project}
+W 1/31 | Manipulating the DOM 1: selecting elements, basic manipulation | Read ["How the tax overhaul could affect your bottom line"](https://www.washingtonpost.com/graphics/2017/business/what-republican-tax-plans-could-mean-for-you/?hpid=hp_hp-top-table-main_graphic-bottom-line-831pm)<br /> __[Project 1](/assignments/advanced_online_media/advanced_online_media_project_1.html)__{: .major_project}
 W 2/7 | Manipulating the DOM 2: advanced topics |  __[Learning Journal](/assignments/advanced_online_media/learning_journal.html)__
 W 2/14 | Functions | __[Project 2](/assignments/advanced_online_media/advanced_online_media_project_2.html)__{: .major_project}
 W 2/21 | Interaction Patterns |  __[Learning Journal](/assignments/advanced_online_media/learning_journal.html)__
