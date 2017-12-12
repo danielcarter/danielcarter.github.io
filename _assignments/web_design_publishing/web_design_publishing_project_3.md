@@ -35,3 +35,7 @@ For your final project, you'll create a full multimedia journalism project.
   - substantial effort in customizing a Wordpress theme.
 - B: Site does not meet all requirements or shows minimal effort.
 - C: Site is missing pages or is missing several required elements.
+
+### Examples
+
+- [International Perspectives](/assets/example_projects/international_perspective/index.htm) by Laura Stouby

@@ -156,8 +156,13 @@ table td strong, p.schedule_link a {
   border-radius: .25em;
   color: #fff;
   display: inline-block;
+<<<<<<< HEAD
   margin: .5em 0 0;
   line-height: 1em; }
+=======
+  margin: .5em 0;
+  line-height: 1.5em; }
+>>>>>>> 95d57b0a6ed40a333b2af8cc9fc5b92f34bc2f5a
 
 table td strong.major_project {
   background-color: #d33682; }
