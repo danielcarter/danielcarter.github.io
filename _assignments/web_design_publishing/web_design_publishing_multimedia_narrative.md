@@ -26,7 +26,7 @@ For your final project, you'll create a multimedia narrative.
 ### Examples
 
 - [International Perspectives](/assets/example_projects/international_perspective/index.htm) by Laura Stouby
-- [Sweets and Smoke](/assets/example_projects/bbq/index.html) by Sean Smith
+- [Sweets and Smoke](http://inletters.com/hosted_sites/examples/bbq/) by Sean Smith
 
 ### Grading Rubric
 

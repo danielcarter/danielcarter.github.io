@@ -3,7 +3,7 @@ menu: true
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
 dates: Spring 2018, MW 3:30 - 4:50pm
-venue: Media Innovation Lab
+venue: Old Main 00238
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html
 assignments:
   - web_design_publishing_personal_portfolio

@@ -2,8 +2,8 @@
 menu: false
 title: "MC 4315 Web Design and Publishing: Schedule"
 short_title: Web Design Publishing
-dates: Fall 2017, MW 3:30 - 4:50pm
-venue: Media Innovation Lab
+dates: Spring 2018, MW 3:30 - 4:50pm
+venue: Old Main 00238
 
 ---
 
@@ -27,7 +27,7 @@ M 3/5 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://
 W 3/7 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 M 3/12 | NO CLASS
 W 3/14 | NO CLASS
-M 3/19 | Responsive Design | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__ 
+M 3/19 | Responsive Design | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 3/21 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
 M 3/26 | Story | Watch [The Polaroid Job](https://www.nytimes.com/video/opinion/100000005503617/the-polaroid-job.html)
 W 3/28 | Story | Read [The Barnacle Queen of the Spanish Seaside](http://roadsandkingdoms.com/2016/barnacle-queens-of-the-seaside/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
