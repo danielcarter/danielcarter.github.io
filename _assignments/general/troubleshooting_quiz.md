@@ -1,6 +1,6 @@
 ---
 title: 'Troubleshooting Quiz'
-short_title: web_design_publishing_troubleshooting_quiz
+short_title: troubleshooting_quiz
 ---
 
 The purpose of this quiz is to evaluate your ability to locate and correct HTML and CSS errors. You can use any resources you want during the quiz.
@@ -23,3 +23,7 @@ Before taking the quiz, review and practice the following. All the slides from c
 4. Writing CSS queries to select elements, elements with classes and elements nested within other elements.
 5. Writing basic CSS rules to align text and create borders and padding.
 6. Writing CSS rules to create columns using basic floats.
+
+### Grading Rubric
+
+Errors identified and corrected | 10

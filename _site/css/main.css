@@ -151,7 +151,7 @@ table tbody tr:nth-of-type(odd) {
 table td strong, p.schedule_link a {
   font-weight: normal;
   background-color: #2aa198;
-  padding: .25em .5em;
+  padding: .25em .5em .15em;
   border: none;
   border-radius: .25em;
   color: #fff;

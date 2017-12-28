@@ -9,33 +9,34 @@ venue: Media Innovation Lab
 
 Date | Description | Due
 ---: | :----------- | :---
-M 8/28 | Introduction to the Internet | Watch [The True Story of the Internet: People](https://www.youtube.com/watch?v=f42J_reRO0Q)
-W 8/30 | Introduction to the Internet| [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [How the Internet Works](http://www.rookiemag.com/2016/11/how-internet-works/)
-M 9/4 | NO CLASS |
-W 9/6 | Introduction to HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/)
-M 9/11 | Introduction to HTML | Read [HTML Doctor: Let's Talk About Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-W 9/13 | Introduction to CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__ <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
-M 9/18 | Introduction to CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br />Watch [Chrome DevTools - Elements Panel](https://www.youtube.com/watch?v=DO54CzdVrBQ)
-W 9/20 | Introduction to Design | Read [The Field Guide to Human-Centered Design pages 19-25](/assets/readings/field_guide_to_user_centered_design.pdf)
-M 9/25 | Introduction to Design |
-W 9/27 | In-Class Design Project | __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_project_1.html)__
-M 10/2 | Multimedia | Watch [Introducing Photoshop: Design, sections 1-4 and 8](https://www.lynda.com/Photoshop-tutorials/Up-Running-Photoshop-CC-Design/108138-2.html)
-W 10/4 | Multimedia | Watch [iMovie Essential Training, sections 1-5](https://www.lynda.com/iMovie-tutorials/iMovie-10-1-1-Essential-Training/487935-2.html)
-M 10/9 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)<br /> Read [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
-W 10/11 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
-M 10/16 | NO CLASS | Attend Mass Comm. Week
-W 10/18 | NO CLASS | __[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__<br />Attend Mass Comm. Week
-M 10/23 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
-W 10/25 | Responsive Design | Watch [Bootstrap Responsive Layout Tutorial](https://www.youtube.com/watch?v=Ct7APU7t-ts)
-M 10/30 | Responsive Design |
-W 11/1 | Troubleshooting Quiz |
-M 11/6 | Work Day: Project 2 |
-W 11/8 | Multimedia Journalism | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_project_2.html)__ <br />Read [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/)
-M 11/13 | Content Management Systems | Watch [An Introduction to Wordpress](https://www.youtube.com/watch?v=FAwbe17cGpw)
-W 11/15 | Content Management Systems |
-M 11/20 | Content Management Systems | Read [Battle for the Body Field](https://alistapart.com/article/battle-for-the-body-field)
-W 11/22 | NO CLASS |
-M 11/27 | Work Day: Final Project | Watch [Content in a Zombie Apocalypse](https://karenmcgrane.com/2014/10/15/content-in-a-zombie-apocalypse/)
-W 11/29 | Work Day: Final Project |
-M 12/4 | Presentations | __[Project 3: Multimedia Reporting](/assignments/web_design_publishing/web_design_publishing_project_3.html)__
-W 12/6 | Presentations |
+W 1/17 | Introduction |
+M 1/22 | Introduction| [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [How the Internet Works](http://www.rookiemag.com/2016/11/how-internet-works/)
+W 1/24 | HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/)
+M 1/29 | HTML | Read [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+W 1/31 | CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project} <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
+M 2/5 | CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 3/12 | NO CLASS
+W 2/7 | Multimedia | Read [How Do Families Around the World Spend Their Vacations](https://www.nytimes.com/interactive/2017/09/21/magazine/voyages-issue-photographs-family-vacations-around-world.html) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 2/12 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html) <br />  __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
+W 2/14 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 2/19 | Design |
+W 2/21 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 2/26 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
+W 2/28 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 3/5 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
+W 3/7 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 3/12 | NO CLASS
+W 3/14 | NO CLASS
+M 3/19 | Responsive Design | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__ 
+W 3/21 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+M 3/26 | Story | Watch [The Polaroid Job](https://www.nytimes.com/video/opinion/100000005503617/the-polaroid-job.html)
+W 3/28 | Story | Read [The Barnacle Queen of the Spanish Seaside](http://roadsandkingdoms.com/2016/barnacle-queens-of-the-seaside/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 4/2 | Pitch Day |
+W 4/4 | Content Management Systems | Watch [An Introduction to Wordpress](https://www.youtube.com/watch?v=FAwbe17cGpw)
+M 4/9 | Content Management Systems | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+W 4/11 | Content Management Systems |
+M 4/16 | Work Day: Final Project | __[Project 3: Multimedia Narrative - Draft](/assignments/web_design_publishing/web_design_publishing_multimedia_narrative.html)__{: .major_project}
+W 4/18 | Work Day: Final Project |
+M 4/23 | Presentations | __[Project 3: Multimedia Narrative - Final](/assignments/web_design_publishing/web_design_publishing_multimedia_narrative.html)__{: .major_project}
+W 4/25 | Presentations |
+M 4/30 | Work Day | __[Project 4: Personal Portfolio Redesign - Draft](/assignments/web_design_publishing/web_design_publishing_personal_portfolio_redesign.html)__{: .major_project}

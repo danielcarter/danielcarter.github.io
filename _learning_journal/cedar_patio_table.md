@@ -29,4 +29,4 @@ The idea for this table was based on George Nelson's slat bench. I started with 
 
 ### Reflections
 
-I really like this slab style of furniture and would like to learn a little more about its history. I should get a book on modernist woodworking or furniture design.
+I really like this slat style of furniture and would like to learn a little more about its history. I should get a book on modernist woodworking or furniture design.

@@ -1,6 +1,6 @@
 ---
 title: 'iMovie Exercise'
-short_title: web_design_publishing_imovie_exercise
+short_title: imovie_exercise
 resources:
 ---
 
@@ -21,3 +21,10 @@ For this exercise, you'll use iMovie to edit a short video combining several cli
 	- at least one title
 3. Upload your video to Youtube.
 4. Use the Youtube embed code and create a simple HTML page on your server with the video. DM me a link in Slack.
+
+### Grading Rubric
+
+Videography shows thought and reflects principles learned in class | 10
+Editing shows thought and reflects principles learned in class | 10
+Narrative is clear and effective | 10
+Requirements met: number of clips, transitions, etc. | 10

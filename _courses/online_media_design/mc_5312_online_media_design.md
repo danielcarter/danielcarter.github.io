@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 title: MC 5312 Online Media Design
 short_title: Online Media Design
 dates: Fall 2017, Th 6:30 - 9:20pm

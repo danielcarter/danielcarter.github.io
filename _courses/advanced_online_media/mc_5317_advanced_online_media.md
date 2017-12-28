@@ -1,16 +1,18 @@
 ---
-menu: false
+menu: true
 title: MC 5317 Advanced Online Media
 short_title: Advanced Online Media
 dates: Spring 2018, W 6:30 - 9:20pm
 venue: Old Main 106B
 schedule_link: /courses/advanced_online_media/mc_5317_advanced_online_media_schedule_spring2018.html
 assignments:
-  - advanced_online_media_project1
-  - advanced_online_media_project2
-  - advanced_online_media_project3
-resources:
-  - web_exercises
+  - advanced_online_media_personal_portfolio
+  - advanced_online_media_interaction_project
+  - advanced_online_media_data_project
+  - advanced_online_media_final_project
+  - advanced_online_media_design_maifesto
+  - learning_journal
+  - reading_response
 ---
 
 This course introduces students to advanced web development topics related to interaction and data.
@@ -22,11 +24,11 @@ By the end of this course, students should be able to:
 - discuss the use of interactive elements and data in online communication.
 - describe basic computer programming techniques.
 - produce web elements that incorporate data and interactivity.
-- assemble online projects that apply course skills to the student's domain of interest.
+- produce narratives that apply course skills.
 
 ### Course Organization
 
-This course involves learning technical skills and also developing ways of thinking about web design and publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. While the course requires minimal reading, you should expect to spend several hours each working on projects and completing other assignments.
+This course involves learning technical skills and also developing ways of thinking about design and communication. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. You should expect to spend several hours each week reading, working on projects and completing other assignments.
 
 ### Getting Help
 
