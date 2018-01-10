@@ -75,3 +75,11 @@ Other references: [Code of Student Conduct](http://www.dos.txstate.edu/handbook/
 ### Disabilities
 
 If you are a student with a disability certified by the Texas State University Office of Disability Services, and you require accommodations for that disability in class, please tell me early in the semester so that I can accommodate you properly.
+
+### Catalog Description
+
+MC 5317. Advanced Online Media.
+Students will gain advanced skills in multimedia layout and design. Techniques include audio/video editing, Flash development, and database management as practiced in the communication disciplines. Theoretical and practical considerations of emerging technologies to the media industry will be integrated with production techniques. Prerequisite: MC 5312 or consent of instructor.
+3 Credit Hours. 3 Lecture Contact Hours. 0 Lab Contact Hours.
+Course Attribute(s): Lab Required
+Grade Mode: Standard Letter

@@ -4,6 +4,10 @@ title: Press
 permalink: press.html
 ---
 
+On January 4, 2018, I was on *Tech News Weekly* to talk about [the gig economy and low-paid online work] (https://twit.tv/shows/tech-news-weekly/episodes/13?autostart=false).
+
+---
+
 On November 15, 2017, I talked to *The Outline World Dispatch* about [Twitter parties, Tupperware parties and online marketing](https://play.radiopublic.com/the-outline-world-dispatch-6vVRD1/ep/s1!0410ced4fd8e03299301b099ec05cfc6ab58f666).
 
 <iframe frameborder="0" height="200" scrolling="no" src="https://embed.radiopublic.com/e?us=https:%2F%2Fplay.radiopublic.com%2Fthe-outline-world-dispatch-6vVRD1%2Fep%2Fs1!0410ced4fd8e03299301b099ec05cfc6ab58f666&if=the-outline-world-dispatch-6vVRD1&ge=s1!0410ced4fd8e03299301b099ec05cfc6ab58f666&gs=_blank" width="100%"></iframe>

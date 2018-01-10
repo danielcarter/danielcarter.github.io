@@ -13,7 +13,7 @@ For your first project, you'll refresh your skills by creating a personal portfo
 ### Instruction
 
 1. You can design and build your portfolio using any tools and techniques that you like, as long as it's made using HTML and CSS (no CMSs, databases, etc.).
-2. Your portfolio needs to include information about you, a way to display projects you've completed and a section for learning journal entries.
+2. Your portfolio needs to include information about you and a way to display projects you've completed.
 3. As you work, push your modifications to your github repository. __When you're done, post a link to your project in #general__.
 
 ### Grading Rubric
