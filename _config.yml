@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: dcarter@txstate.edu
-description: "Assistant professor of digital media studying online labor and technology adaptation. "
+description: "Assistant professor of digital media studying online labor and technology adaptation."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielcarter.github.io"
 
