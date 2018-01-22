@@ -58,7 +58,7 @@ F | < 60
 
 ### Extra Credit
 
-If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
+If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who is voted most helpful at the end of the semester.
 
 ### Late Work
 
