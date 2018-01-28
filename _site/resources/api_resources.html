@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Home - Daniel Carter</title>
+  <title>API Resources - Daniel Carter</title>
   <meta name="description" content="Assistant professor of digital media studying online labor and technology adaptation.">
   <meta name="author" content="Daniel Carter">
 
@@ -26,7 +26,7 @@
 
 
 </head>
-<body class="no-title ">
+<body class="">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -86,14 +86,69 @@
 
 
   
+    
+      <h2>API Resources</h2>
+    
+  
 
-  <p>I’m an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study online labor and technology adaptation.</p>
+  <p>APIs (Application Programming Interfaces) are a common way of making data available online. They’re used to build software applications (like an application that checks Twitter for you), but they’re also used to make data available to the public. Using APIs you can collect social media data, get historical weather data or search for open government data.</p>
 
-<!--
-Recently I've written about [spaceships, climate change and optimism](https://theoutline.com/post/2781/the-meaning-of-life-according-to-a-spaceship); [Twitter marketing and Tupperware](http://theoutline.com/post/2487/twitter-parties-are-tupperware-parties-reborn) and [the most depressing side of the gig economy](http://theoutline.com/post/2393/the-only-job-a-robot-couldn-t-do) for [The Outline](http://theoutline.com).
--->
+<h3 id="api-access">API Access</h3>
 
-<p>Academic publications in: <a href="http://firstmonday.org/ojs/index.php/fm/article/view/8055/6544">First Monday</a>, <a href="http://journals.sagepub.com/doi/abs/10.1177/2056305116666305">Social Media + Society</a>, ACM Proceedings on <a href="https://dl.acm.org/citation.cfm?id=2557055">Human-Computer Interaction</a> and <a href="https://dl.acm.org/citation.cfm?id=2602782">Designing Interactive Systems</a>, <a href="http://www.emeraldinsight.com/doi/abs/10.1108/JD-12-2014-0169">Journal of Documentation</a> and <a href="http://onlinelibrary.wiley.com/doi/10.1002/asi.23563/full">Journal of the Association for Information Science and Technology</a>.</p>
+<p>APIs are usually accessed through a URL called an endpoint. For example, <a href="https://api.fda.gov/food/event.json">https://api.fda.gov/food/event.json</a> requests the most recent adverse food reaction reported by the FDA. Most endpoints allow you to include parameters to specify the data you want. Requesting <a href="https://api.fda.gov/food/event.json?products.name_brand:&quot;Centrum&quot;&amp;limit=10">https://api.fda.gov/food/event.json?products.name_brand:”Centrum”&amp;limit=10</a> asks for ten adverse reactions that include a product with Centrum in the title.</p>
+
+<p>Some APIs, like the FDA’s, are open to the public. Anybody can access this data using just a web browser. Other APIs require authentication. For example, <a href="https://graph.facebook.com/me">https://graph.facebook.com/me</a> returns information about your Facebook account – but only if you authenticate with credentials attached to your account. To access data from these restricted APIs, you’ll usually have to write some code in a programming language like Python.</p>
+
+<h3 id="api-data">API Data</h3>
+
+<p>Most APIs return data in JSON (Javascript Object Notation) format. JSON can be more difficult to work with than a tabular format like CSV or Excel because it allows more complicated data structures. For example, the following JSON includes data about multiple dishes and the ingredients that go into them:</p>
+
+<pre>
+  <code class="language-JSON">
+  {
+		"dishes": [
+			{
+				"dish_name": "Hamburger",
+				"ingredients": [
+					{
+						"name": "ground beef",
+						"origin": "USA"					
+					},
+					{
+						"name": "bread",
+						"origin": "Canada"					
+					}
+				]
+			},
+			{
+				"dish_name": "Banana Split",
+				"ingredients": [
+					{
+						"name": "ice cream",
+						"origin": "USA"					
+					},
+					{
+						"name": "banana",
+						"origin": "Panama"					
+					}
+				]				
+			}
+		]
+	}
+  </code>
+</pre>
+
+<p>Tabular formats have trouble with multiple associations (like dishes that can have any number of ingredients), but JSON handles this without problems. However, this also makes JSON files more difficult to work with.</p>
+
+<h3 id="converting-json-to-csv">Converting JSON to CSV</h3>
+
+<p>In order to work with JSON data in Excel or similar programs, it’s necessary to convert the data. Without programming abilities, a good solution is to use <a href="https://konklone.io/json/">https://konklone.io/json/</a>. This utility attempts to convert JSON to CSV. It tends to work pretty well, but you’ll need to carefully examine the tabular structure that results.</p>
+
+<h3 id="data-resources">Data Resources</h3>
+
+<p>A good list of public data APIs is available <a href="https://github.com/toddmotto/public-apis">here</a>.</p>
+
+<p><a href="https://github.com/digitalmethodsinitiative/dmi-tcat">DMI-TCAT</a> is a good solution for collecting Twitter data. It requires minimal programming experience, but you do need a server to install it on (Amazon EC2 is a good option) and some experience working in Linux.</p>
 
 
 
