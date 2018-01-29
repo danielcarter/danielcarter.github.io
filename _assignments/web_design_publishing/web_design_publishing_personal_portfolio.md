@@ -33,7 +33,6 @@ For your first project, you'll be creating a simple personal portfolio that comm
 
 ### Examples
 
-- [Aaron Edwards: editor, journalist](http://www.aaronmedwards.com)
 - [Richard Lehmann: designer](http://atomicfarmer.com/)
 - [Lam Thuy Vo: data journalist](http://www.lamivo.com/)
 - [Napoleon Martinez: designer](https://napoleonmartinez.co/)
