@@ -22,7 +22,7 @@ For your first project, you'll be creating a simple personal portfolio that comm
 2. Create your site using the basic HTML elements we've learned about in class. Your site should include:
   - a <ul> for your menu.
   - at least one image.
-  - at least one link to an external sites.
+  - at least one link to an external site.
   - your email address, linked using mailto:, like we talked about in class. You can make one of your pages a contact page, or you can choose another way to include this.
 3. Upload your files to your server. The main page of your site should be named index.html. I should be able to access your site at www.yourdomain.com. __Send me a link to your project in a Slack DM__.
 
