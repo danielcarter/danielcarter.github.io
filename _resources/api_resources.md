@@ -56,7 +56,7 @@ Tabular formats have trouble with multiple associations (like dishes that can ha
 
 ### Viewing JSON Files
 
-You'll rarely need to write or edit a JSON file. It's far more likely that you'll download a file and either read it directly or load it in a program like Excel. If you just need to quickly read the file, and it's not too large, there are several online JSON viewers. [http://json2table.com/](json2table) is a good option.
+You'll rarely need to write or edit a JSON file. It's far more likely that you'll download a file and either read it directly or load it in a program like Excel. If you just need to quickly read the file, and it's not too large, there are several online JSON viewers. [json2table](http://json2table.com/) is a good option.
 
 In order to work with JSON data in Excel or similar programs, it's necessary to convert the data. Without programming abilities, a good solution is to use [https://konklone.io/json/](https://konklone.io/json/). This utility attempts to convert JSON to CSV. It tends to work pretty well, but you'll need to carefully examine the tabular structure that results.
 
