@@ -15,7 +15,6 @@ W 1/24 | HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through
 M 1/29 | HTML | Read [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 W 1/31 | CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project} <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
 M 2/5 | CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-M 3/12 | NO CLASS
 W 2/7 | Multimedia | Read [How Do Families Around the World Spend Their Vacations](https://www.nytimes.com/interactive/2017/09/21/magazine/voyages-issue-photographs-family-vacations-around-world.html) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 M 2/12 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html) <br />  __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
 W 2/14 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
