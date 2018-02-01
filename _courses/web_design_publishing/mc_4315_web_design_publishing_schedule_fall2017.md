@@ -14,21 +14,21 @@ M 1/22 | Introduction| [Sign up for Reclaim Hosting](/resources/instructions_rec
 W 1/24 | HTML |  Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/)
 M 1/29 | HTML | Read [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 W 1/31 | CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project} <br />Read [HTML Dog CSS Tutorials, all beginner tutorials](http://www.htmldog.com/guides/css/)
-M 2/5 | CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-W 2/7 | Multimedia | Read [How Do Families Around the World Spend Their Vacations](https://www.nytimes.com/interactive/2017/09/21/magazine/voyages-issue-photographs-family-vacations-around-world.html) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-M 2/12 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html) <br />  __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
-W 2/14 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-M 2/19 | Design |
-W 2/21 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-M 2/26 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
-W 2/28 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-M 3/5 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
-W 3/7 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 2/5 | CSS |
+W 2/7 | CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 2/12 | Multimedia | Read [How Do Families Around the World Spend Their Vacations](https://www.nytimes.com/interactive/2017/09/21/magazine/voyages-issue-photographs-family-vacations-around-world.html) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html) <br />  __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
+M 2/19 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+W 2/21 | Design |
+M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+W 2/28 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
+M 3/5 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+W 3/7 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
 M 3/12 | NO CLASS
 W 3/14 | NO CLASS
-M 3/19 | Responsive Design | Read ["Long Live the Group Chat"](https://theoutline.com/post/2315/long-live-the-group-chat) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-W 3/21 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
-M 3/26 | Story | Watch [The Polaroid Job](https://www.nytimes.com/video/opinion/100000005503617/the-polaroid-job.html)
+M 3/19 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+W 3/21 | Responsive Design | Read ["Long Live the Group Chat"](https://theoutline.com/post/2315/long-live-the-group-chat) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 3/26 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
 W 3/28 | Story | Read [The Barnacle Queen of the Spanish Seaside](http://roadsandkingdoms.com/2016/barnacle-queens-of-the-seaside/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 M 4/2 | Pitch Day |
 W 4/4 | Content Management Systems | Watch [An Introduction to Wordpress](https://www.youtube.com/watch?v=FAwbe17cGpw)
