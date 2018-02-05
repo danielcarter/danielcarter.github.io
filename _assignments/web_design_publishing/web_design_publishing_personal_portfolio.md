@@ -4,6 +4,7 @@ short_title: web_design_publishing_personal_portfolio
 resources:
   - htmldog_html_tutorials
   - htmldog_css_tutorials
+  - multipage_html_document
   - chrome_inspector_styles
   - html_starter_template
   - html_css_starter_template

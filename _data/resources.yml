@@ -52,3 +52,6 @@ bootstrap_starter_template:
 wordpress_resources:
   title: "Wordpress Resources"
   link: "/wordpress_resources.html"
+multipage_html_document:
+  title: "Creating a Multi Page HTML Document by Ray Villalobos"
+  link: "https://www.youtube.com/watch?v=MwxAwQdpft4&feature=youtu.be"
