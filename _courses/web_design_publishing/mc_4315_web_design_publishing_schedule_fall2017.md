@@ -21,7 +21,7 @@ W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www
 M 2/19 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 2/21 | Design |
 M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-W 2/28 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
+W 2/28 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Watch [Understanding the Bootstrap Responsive CSS Layout Grid](https://www.youtube.com/watch?v=PmJTLCx0GRI) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
 M 3/5 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 3/7 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
 M 3/12 | NO CLASS
