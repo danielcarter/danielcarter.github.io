@@ -17,10 +17,10 @@ W 1/31 | CSS | __[Project 1: Basic Site (Phase 1)](/assignments/web_design_publi
 M 2/5 | CSS |
 W 2/7 | CSS | Read [HTML Dog CSS Tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 M 2/12 | Multimedia | Read [How Do Families Around the World Spend Their Vacations](https://www.nytimes.com/interactive/2017/09/21/magazine/voyages-issue-photographs-family-vacations-around-world.html) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html) <br />  __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
+W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html)
 M 2/19 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 2/21 | Design |
-M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__ __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
 W 2/28 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Watch [Understanding the Bootstrap Responsive CSS Layout Grid](https://www.youtube.com/watch?v=PmJTLCx0GRI) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
 M 3/5 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 3/7 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
