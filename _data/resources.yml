@@ -55,3 +55,6 @@ wordpress_resources:
 multipage_html_document:
   title: "Creating a Multi Page HTML Document by Ray Villalobos"
   link: "https://www.youtube.com/watch?v=MwxAwQdpft4&feature=youtu.be"
+project_1_checklist:
+  title: "Project 1 Checklist"
+  link: "/assignments/web_design_publishing/web_design_publishing_personal_portfolio_checklist.html"

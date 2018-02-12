@@ -2,6 +2,7 @@
 title: 'Project 1: Personal Portfolio'
 short_title: web_design_publishing_personal_portfolio
 resources:
+  - project_1_checklist
   - htmldog_html_tutorials
   - htmldog_css_tutorials
   - multipage_html_document

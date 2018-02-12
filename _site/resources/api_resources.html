@@ -93,6 +93,8 @@
 
   <p>APIs (Application Programming Interfaces) are a common way of making data available online. They’re used to build software applications (like an application that checks Twitter for you), but they’re also used to make data available to the public. Using APIs you can collect social media data, get historical weather data or search for open government data.</p>
 
+<p>Note: the term API gets used in a few different ways. This page just deals with APIs that make data available.</p>
+
 <h3 id="api-access">API Access</h3>
 
 <p>APIs are usually accessed through a URL called an endpoint. For example, <a href="https://api.fda.gov/food/event.json">https://api.fda.gov/food/event.json</a> requests the most recent adverse food reaction reported by the FDA. Most endpoints allow you to include parameters to specify the data you want. Requesting <a href="https://api.fda.gov/food/event.json?products.name_brand:&quot;Centrum&quot;&amp;limit=10">https://api.fda.gov/food/event.json?products.name_brand:”Centrum”&amp;limit=10</a> asks for ten adverse reactions that include a product with Centrum in the title.</p>
@@ -140,7 +142,9 @@
 
 <p>Tabular formats have trouble with multiple associations (like dishes that can have any number of ingredients), but JSON handles this without problems. However, this also makes JSON files more difficult to work with.</p>
 
-<h3 id="converting-json-to-csv">Converting JSON to CSV</h3>
+<h3 id="viewing-json-files">Viewing JSON Files</h3>
+
+<p>You’ll rarely need to write or edit a JSON file. It’s far more likely that you’ll download a file and either read it directly or load it in a program like Excel. If you just need to quickly read the file, and it’s not too large, there are several online JSON viewers. <a href="http://json2table.com/">json2table</a> is a good option.</p>
 
 <p>In order to work with JSON data in Excel or similar programs, it’s necessary to convert the data. Without programming abilities, a good solution is to use <a href="https://konklone.io/json/">https://konklone.io/json/</a>. This utility attempts to convert JSON to CSV. It tends to work pretty well, but you’ll need to carefully examine the tabular structure that results.</p>
 
@@ -148,7 +152,16 @@
 
 <p>A good list of public data APIs is available <a href="https://github.com/toddmotto/public-apis">here</a>.</p>
 
-<p><a href="https://github.com/digitalmethodsinitiative/dmi-tcat">DMI-TCAT</a> is a good solution for collecting Twitter data. It requires minimal programming experience, but you do need a server to install it on (Amazon EC2 is a good option) and some experience working in Linux.</p>
+<p>A few that are fun to play with:</p>
+
+<ul>
+  <li><a href="OpenFDA - Adverse reactions to food, drugs and devices">https://open.fda.gov/api/</a></li>
+  <li><a href="Data on US Drone Strikes">https://api.dronestre.am/</a></li>
+  <li><a href="Data USA - Lots of population and demographic data">https://datausa.io/about/api/</a></li>
+  <li><a href="Quality of Life Scores">https://developers.teleport.org/api/</a></li>
+</ul>
+
+<p><a href="https://github.com/digitalmethodsinitiative/dmi-tcat">DMI-TCAT</a> is a good solution for collecting Twitter data. It requires minimal programming experience, but you do need a server to install it on (Amazon EC2 is a good option) and some experience working in Linux. Once running, it exports data in CSV format and includes many useful analysis tools.</p>
 
 
 
