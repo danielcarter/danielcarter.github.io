@@ -6,7 +6,7 @@ permalink: publications.html
 
 ### Peer Reviewed Articles and Conference Proceedings
 
-(forthcoming) **D. Carter** and T. Welsh. “Everybody Wants to Work With Me”: Collaborative Labor in Hip Hop. *Popular Music and Society*.
+(2018) **D. Carter** and T. Welsh. “Everybody Wants to Work With Me”: Collaborative Labor in Hip Hop. *Popular Music and Society*.
 
 (2017) **D. Carter**. The labor of online product promotion: Barriers to collective action. *First Monday*, 22(10).
 
