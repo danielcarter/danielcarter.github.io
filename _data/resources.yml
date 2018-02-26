@@ -6,7 +6,7 @@ htmldog_css_tutorials:
   link: "http://htmldog.com/guides/css/"
 boostrap_documentation:
   title: "Bootstrap Documentation"
-  link: "https://getbootstrap.com/css/"
+  link: "http://getbootstrap.com/docs/4.0/getting-started/introduction/"
 pew_internet_fact_sheet:
   title: "Pew Internet / Broadband Fact Sheet"
   link: "http://www.pewinternet.org/fact-sheet/internet-broadband/"
@@ -48,7 +48,7 @@ web_exercises:
   link: "/web_exercises.html"
 bootstrap_starter_template:
   title: "Bootstrap Starter Template"
-  link: "/assets/resources/bootstrap_starter_template.zip"
+  link: "http://www.glitch.com/edit/#!/discreet-tadpole"
 wordpress_resources:
   title: "Wordpress Resources"
   link: "/wordpress_resources.html"

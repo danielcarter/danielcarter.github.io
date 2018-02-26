@@ -13,7 +13,7 @@ For this exercise, you'll use iMovie to edit a short video combining several cli
 
 ### Instructions
 
-1. Before class, shoot several interviews and some B-roll footage. Think ahead to your final project and get started on that if possible.
+1. Before class, shoot at least one interview and some B-roll footage. Think ahead to your final project and get started on that if possible.
 2. Using iMovie, create a video (no more than 90 seconds) including:
 	- at least three clips
 	- B-roll footage while the audio from another clip continues
@@ -26,5 +26,4 @@ For this exercise, you'll use iMovie to edit a short video combining several cli
 
 Videography shows thought and reflects principles learned in class | 10
 Editing shows thought and reflects principles learned in class | 10
-Narrative is clear and effective | 10
 Requirements met: number of clips, transitions, etc. | 10

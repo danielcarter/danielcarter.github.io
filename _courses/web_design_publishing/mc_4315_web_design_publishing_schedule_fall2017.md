@@ -21,13 +21,13 @@ W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www
 M 2/19 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__ __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
 W 2/21 | Design |
 M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-W 2/28 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Watch [Understanding the Bootstrap Responsive CSS Layout Grid](https://www.youtube.com/watch?v=PmJTLCx0GRI) <br />Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/)
-M 3/5 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
-W 3/7 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br />__[iMovie Exercise](/assignments/web_design_publishing/web_design_publishing_imovie_exercise.html)__
+W 2/28 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
+M 3/5 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+W 3/7 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap Layout Documentation](http://getbootstrap.com/docs/4.0/layout/overview/)  <br />__[iMovie Exercise](/assignments/general/imovie_exercise.html)__
 M 3/12 | NO CLASS
 W 3/14 | NO CLASS
-M 3/19 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
-W 3/21 | Responsive Design | Read ["Long Live the Group Chat"](https://theoutline.com/post/2315/long-live-the-group-chat) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
+M 3/19 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
+W 3/21 | Work Day | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 M 3/26 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
 W 3/28 | Story | Read [The Barnacle Queen of the Spanish Seaside](http://roadsandkingdoms.com/2016/barnacle-queens-of-the-seaside/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 M 4/2 | Pitch Day |
