@@ -20,7 +20,7 @@ M 2/12 | Multimedia | Read [How Do Families Around the World Spend Their Vacatio
 W 2/14 | Multimedia | Watch [The Aria of Babyface Cauliflower Brown](https://www.nytimes.com/video/opinion/100000005225388/the-aria-of-babyface-cauliflower-brown.html)
 M 2/19 | Multimedia | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__ __[Project 1: Basic Site (Phase 2)](/assignments/web_design_publishing/web_design_publishing_personal_portfolio.html)__{: .major_project}
 W 2/21 | Design |
-M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/products/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+M 2/26 | Design | Read [Dieter Rams: 10 Principles of Good Design](https://readymag.com/shuffle/dieter-rams/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 W 2/28 | Responsive Design | Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
 M 3/5 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https://gimletmedia.com/episode/long-distance/) <br /> __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 W 3/7 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap Layout Documentation](http://getbootstrap.com/docs/4.0/layout/overview/)  <br />__[iMovie Exercise](/assignments/general/imovie_exercise.html)__
