@@ -1,30 +1,31 @@
 ---
 layout: default
 permalink: web_exercises.html
-title: Web Design Exercises
+title: Web Development Resources and Exercises
 ---
 
-Each exercise includes an index.html file and a solution.html file. The goal of these exercises is to make your index.html file appear, in a browser, the same as the solution.html file.
+These resources and exercises are hosted on [glitch.com](http://www.glitch.com). You can look at the code and understand how it works -- you can also remix the code to create something of your own.
+
+### HTML
+
+- [HTML and CSS Starter Template](https://glitch.com/edit/#!/slime-period)
 
 ### CSS
 
-For these exercises, you'll be editing main.css to make index.html appear the same as solution.html.
-
-- Two-column Layout: [Download]({{site.url}}/exercises/css/two-column-layout.zip) or [View Solution]({{site.url}}/exercises/css/two-column-layout/solution.html)
-- Text Formatting: [Download]({{site.url}}/exercises/css/text_formatting.zip) or [View Solution]({{site.url}}/exercises/css/text_formatting/solution.html)
-- Header Image: [Download]({{site.url}}/exercises/css/header_image.zip) or [View Solution]({{site.url}}/exercises/css/header_image/solution.html)
+- [Link Styles](https://glitch.com/edit/#!/mint-octave)
+- [Columns and Floats](https://glitch.com/edit/#!/knowledgeable-driver)
+- [Exercise: Selectors and Floats](https://glitch.com/edit/#!/almond-shelf)
+- [Responsive Columns](https://glitch.com/edit/#!/deserted-pegasus)
+- [Responsive Text Size](https://glitch.com/~fate-chocolate)
 
 ### Bootstrap
 
-For these exercises, you'll be editing index.html and main.css to make index.html appear the same as solution.html. You will need to write HTML markup using Bootstrap classes and components and might also need to write custom CSS in main.css.
+- [Bootstrap Starter Template](https://glitch.com/edit/edit#!/discreet-tadpole)
 
-- Bootstrap Intro: [Download]({{site.url}}/exercises/bootstrap/bootstrap_intro.zip) or [View Solution]({{site.url}}/exercises/bootstrap/bootstrap_intro/solution.html)
-- Responsive Bios: [Download]({{site.url}}/exercises/bootstrap/responsive_bios.zip) or [View Solution]({{site.url}}/exercises/bootstrap/responsive_bios/solution.html)
-- Responsive Portfolio
-[Download]({{site.url}}/exercises/bootstrap/bootstrap_responsive_portfolio.zip) or [View Solution]({{site.url}}/exercises/bootstrap/bootstrap_responsive_portfolio/solution.html)
-- Collapsing Navbar
-[Download]({{site.url}}/exercises/bootstrap/bootstrap_collapsing_navbar.zip) or [View Demo]({{site.url}}/exercises/bootstrap/bootstrap_collapsing_navbar/index.html)
+### CSS Animation
 
-The links below are to a sample portfolio site built using Bootstrap. It's pretty basic, so you should customize it as you build your own.
-
-- Bootstrap Basic Portfolio: [Download]({{site.url}}/exercises/bootstrap/bootstrap_portfolio.zip) or [View Portfolio]({{site.url}}/exercises/bootstrap/bootstrap_portfolio/index.html)
+- [Basic Hover](https://glitch.com/edit/#!/thirsty-height)
+- [Basic Event Listener](https://glitch.com/edit/#!/sequoia-lawyer)
+- [Event Listener for Popup](https://glitch.com/edit/#!/ancient-battery)
+- [Event Listener for Popup with Data](https://glitch.com/edit/#!/road-soybean)
+- [Layers and Random Movement](https://glitch.com/edit/#!/aquamarine-zone)
