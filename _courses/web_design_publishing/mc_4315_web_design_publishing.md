@@ -16,6 +16,7 @@ assignments:
   - reading_response
 resources:
   - web_exercises
+  - video_tutorials
   - wordpress_resources
   - html_starter_template
   - html_css_starter_template

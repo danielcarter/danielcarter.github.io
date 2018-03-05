@@ -1,7 +1,7 @@
 ---
 title: 'iMovie Exercise'
 short_title: imovie_exercise
-resources:
+resources: tutorial_video_embed
 ---
 
 For this exercise, you'll use iMovie to edit a short video combining several clips.

@@ -17,6 +17,7 @@ These resources and exercises are hosted on [glitch.com](http://www.glitch.com).
 - [Exercise: Selectors and Floats](https://glitch.com/edit/#!/almond-shelf)
 - [Responsive Columns](https://glitch.com/edit/#!/deserted-pegasus)
 - [Responsive Text Size](https://glitch.com/~fate-chocolate)
+- [Exercise: Responsive Columns, Font Size and Display](https://glitch.com/edit/#!/gleaming-flax)
 
 ### Bootstrap
 

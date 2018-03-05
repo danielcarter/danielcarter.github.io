@@ -44,8 +44,11 @@ html_css_starter_template:
   title: "HTML and CSS Starter Template"
   link: "/assets/resources/css_starter_template.zip"
 web_exercises:
-  title: "Web Design Exercises"
+  title: "Web Development Demonstrations and Exercises"
   link: "/web_exercises.html"
+video_tutorials:
+  title: "Video Tutorials"
+  link: "/video_tutorials.html"
 bootstrap_starter_template:
   title: "Bootstrap Starter Template"
   link: "http://www.glitch.com/edit/#!/discreet-tadpole"
@@ -58,3 +61,12 @@ multipage_html_document:
 project_1_checklist:
   title: "Project 1 Checklist"
   link: "/assignments/web_design_publishing/web_design_publishing_personal_portfolio_checklist.html"
+tutorial_file_management:
+  title: "Tutorial: File Management and FTP"
+  link: "https://youtu.be/IAa-iFZuat8"
+tutorial_video_embed:
+  title: "Tutorial: Uploading and Embedding Videos"
+  link: "https://youtu.be/6d9eWoPteGU"
+tutorial_cropping_images:
+  title: "Tutorial: Resizing, Cropping and Exporting Images"
+  link: ""

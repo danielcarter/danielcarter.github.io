@@ -13,6 +13,8 @@ assignments:
   - advanced_online_media_design_maifesto
   - learning_journal
   - reading_response
+resources:
+  - web_exercises  
 ---
 
 This course introduces students to advanced web development topics related to interaction and data, with an emphasis on their relevance to online storytelling. In addition to covering technical topics such as JavaScript, data visualization and version control, we'll read work from fields like interaction design and human-computer interaction and ask how this addresses (or doesn't) questions around the production of interactive, multimedia narratives.
