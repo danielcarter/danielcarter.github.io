@@ -21,7 +21,7 @@ These resources and exercises are hosted on [glitch.com](http://www.glitch.com).
 
 ### Bootstrap
 
-- [Bootstrap Starter Template](https://glitch.com/edit/edit#!/stormy-wholesaler)
+- [Bootstrap Starter Template](https://glitch.com/edit/#!/stormy-wholesaler)
 - [Bootstrap Columns](https://glitch.com/edit/edit#!/grey-router)
 
 
