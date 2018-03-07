@@ -26,7 +26,7 @@ M 3/5 | Responsive Design | Listen to [Reply All: Long Distance - Part 1](https:
 W 3/7 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521) <br />Look over [Bootstrap Layout Documentation](http://getbootstrap.com/docs/4.0/layout/overview/)  <br />__[iMovie Exercise](/assignments/general/imovie_exercise.html)__
 M 3/12 | NO CLASS
 W 3/14 | NO CLASS
-M 3/19 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/components/)
+M 3/19 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/docs/4.0/components/alerts/)
 W 3/21 | Work Day | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
 M 3/26 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
 W 3/28 | Story | Read [The Barnacle Queen of the Spanish Seaside](http://roadsandkingdoms.com/2016/barnacle-queens-of-the-seaside/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
