@@ -16,12 +16,14 @@ These resources and exercises are hosted on [glitch.com](http://www.glitch.com).
 - [Columns and Floats](https://glitch.com/edit/#!/knowledgeable-driver)
 - [Exercise: Selectors and Floats](https://glitch.com/edit/#!/almond-shelf)
 - [Responsive Columns](https://glitch.com/edit/#!/deserted-pegasus)
-- [Responsive Text Size](https://glitch.com/~fate-chocolate)
+- [Responsive Text Size](https://glitch.com/edit/#!/fate-chocolate)
 - [Exercise: Responsive Columns, Font Size and Display](https://glitch.com/edit/#!/gleaming-flax)
 
 ### Bootstrap
 
-- [Bootstrap Starter Template](https://glitch.com/edit/edit#!/discreet-tadpole)
+- [Bootstrap Starter Template](https://glitch.com/edit/edit#!/stormy-wholesaler)
+- [Bootstrap Columns](https://glitch.com/edit/edit#!/grey-router)
+
 
 ### CSS Animation
 
