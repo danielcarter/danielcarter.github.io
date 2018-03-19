@@ -18,10 +18,10 @@ For your final project, you'll create a multimedia narrative.
 2. Create a subdomain for your project and install Wordpress.
 3. Choose a theme for your site.
 4. Your site must include:
-  - roughly 1200-1500 words of text.
-  - at least one video and one slideshow. Extra credit will be given to sites that include additional data elements such as maps or graphs.
+  - roughly 900-1200 words of text.
+  - at least one video and one slideshow. Extra credit will be given to sites that include additional elements such as maps or graphs.
   - your contact information.
-5. Add the site to your portfolio and post a link to #general.
+5. Post a link to your project in #general.
 
 ### Examples
 
