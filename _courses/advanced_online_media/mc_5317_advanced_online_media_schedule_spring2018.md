@@ -7,7 +7,7 @@ dates: Spring 2018, W 6:30 - 9:20pm
 
 ---
 
-Date | Description | Due
+Date | Description | Due 
 ---: | :----------- | :---
 W 1/17 | Course Introduction: Interaction, Experience, Communication | Read [*Thoughtful Interaction Design* Introduction (14 pages)](/assets/readings/Thoughtful_Interaction_Design_Introduction.pdf), ["What is Code?" through What's With All These Conferences, Anyway?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 W 1/24 | Introduction to Javascript 1: Data Types and Variables | Read [*Emotional Design*, Prologue (12 pages)](/assets/readings/Emotional_Design_Prologue.pdf), [*Javascript for Kids*, Chapters 1 and 2 (36 easy pages)](/assets/readings/Javascript_for_Kids_Chp_1_2.pdf)<br /> Complete [Codecademy: Introduction to JavaScript](https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/resume?course_redirect=introduction-to-javascript) <br /> __[Reading Response](/assignments/general/reading_response.html)__
