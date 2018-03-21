@@ -7,7 +7,7 @@ dates: Spring 2018, W 6:30 - 9:20pm
 
 ---
 
-Date | Description | Due 
+Date | Description | Due
 ---: | :----------- | :---
 W 1/17 | Course Introduction: Interaction, Experience, Communication | Read [*Thoughtful Interaction Design* Introduction (14 pages)](/assets/readings/Thoughtful_Interaction_Design_Introduction.pdf), ["What is Code?" through What's With All These Conferences, Anyway?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 W 1/24 | Introduction to Javascript 1: Data Types and Variables | Read [*Emotional Design*, Prologue (12 pages)](/assets/readings/Emotional_Design_Prologue.pdf), [*Javascript for Kids*, Chapters 1 and 2 (36 easy pages)](/assets/readings/Javascript_for_Kids_Chp_1_2.pdf)<br /> Complete [Codecademy: Introduction to JavaScript](https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/resume?course_redirect=introduction-to-javascript) <br /> __[Reading Response](/assignments/general/reading_response.html)__
@@ -18,7 +18,7 @@ W 2/21 | Interaction Patterns | Read ["Long Live the Group Chat"](https://theout
 W 2/28 | Animation | Read [AIGA Manifesto Mania](https://www.aiga.org/manifesto-mania) (Read the article and pick one linked manifesto to read and discuss.)
 W 3/7 | Frameworks: jQuery | __[Project 2: Interaction Project](/assignments/advanced_online_media/advanced_online_media_interaction_project.html)__{: .major_project} __[Learning Journal](/assignments/general/learning_journal.html)__
 W 3/14 | NO CLASS |
-W 3/21 | Data Visualization | Watch [The Beauty of Data Visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg) and [How Our Tools Shape the Way We Tell Stories](https://www.youtube.com/watch?v=GiV7TnOMVWg) <br /> __[Reading Response](/assignments/general/reading_response.html)__
+W 3/21 | Data Visualization | Watch [The Beauty of Data Visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg) and [How Our Tools Shape the Way We Tell Stories](https://www.youtube.com/watch?v=GiV7TnOMVWg)
 W 3/28 | Data Visualization | Read ["Big Data Visualization With Meaning"](https://alistapart.com/article/big-data-visualization-with-meaning), ["The Follower Factory"](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
 W 4/4 | Data Visualization
 W 4/11 | Data Visualization | Read [Experience Design: Technology for All the Right Reasons, Chapter 5 (18 pages)](/assets/readings/Experience_Design_Technology_For_All_The_Right_Reasons_Chp_5.pdf)<br /> __[Project 3: Data Project](/assignments/advanced_online_media/advanced_online_media_data_project.html)__{: .major_project}
