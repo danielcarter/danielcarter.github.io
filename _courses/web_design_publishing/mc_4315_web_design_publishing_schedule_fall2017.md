@@ -27,9 +27,9 @@ W 3/7 | CSS Frameworks | Read [A Comprehensive Introduction to Grids in Web Desi
 M 3/12 | NO CLASS
 W 3/14 | NO CLASS
 M 3/19 | CSS Frameworks | Look over [Bootstrap Components Documentation](https://getbootstrap.com/docs/4.0/components/alerts/)
-W 3/21 | Work Day | 
-M 3/26 | Troubleshooting Quiz |
-W 3/28 | Story | Read [Project Runaway](http://www.complex.com/music/kanye-west-interview-2010-cover-story) <br /> __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project} __[Reading Response](/assignments/general/reading_response.html)__
+W 3/21 | Work Day |
+M 3/26 | Work Day |
+W 3/28 | Troubleshooting Quiz | __[Project 2: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
 M 4/2 | Pitch Day |
 W 4/4 | Content Management Systems | Watch [An Introduction to Wordpress](https://www.youtube.com/watch?v=FAwbe17cGpw)
 M 4/9 | Content Management Systems | __[Documentation Exercise](/assignments/general/documentation_exercise.html)__
