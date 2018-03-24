@@ -18,9 +18,9 @@ W 2/21 | Interaction Patterns | Read ["Long Live the Group Chat"](https://theout
 W 2/28 | Animation | Read [AIGA Manifesto Mania](https://www.aiga.org/manifesto-mania) (Read the article and pick one linked manifesto to read and discuss.)
 W 3/7 | Frameworks: jQuery | __[Project 2: Interaction Project](/assignments/advanced_online_media/advanced_online_media_interaction_project.html)__{: .major_project} __[Learning Journal](/assignments/general/learning_journal.html)__
 W 3/14 | NO CLASS |
-W 3/21 | Data Visualization | Watch [The Beauty of Data Visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg) and [How Our Tools Shape the Way We Tell Stories](https://www.youtube.com/watch?v=GiV7TnOMVWg)
-W 3/28 | Data Visualization | Read ["Big Data Visualization With Meaning"](https://alistapart.com/article/big-data-visualization-with-meaning), ["The Follower Factory"](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
-W 4/4 | Data Visualization
+W 3/21 | Data Visualization |
+W 3/28 | Data Visualization | Read ["Big Data Visualization With Meaning"](https://alistapart.com/article/big-data-visualization-with-meaning)<br /> Watch [The Beauty of Data Visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+W 4/4 | Data Visualization | Watch [How Our Tools Shape the Way We Tell Stories](https://www.youtube.com/watch?v=GiV7TnOMVWg)
 W 4/11 | Data Visualization | Read [Experience Design: Technology for All the Right Reasons, Chapter 5 (18 pages)](/assets/readings/Experience_Design_Technology_For_All_The_Right_Reasons_Chp_5.pdf)<br /> __[Project 3: Data Project](/assignments/advanced_online_media/advanced_online_media_data_project.html)__{: .major_project}
 W 4/18 | Work Day |  __[Learning Journal](/assignments/general/learning_journal.html)__
 W 4/25 | Presentations | __[Final Project](/assignments/advanced_online_media/advanced_online_media_final_project.html)__{: .major_project} __[Design Manifesto](/assignments/advanced_online_media/advanced_online_media_design_manifesto.html)__{: .major_project}
