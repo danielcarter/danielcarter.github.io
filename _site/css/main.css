@@ -102,22 +102,48 @@ section.main {
     color: #fff;
     padding: 20px;
     margin: 3em 0;
-    background-color: #2aa198; }
+    background-color: #ED1067; }
     section.main .box a {
       color: #fff; }
     section.main .box ul {
       margin-bottom: 10px; }
   section.main .assignments {
-    background-color: #d33682; }
+    background-color: #3ecaff; }
   section.main .resources {
-    background-color: #2aa198; }
+    background-color: #00CB78; }
 
 body.no-title section.main {
   /*padding-top: 8em;*/ }
 
-/*** Design Page ***/
-body.gallery .main p {
-  margin: 0 0 5em; }
+/*** Portfolio Page ***/
+body.gallery section.main p {
+  font-family: helvetica, sans-serif;
+  font-size: .7em;
+  width: 50%;
+  line-height: 1.25em;
+  margin-top: 3em; }
+body.gallery section.main .gallery-image {
+  width: 45%; }
+  body.gallery section.main .gallery-image p {
+    width: 100%;
+    margin-top: 0;
+    float: none; }
+  body.gallery section.main .gallery-image a {
+    display: block;
+    border: none; }
+body.gallery section.main .gallery {
+  padding: 5em 0;
+  float: left; }
+body.gallery section.main .gallery-left p {
+  float: right;
+  text-align: left; }
+body.gallery section.main .gallery-left .gallery-image {
+  float: left; }
+body.gallery section.main .gallery-right p {
+  float: left;
+  text-align: right; }
+body.gallery section.main .gallery-right .gallery-image {
+  float: right; }
 
 /*** Bootstrap Table ***/
 /* Pulled from https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap.css#L2079-L2241 */
@@ -150,7 +176,7 @@ table tbody tr:nth-of-type(odd) {
 
 table td strong, p.schedule_link a {
   font-weight: normal;
-  background-color: #2aa198;
+  background-color: #ED1067;
   padding: .25em .5em .15em;
   border: none;
   border-radius: .25em;
@@ -160,7 +186,7 @@ table td strong, p.schedule_link a {
   line-height: 1.5em; }
 
 table td strong.major_project {
-  background-color: #d33682; }
+  background-color: #3ecaff; }
 
 table td strong a {
   border: none;
@@ -184,7 +210,7 @@ table td strong.major_project a {
     header h1 span a {
       padding: 6px 11px;
       color: #444;
-      background-color: #2aa198;
+      background-color: #ED1067;
       display: inline;
       margin: 0px 10px 0 0px;
       vertical-align: middle; }
@@ -194,4 +220,23 @@ table td strong.major_project a {
     display: none; }
 
   iframe {
-    max-width: 100%; } }
+    max-width: 100%; }
+
+  /*** Portfolio Page ***/
+  body.gallery section.main p {
+    width: 100%; }
+  body.gallery section.main .gallery-image {
+    width: 100%; }
+  body.gallery section.main .gallery {
+    padding: 5em 0;
+    float: none; }
+  body.gallery section.main .gallery-left p {
+    float: none;
+    text-align: left; }
+  body.gallery section.main .gallery-left .gallery-image {
+    float: none; }
+  body.gallery section.main .gallery-right p {
+    float: none;
+    text-align: left; }
+  body.gallery section.main .gallery-right .gallery-image {
+    float: none; } }

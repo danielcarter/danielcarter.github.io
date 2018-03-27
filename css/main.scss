@@ -8,12 +8,12 @@ $dark: #444;
 $dark2: #999;
 $light: #ededed;
 
-$light_bg_1: #2aa198;
-$light_bg_2: #d33682;
-$light_bg_3: #2aa198;
+$light_bg_1: #ED1067;
+$light_bg_2: #3ecaff;
+$light_bg_3: #00CB78;
 
-$higlight_text: #2aa198;
-$higlight_text_important: #d33682;
+$higlight_text: #ED1067;
+$higlight_text_important: #3ecaff;
 
 $full_width: 900px;
 $sidebar_width: 240px;
@@ -186,10 +186,69 @@ body.no-title section.main {
   /*padding-top: 8em;*/
 }
 
-/*** Design Page ***/
-body.gallery .main p {
-  margin: 0 0 5em;
+/*** Portfolio Page ***/
+body.gallery section.main {
+
+  p {
+    font-family: $sans;
+    font-size: .7em;
+    width: 50%;
+    line-height: 1.25em;
+    margin-top: 3em;
+
+  }
+
+  .gallery-image {
+    width: 45%;
+
+    p {
+        width: 100%;
+        margin-top: 0;
+        float: none;
+    }
+
+    a {
+      display: block;
+      border: none;
+    }
+
+  }
+
+  .gallery {
+    padding: 5em 0;
+    float: left;
+  }
+
+  .gallery-left {
+
+    p {
+      float: right;
+      text-align: left;
+    }
+
+    .gallery-image {
+      float: left;
+
+    }
+  }
+
+  .gallery-right {
+
+    p {
+      float: left;
+      text-align: right;
+    }
+
+    .gallery-image {
+      float: right;
+
+    }
+  }
+
 }
+
+
+
 
 
 
@@ -295,5 +354,50 @@ table td strong.major_project a {
   }
 
   iframe { max-width: 100%; }
+
+  /*** Portfolio Page ***/
+  body.gallery section.main {
+
+    p {
+      width: 100%;
+    }
+
+    .gallery-image {
+      width: 100%;
+
+    }
+
+    .gallery {
+      padding: 5em 0;
+      float: none;
+    }
+
+    .gallery-left {
+
+      p {
+        float: none;
+        text-align: left;
+      }
+
+      .gallery-image {
+        float: none;
+      }
+    }
+
+    .gallery-right {
+
+      p {
+        float: none;
+        text-align: left;
+      }
+
+      .gallery-image {
+        float: none;
+
+      }
+    }
+
+  }
+
 
 }

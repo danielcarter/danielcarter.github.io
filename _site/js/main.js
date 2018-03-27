@@ -4,4 +4,7 @@ $( document ).ready(function() {
 		$('nav').toggleClass('hidden');
 	})
 
+	$('body.gallery div.gallery:odd').addClass('gallery-right');
+	$('body.gallery div.gallery:even').addClass('gallery-left');
+
 });
