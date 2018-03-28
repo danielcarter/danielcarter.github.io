@@ -39,4 +39,4 @@ W 4/18 | Work Day: Final Project |
 M 4/23 | Presentations | __[Project 3: Multimedia Narrative - Final](/assignments/web_design_publishing/web_design_publishing_multimedia_narrative.html)__{: .major_project}
 W 4/25 | Course Wrap-up and Work Day |
 M 4/30 | Course Wrap-up and Work Day |
-F 5/4 | __[Project 4: Personal Portfolio Redesign](/assignments/web_design_publishing/web_design_publishing_personal_portfolio_redesign.html)__{: .major_project}
+F 5/4 | No class | __[Project 4: Personal Portfolio Redesign](/assignments/web_design_publishing/web_design_publishing_personal_portfolio_redesign.html)__{: .major_project}
