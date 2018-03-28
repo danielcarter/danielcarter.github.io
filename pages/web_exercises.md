@@ -43,3 +43,5 @@ These resources and exercises are hosted on [glitch.com](http://www.glitch.com).
 - [Plotly: Basic Introduction](https://glitch.com/edit/#!/twilight-bathroom)
 - [Plotly: Scatterplots](https://glitch.com/edit/#!/instinctive-print)
 - [Plotly: Bar Charts](https://glitch.com/edit/#!/cold-sidecar)
+- [Plotly: Basic Chloropleth Map](https://glitch.com/edit/#!/shrouded-ladybug)
+- [Plotly: Scatterplot Map with MapBox](https://glitch.com/edit/#!/brawny-party)
