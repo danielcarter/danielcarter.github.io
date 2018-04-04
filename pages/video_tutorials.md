@@ -14,3 +14,7 @@ Below are links to video tutorials and walkthroughs for various courses.
 ### Multimedia
 
 - [Tutorial: Resizing, Cropping and Exporting Images](https://www.youtube.com/watch?v=80AzMpsgPJE&feature=youtu.be)
+
+### Wordpress
+
+- [Tutorial: Install Wordpress on Reclaim Hosting](https://www.youtube.com/watch?v=cE548bpO4nc&feature=youtu.be)

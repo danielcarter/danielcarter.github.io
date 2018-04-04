@@ -3,6 +3,7 @@ title: 'Project 3: Multimedia Narrative'
 short_title: web_design_publishing_multimedia_narrative
 resources:
   - wordpress_resources
+  - tutorial_install_wordpress
 ---
 
 For your final project, you'll create a multimedia narrative.

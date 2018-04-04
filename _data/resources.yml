@@ -70,3 +70,6 @@ tutorial_video_embed:
 tutorial_cropping_images:
   title: "Tutorial: Resizing, Cropping and Exporting Images"
   link: ""
+tutorial_install_wordpress:
+  title: "Tutorial: Installing Wordpress on Rcclaim Hosting"
+  link: "https://youtu.be/cE548bpO4nc"
