@@ -1,0 +1,40 @@
+
+h1 {
+  padding: 1%;
+}
+
+p {
+  padding: 1%;
+}
+
+body{
+  background-color: #dadee3;
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+.container-fluid {
+  padding: 0%;
+  width: 100%;
+}
+div.form-group {
+  margin: 0%;
+}
+
+#rowservice {
+  padding-top: 3%;
+}
+
+#home {
+  background-color:  #000099;
+  color: white;
+  padding: 8%;
+}
+
+h1 {
+  padding-bottom: 5%;
+}
+
+#meet {
+  padding-bottom: 8px;
+}

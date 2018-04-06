@@ -21,13 +21,10 @@ For your second project, you'll create a site for an organization. You can pick 
 3. Based on your sketches, create a site with at least four pages. Use Bootstrap's CSS framework and make the site responsive.
 4. Upload the project to your server and add the project to your personal portfolio. __Post a link to your project in #general__.
 
-<!--
 ### Examples
 
-- [Lake Breeze Ski Lodge](/assets/example_projects/lake_breeze_ski_lodge) by Nicole Avalos
-- [Matador Color Guard](/assets/example_projects/matador_color_guard) by Sean Smith
+- [All American Machine Shop](/assets/example_projects/milestone_motorcycles) by Haley Roberson
 - [Milestone Motorcycles](/assets/example_projects/milestone_motorcycles) by John Hernandez
--->
 
 ### Grading Rubric
 

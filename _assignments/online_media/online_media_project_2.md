@@ -31,6 +31,5 @@ For your second project, you'll create a site for an organization. You can pick 
 
 ### Examples
 
-- [Lake Breeze Ski Lodge](/assets/example_projects/lake_breeze_ski_lodge) by Nicole Avalos
-- [Matador Color Guard](/assets/example_projects/matador_color_guard) by Sean Smith
+- [All American Machine Shop](/assets/example_projects/milestone_motorcycles) by Haley Roberson
 - [Milestone Motorcycles](/assets/example_projects/milestone_motorcycles) by John Hernandez
