@@ -135,7 +135,7 @@ A chronological list of things I've made, designed, produced and/or written.
 
 
 
-
+<!--
 <div class="gallery">
 
 <div class="gallery-image">
@@ -148,3 +148,4 @@ A chronological list of things I've made, designed, produced and/or written.
 
 2007 - 2009 <br /> I was a wedding photographer and also did some magazine work.
 </div>
+-->
