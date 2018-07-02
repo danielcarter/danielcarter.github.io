@@ -2,25 +2,18 @@
 menu: true
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
-dates: Spring 2018, MW 3:30 - 4:50pm
-venue: Old Main 00238
-schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule_fall2017.html
+dates: Summer Session II 2018, MTWRF 2:00 - 3:40pm
+venue: Old Main 106B
+schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
 assignments:
-  - web_design_publishing_personal_portfolio
+  - web_design_publishing_personal_site
+  - web_design_publishing_multimedia_profile
   - web_design_publishing_organization_site
-  - web_design_publishing_multimedia_narrative
-  - web_design_publishing_personal_portfolio_redesign
-  - imovie_exercise
-  - troubleshooting_quiz
-  - documentation_exercise
-  - reading_response
+  - reading_response_short
 resources:
   - web_exercises
   - video_tutorials
   - wordpress_resources
-  - html_starter_template
-  - html_css_starter_template
-  - bootstrap_starter_template
 ---
 
 This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will analyze examples of online storytelling and will think about web design and development in the context of social issues such as access and diversity.
@@ -39,18 +32,16 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc4315spring2018.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc4315summer2018.slack.com).
 
 ### Evaluation
 
-Project 1: Personal Portfolio | 10%
-Project 2: Organization Site | 15%
-Project 3: Multimedia Narrative | 15%
-Project 4: Personal Portfolio Redesign | 15%
-Documentation Exercises | 15%
-iMovie Exercise | 10%
-Troubleshooting Quiz | 10%
+Project 1: Personal Site | 10%
+Project 2: Multimedia Profile | 20%
+Project 3: Organization Site | 30%
+Troubleshooting Quizzes | 20%
 Reading Responses | 10%
+Participation | 10%
 
 ### Grade Scale
 
@@ -59,16 +50,6 @@ B | 80 - 89
 C | 70 - 79
 D | 60 - 69
 F | < 60
-
-### Attendance
-
-Each unexcused absence in addition to five will result in two points off your final grade.
-
-### Extra Credit
-
-If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who's voted most helpful at the end of the semester.
-
-The student who has the best proposal on pitch day will also receive an extra one point on their final grade.
 
 ### Late Work
 

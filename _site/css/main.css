@@ -185,6 +185,16 @@ table td strong, p.schedule_link a {
   margin: .5em 0;
   line-height: 1.5em; }
 
+table td.week {
+  background-color: #444;
+  color: #ededed; }
+
+table td.week strong {
+  background-color: transparent;
+  color: #ededed;
+  padding: 0;
+  margin: 0; }
+
 table td strong.major_project {
   background-color: #3ecaff; }
 

@@ -1,18 +1,17 @@
 ---
-title: 'Project 2: Organization Site'
+title: 'Project 3: Organization Site'
 short_title: web_design_publishing_organization_site
 resources:
   - boostrap_documentation
   - bootstrap_starter_template
 ---
 
-For your second project, you'll create a site for an organization. You can pick any organization you want, but you need to have access to people associated with it -- you can already know them or meet them for this project. Think about school organizations (e.g., a show on KTSW), community organizations (e.g., a non-profit or a business), friends who have a band or anything else -- ask me if you're not sure if something will work.  
+For your final project, you'll create a site for an organization. You can pick any organization you want, but you need to have access to people associated with it &mdash; you can already know them or meet them for this project. Think about school organizations (e.g., a show on KTSW), community organizations (e.g., a non-profit or a business), friends who have a band or anything else &mdash; ask me if you're not sure if something will work.  
 
 ### Learning Objectives
 
-- Practice producing multimedia narratives.
-- Practice moving from sketches / designs to complete sites.
-- Practice using CSS frameworks and creating responsive sites.
+- Practice using multimedia production and web development skills.
+- Practice using content management systems.
 
 ### Instructions
 

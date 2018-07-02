@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 title: MC 5317 Advanced Online Media
 short_title: Advanced Online Media
 dates: Spring 2018, W 6:30 - 9:20pm
