@@ -93,6 +93,9 @@ section.main {
   margin: 40px 0;
   position: relative;
   line-height: 1.5em; }
+  section.main strong {
+    background-color: #fffb0f;
+    padding: 0 .25em; }
   section.main img {
     width: 100%; }
   section.main p.venue, section.main p.schedule_link, section.main p.date_completed {
@@ -174,7 +177,7 @@ table-sm td {
 table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05); }
 
-table td strong, p.schedule_link a {
+section.main table td strong, p.schedule_link a {
   font-weight: normal;
   background-color: #ED1067;
   padding: .25em .5em .15em;
@@ -189,13 +192,13 @@ table td.week {
   background-color: #444;
   color: #ededed; }
 
-table td.week strong {
+section.main table td.week strong {
   background-color: transparent;
   color: #ededed;
   padding: 0;
   margin: 0; }
 
-table td strong.major_project {
+section.main table td strong.major_project {
   background-color: #3ecaff; }
 
 table td strong a {

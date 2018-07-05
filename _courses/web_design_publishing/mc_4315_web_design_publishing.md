@@ -5,15 +5,16 @@ short_title: Web Design and Publishing
 dates: Summer Session II 2018, MTWRF 2:00 - 3:40pm
 venue: Old Main 106B
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
+slack_link: https://mc4315summer2018.slack.com
+glitch_link: http://glitch.com/drcarter
 assignments:
   - web_design_publishing_personal_site
   - web_design_publishing_multimedia_profile
   - web_design_publishing_organization_site
   - reading_response_short
 resources:
-  - web_exercises
   - video_tutorials
-  - wordpress_resources
+  
 ---
 
 This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will analyze examples of online storytelling and will think about web design and development in the context of social issues such as access and diversity.

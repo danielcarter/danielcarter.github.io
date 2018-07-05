@@ -145,6 +145,11 @@ section.main {
   position: relative;
   line-height: 1.5em;
 
+  strong {
+    background-color: #fffb0f;
+    padding: 0 .25em;
+  }
+
   img {
     width: 100%;
   }
@@ -289,7 +294,7 @@ table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
 
-table td strong, p.schedule_link a {
+section.main table td strong, p.schedule_link a {
   font-weight: normal;
   background-color: $higlight_text;
   padding: .25em .5em .15em;
@@ -306,14 +311,14 @@ table td.week {
   color: $light;
 }
 
-table td.week strong {
+section.main table td.week strong {
   background-color: transparent;
   color: $light;
   padding: 0;
   margin: 0;
 }
 
-table td strong.major_project {
+section.main table td strong.major_project {
   background-color: $higlight_text_important;
 }
 

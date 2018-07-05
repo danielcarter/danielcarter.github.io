@@ -9,10 +9,19 @@
   </p>
 
 
-
+  <p class="schedule_link">
   {% if page.schedule_link %}
-    <p class="schedule_link"><a href="{{site.url}}{{ page.schedule_link }}">Full Schedule</a></p>
+    <a href="{{site.url}}{{ page.schedule_link }}">Full Schedule</a>
   {% endif %}
+
+  {% if page.slack_link %}
+    <a href="{{ page.slack_link }}">Slack</a>
+  {% endif %}
+
+  {% if page.glitch_link %}
+    <a href="{{ page.glitch_link }}">Glitch</a>
+  {% endif %}
+  </p>
 
   {{content}}
 

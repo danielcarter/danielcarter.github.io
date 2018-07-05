@@ -22,7 +22,7 @@ For your second project, you'll use web design and multimedia skills to enhance 
   - at least one carousel.
   - your contact information.
 6. Additionaly, your site should be responsive and should demonstrate significant thought in customizing the content for different screens.
-7. Post a link to your project in #general.
+7. __Post a link to your project in #general.__
 
 ### Grading Rubric
 
