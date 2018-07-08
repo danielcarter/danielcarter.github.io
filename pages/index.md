@@ -6,7 +6,7 @@ template-options:
   - no-title
 ---
 
-I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study sociotechnical systems and am currently interested in 1) how online platforms shape emerging labor practices and 2) how people adapt existing technologies to align with their values.
+I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study sociotechnical systems, infrastructure, labor and technology adaptation.
 
 <!--
 Recently I've written about [spaceships, climate change and optimism](https://theoutline.com/post/2781/the-meaning-of-life-according-to-a-spaceship); [Twitter marketing and Tupperware](http://theoutline.com/post/2487/twitter-parties-are-tupperware-parties-reborn) and [the most depressing side of the gig economy](http://theoutline.com/post/2393/the-only-job-a-robot-couldn-t-do) for [The Outline](http://theoutline.com).

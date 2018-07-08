@@ -14,7 +14,7 @@ assignments:
   - reading_response_short
 resources:
   - video_tutorials
-  
+
 ---
 
 This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will analyze examples of online storytelling and will think about web design and development in the context of social issues such as access and diversity.
@@ -31,9 +31,9 @@ This course involves learning technical skills and also developing ways of think
 
 ### Getting Help
 
-Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
+Many resources are available to you online. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc4315summer2018.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to  [Slack](https://mc4315summer2018.slack.com).
 
 ### Evaluation
 
@@ -42,7 +42,7 @@ Project 2: Multimedia Profile | 20%
 Project 3: Organization Site | 30%
 Troubleshooting Quizzes | 20%
 Reading Responses | 10%
-Participation | 10%
+Attendance | 10%
 
 ### Grade Scale
 
@@ -52,9 +52,13 @@ C | 70 - 79
 D | 60 - 69
 F | < 60
 
+### Attendance
+
+Each absence in addition to two will result in a loss of 10% of the attendance portion of your grade.
+
 ### Late Work
 
-Unless you have received an extension, assignments turned in late will have five points deducted per day. Work turned in over five days late will not be graded.
+Unless you have received an extension, assignments turned in late will have five points deducted per day. Work turned in over five days late will not be graded. Reading responses cannot be turned in late, and in-class quizzes cannot be completed outside of class without an approved excused absence.
 
 ### Communication
 
