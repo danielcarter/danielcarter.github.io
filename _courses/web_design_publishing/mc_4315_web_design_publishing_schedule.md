@@ -10,7 +10,7 @@ venue: Old Main 106B
 Date | Description | Due
 ---: | :----------- | :---
 __M  7/9__{: .week} | Introduction | [Duckett, Introduction](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-T 7/10 | HTML | Read [Duckett, Chapters 1 through 3 2](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
+T 7/10 | HTML | Read [Duckett, Chapters 1 through 3](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
 W 7/11 | HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 4 and 5](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 R 7/12 | CSS | Read [Duckett, Chapters 10, 11 and 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 F 7/13 | NO CLASS |
