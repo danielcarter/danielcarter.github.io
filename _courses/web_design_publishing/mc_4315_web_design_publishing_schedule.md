@@ -10,8 +10,8 @@ venue: Old Main 106B
 Date | Description | Due
 ---: | :----------- | :---
 __M  7/9__{: .week} | Introduction | [Duckett, Introduction](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-T 7/10 | HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 1 and 2](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
-W 7/11 | HTML | Read [Duckett, Chapters 3 and 4](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+T 7/10 | HTML | Read [Duckett, Chapters 1 and 2](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
+W 7/11 | HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 3 and 4](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 R 7/12 | CSS | Read [Duckett, Chapters 10, 11 and 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 F 7/13 | NO CLASS |
 __M 7/16__{: .week} | CSS | Read [Duckett, Chapters 13, 15 and 16](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
