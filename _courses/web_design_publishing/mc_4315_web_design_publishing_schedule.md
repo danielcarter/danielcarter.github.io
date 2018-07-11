@@ -12,9 +12,9 @@ Date | Description | Due
 __M  7/9__{: .week} | Introduction | [Duckett, Introduction](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 T 7/10 | HTML | Read [Duckett, Chapters 1 through 3](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
 W 7/11 | HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 4 and 5](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-R 7/12 | CSS | Read [Duckett, Chapters 10, 11 and 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+R 7/12 | CSS | Read [Duckett, Chapters 10 through 13](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 F 7/13 | NO CLASS |
-__M 7/16__{: .week} | CSS | Read [Duckett, Chapters 13, 15 and 16](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+__M 7/16__{: .week} | CSS | Read [Duckett, Chapters 14 (only lists), 15 and 16](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 T 7/17 | CSS | Read [Dwayne Johnson for President!](https://www.gq.com/story/dwayne-johnson-for-president-cover?src=longreads) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
 W 7/18 | Multimedia Journalism &amp; <br /> Troubleshooting Quiz | Watch [The Aria of Babyface Cauliflower Brown](https://www.youtube.com/watch?v=ULhejU7K7DQ)
 R 7/19 | Multimedia: Photography | Read [Women Are Making the Best Rock Music Today](https://www.nytimes.com/interactive/2017/09/05/arts/music/25-women-making-best-rock-music-today.html#snail-mail-quote) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
