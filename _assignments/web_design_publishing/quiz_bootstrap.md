@@ -18,3 +18,4 @@ The quiz will cover the following skills:
 - Embed videos from Youtube or a similar service.
 - Make [images](https://getbootstrap.com/docs/4.1/content/images/#responsive-images) and [video embeds](https://getbootstrap.com/docs/4.1/utilities/embed/#example) responsive.
 - Add classes as needed to overwrite elements' default styles.
+- Use Photoshop to crop images to a consistent size.
