@@ -32,4 +32,4 @@ F 8/3 | Content Management Systems | __Due: [Project 2: Multimedia Profile](/ass
 __M 8/6__{: .week} | Content Management Systems |
 T 8/7 | Work Day |
 W 8/8 | Work Day |
-R 8/9 | Wrap-up | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+R 8/9 | No class | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
