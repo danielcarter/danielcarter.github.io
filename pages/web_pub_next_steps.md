@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: web_pub_next-steps.html
+permalink: web_pub_next_steps.html
 title: After Web Design and Publishing
 ---
 
