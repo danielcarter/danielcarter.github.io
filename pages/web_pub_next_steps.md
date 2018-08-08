@@ -8,7 +8,7 @@ If you're looking for more to learn / work on, the following are good next steps
 
 ### Design
 
-- [Making abd Breaking the Grid](https://books.google.com/books?id=gmVlWKlwrRwC&printsec=frontcover&dq=Making+and+Breaking+the+Grid&hl=en&sa=X&ved=0ahUKEwj8z9Hw5t3cAhVFb60KHQTtCpAQ6AEIKTAA#v=onepage&q=Making%20and%20Breaking%20the%20Grid&f=false)
+- [Making and Breaking the Grid](https://books.google.com/books?id=gmVlWKlwrRwC&printsec=frontcover&dq=Making+and+Breaking+the+Grid&hl=en&sa=X&ved=0ahUKEwj8z9Hw5t3cAhVFb60KHQTtCpAQ6AEIKTAA#v=onepage&q=Making%20and%20Breaking%20the%20Grid&f=false)
 
 ### CSS
 
