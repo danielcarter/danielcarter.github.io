@@ -6,7 +6,7 @@ dates: Fall 2018, MW 3:30 - 4:50pm
 venue: Old Main 106B
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
 slack_link: https://mc4315fall2018.slack.com
-glitch_link: http://glitch.com/drcarter
+glitch_link: https://glitch.com/@danielcarter
 assignments:
   - web_design_publishing_student_bio
   - web_design_publishing_student_bio_redesign
@@ -45,7 +45,7 @@ Project 2: Multimedia Profile - Draft | 5%
 Project 2: Multimedia Profile | 15%
 Project 3: Organization Site - Draft | 5%
 Project 3: Organization Site | 20%
-Troubleshooting Quizzes | 15%
+Quizzes and Exercises | 15%
 Reading Responses | 10%
 Participation and Attendance | 10%
 
@@ -56,6 +56,10 @@ B | 80 - 89
 C | 70 - 79
 D | 60 - 69
 F | < 60
+
+### Extra Credit
+
+Based on class voting, I'll add one point to the final grade of the student who has the best pitch day presentation and multimedia check-in.
 
 ### Attendance
 

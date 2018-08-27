@@ -3,7 +3,7 @@ title: 'User Research Project'
 short_title: online_media_user_research
 ---
 
-For this project, you'll be conducting user research in preparation for your organization site. User research can help you to understand your clients or the people who will use the site. In this project, we'll focus on user research that happens prior to design, but you might also conduct user research to evaluate a project and revise it.
+For this project, you'll be conducting user research in preparation for your organization site. We'll use user research to learn about the people who might use the site.
 
 ### Learning Objectives
 
@@ -12,12 +12,10 @@ For this project, you'll be conducting user research in preparation for your org
 
 ### Instructions
 
-1. Think about what questions you need to answer in order to design a site for your chosen organization. You might want to know, for example, what kind of content the organization has and how it should be organized or who the intended audience is and what their needs and habits are.
+1. Think about what you might need to know about potential users of a site for your chosen organization. You might want to know, for example, how they use the internet or how they think about concepts related to the organization.
 2. Choose two or three of the following user research methods, taken from the [IDEO Field Guide to Human-Centered Design](/assets/readings/field_guide_to_user_centered_design.pdf), that will help you answer your questions:
   - Interview (p. 40)
   - Group Interview (p. 42)
-  - Expert Interview (p. 43)
-  - Extremes and Mainstreams (p. 49)
   - Immersion (p. 52)
   - Card Sort (p. 57)
   - Collage (p. 61)

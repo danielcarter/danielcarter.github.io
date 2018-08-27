@@ -4,22 +4,15 @@ title: MC 5312 Online Media Design
 short_title: Online Media Design
 dates: Fall 2018, Th 6:00 - 8:50pm
 venue: Old Main 238
-schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule_fall2018.html
-glitch_link: http://glitch.com/drcarter
+schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule.html
+glitch_link: https://glitch.com/@danielcarter
 slack_link: https://mc5312fall2018.slack.com
 assignments:
-  - online_media_project_1
+  - online_media_student_bio
   - online_media_user_research
-  - online_media_project_2
-  - online_media_imovie_exercise
-  - online_media_project_3
-resources:
-  - web_exercises
-  - video_tutorials  
-  - wordpress_resources
-  - html_starter_template
-  - html_css_starter_template
-  - bootstrap_starter_template
+  - online_media_multimedia_profile
+  - online_media_organization_site
+  - reading_response
 ---
 
 This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will learn principles of user-centered design and user research and will think about web design and development in the context of social issues such as access and diversity.
@@ -44,11 +37,13 @@ If you have questions that might be of interest to everyone or want to discuss a
 ### Evaluation
 
 Project 1: Personal Site | 10%
-Project 2: Organization Site | 20%
-Project 3: Multimedia Reporting | 25%
+Project 2: Multimedia Profile: Draft | 5%
+Project 2: Multimedia Profile | 15%
+Project 3: Organization Site: Draft | 5%
+Project 3: Organization Site | 20%
 User Research Project | 15%
-iMovie Exercise | 10%
-Weekly Quizzes | 10%
+Reading Responses | 10%
+Quizzes | 10%
 Participation and attendance | 10%
 
 ### Grade Scale
@@ -61,7 +56,7 @@ F | < 60
 
 ### Extra Credit
 
-If the class is active on Slack and uses it to ask questions and get help, I'll add two points to the final grade of the student who is voted most helpful at the end of the semester.
+Based on class voting, I'll add one point to the final grade of the student who has the best pitch day presentation and multimedia check-in.
 
 ### Late Work
 
