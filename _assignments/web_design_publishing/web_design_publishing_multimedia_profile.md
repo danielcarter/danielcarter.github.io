@@ -21,7 +21,7 @@ For your second project, you'll use web design and multimedia skills to enhance 
   - at least one video. The video should contain at least three clips, b-roll with audio from another clip and titles and other text elements as appropriate.
   - at least one carousel.
   - your contact information.
-6. Additionaly, your site should be responsive and should demonstrate significant thought in customizing the content for different screens.
+6. Additionally, your site should be responsive and should demonstrate significant thought in customizing the content for different screens.
 7. __Post a link to your project in #general.__
 
 ### Grading Rubric

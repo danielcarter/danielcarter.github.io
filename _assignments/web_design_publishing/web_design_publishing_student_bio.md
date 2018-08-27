@@ -1,19 +1,19 @@
 ---
-title: 'Project 1: Personal Site'
-short_title: web_design_publishing_personal_site
+title: 'Project 1: Student Bio'
+short_title: web_design_publishing_student_bio
 ---
 
 For your first project, you'll be creating a simple personal site that describes who you are and what you do.
 
 ### Learning Objectives
 
-- Practice writing basic HTML and CSS.
+- Practice writing basic HTML.
 - Practice uploading files to a server.
 
 ### Instructions
 
-1. Your site needs to include at least four pages. You can decide how to use these pages to describe who you are and what you do, but you must include your contact information somewhere.
-2. Remix the class's project in Glitch. Add your content and make <strong>significant</strong> changes to the design and layout.  
+1. Your site needs to include at least four pages. One page should include links to your assinments for the course.
+2. Remix the class's project in Glitch. Add your content and make <strong>significant</strong> changes to the HTML content.  
 3. Your site should include:
   - a <ul> for your menu.
   - at least one image.
@@ -25,4 +25,3 @@ For your first project, you'll be creating a simple personal site that describes
 ### Grading Rubric
 
 Coding contains few errors and reflects concepts learned in class | 10
-Design shows considerable effort and reflects principles learned in class | 10

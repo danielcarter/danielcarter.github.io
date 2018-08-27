@@ -2,34 +2,40 @@
 menu: false
 title: "MC 4315 Web Design and Publishing: Schedule"
 short_title: Web Design Publishing
-dates: Summer Session II 2018, MTWRF 2:00 - 3:40pm
+dates: Fall 2018, MW 3:30 - 4:50pm
 venue: Old Main 106B
 
 ---
 
 Date | Description | Due
 ---: | :----------- | :---
-__M  7/9__{: .week} | Introduction | [Duckett, Introduction](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-T 7/10 | HTML | Read [Duckett, Chapters 1 through 3](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) (Skip Creating a Web Page and Code in a Content Management System)
-W 7/11 | HTML | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 4 and 5](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) <!-- NEXT TIME ADD CHAPTER * -->
-R 7/12 | CSS | Read [Duckett, Chapters 10 through 13](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-F 7/13 | NO CLASS |
-__M 7/16__{: .week} | CSS | Read [Duckett, Chapters 14 (only lists), 15 and 16](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
-T 7/17 | CSS | Watch [Tutorial: File management and FTP](https://www.youtube.com/watch?v=IAa-iFZuat8)
-W 7/18 | Multimedia Journalism &amp; <br /> Troubleshooting Quiz | Watch [The Aria of Babyface Cauliflower Brown](https://www.youtube.com/watch?v=ULhejU7K7DQ) <br /> Read [Dwayne Johnson for President!](https://www.gq.com/story/dwayne-johnson-for-president-cover?src=longreads) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
-R 7/19 | Multimedia: Photography | Read [Women Are Making the Best Rock Music Today](https://www.nytimes.com/interactive/2017/09/05/arts/music/25-women-making-best-rock-music-today.html#snail-mail-quote) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
-F 7/20 | Multimedia: Video |
-__M 7/23__{: .week} | Responsive Design | [Read Pew Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/) <br /> Watch [Content in a Zombie Apocalypse](https://vimeo.com/167935340) (You can stop after the part where she talks about the Start Trek computer.) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__ <br /> __Due: [Project 1: Personal Site](/assignments/web_design_publishing/web_design_publishing_personal_site.html)__{: .major_project}
-T 7/24 | CSS Frameworks | Watch [Introduction to Bootstrap](https://www.youtube.com/watch?v=-cX3IQA0-p4)
-W 7/25 | CSS Frameworks |
-R 7/26 | CSS Frameworks |
-F 7/27 | CSS Frameworks &amp; <br /> Troubleshooting Quiz |
-__M 7/30__{: .week} | Multimedia: Brands and Organizations | Read [A Restaurant Grows in Austin](https://paidpost.nytimes.com/hennessy/a-restaurant-grows-in-austin.html) <br /> Look at [Port of Mokha](http://www.portofmokha.com) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
-T 7/31 | Working with Clients |
-W 8/1 | Content Management Systems |
-R 8/2 | Content Management Systems |
-F 8/3 | Content Management Systems | __Due: [Project 2: Multimedia Profile](/assignments/web_design_publishing/web_design_publishing_multimedia_profile.html)__{: .major_project}
-__M 8/6__{: .week} | Content Management Systems |
-T 8/7 | Work Day |
-W 8/8 | Work Day |
-R 8/9 | No class | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+__M  8/27__{: .week} | Introduction |
+W 8/29 | HTML | Read [Duckett, Chapters 1 and 2](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+__M 9/3__{: .week}  | | NO CLASS
+W 9/5 | HTML | Read [Duckett, Chapter 3](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+__M 9/10__{: .week}  | HTML | Read [Duckett, Chapters 4 and 5](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) <br /> [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html)
+W 9/12 | CSS | Watch [Tutorial: File management and FTP](https://www.youtube.com/watch?v=IAa-iFZuat8)
+__M 9/17__{: .week}  | CSS | Read [Duckett, Chapters 10 through 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)<br /> __Due: [Project 1: Student Bio](/assignments/web_design_publishing/web_design_publishing_student_bio.html)__{: .major_project}
+W 9/19 | CSS | Read [Duckett, Chapters 8 and 13](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+__M 9/24__{: .week}  | CSS |
+W 9/26 | Pitch Day | Read [Dwayne Johnson for President!](https://www.gq.com/story/dwayne-johnson-for-president-cover?src=longreads) <br />Look at [Port of Mokha](http://www.portofmokha.com) <br /> Optional: Read [Orchid Fever](http://www.susanorlean.com/articles/orchid_fever.php) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__ <br />__[Due: Pitch Day Post](/assignments/general/pitch_day_post.html)__
+__M 10/1__{: .week}  | Quiz 1 |
+W 10/3 | Multimedia Stories | Read [Women Are Making the Best Rock Music Today](https://www.nytimes.com/interactive/2017/09/05/arts/music/25-women-making-best-rock-music-today.html#snail-mail-quote) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
+__M 10/8__{: .week}  | Multimedia: Photography | __Due: [Project 1: Student Bio Redesign](/assignments/web_design_publishing/web_design_publishing_student_bio_redesign.html)__{: .major_project}
+W 10/10 | Multimedia: Video | Watch [Hear the Otherworldly Sounds of Skating on Thin Ice](https://www.youtube.com/watch?v=v3O9vNi-dkA) and [The Aria of Babyface Cauliflower Brown](https://www.youtube.com/watch?v=ULhejU7K7DQ) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
+__M 10/15__{: .week}  | Responsive Design | [Read Pew Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
+W 10/17 | Responsive Design |
+__M 10/22__{: .week}  | CSS Frameworks | Watch [Introduction to Bootstrap](https://www.youtube.com/watch?v=-cX3IQA0-p4)
+W 10/24 | CSS Frameworks |
+__M 10/29__{: .week}  | Multimedia Check-in | __[Due: Multimedia Check-in Post](/assignments/general/multimedia_checkin.html)__
+W 10/31 | CSS Frameworks |
+__M 11/5__{: .week}  | Critique Day | __Due: [Project 2: Multimedia Profile Draft](/assignments/web_design_publishing/web_design_publishing_multimedia_profile.html)__{: .major_project}
+W 11/7 | Quiz 2 |
+__M 11/12__{: .week}  | Content Management Systems | __Due: [Project 2: Multimedia Profile ](/assignments/web_design_publishing/web_design_publishing_multimedia_profile.html)__{: .major_project}
+W 11/14 | Content Management Systems | Read [A Restaurant Grows in Austin](https://paidpost.nytimes.com/hennessy/a-restaurant-grows-in-austin.html) <br /> Look at [Port of Mokha](http://www.portofmokha.com) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
+__M 11/19__{: .week}  | Content Management Systems |
+W 11/21 | | NO CLASS
+__M 11/26__{: .week}  | Content Management Systems |
+W 11/28 | Critique Day | __Due: [Project 3: Organization Site Draft](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+__M 12/3__{: .week}  | Work Day |
+W 12/5 | Wrap-up | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}

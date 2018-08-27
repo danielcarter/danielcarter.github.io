@@ -13,11 +13,11 @@ For your final project, you'll create a site for an organization. You can pick a
 ### Instructions
 
 1. Learn about your organization by talking with them and spending time with them. Find out what they're like, how they like to present themselves, who their audience is and what content would go on their site. You should also think about ways to tell the organization's story - take photos and record video and/or audio.
-2. Using Wordpress, create a site with at least four pages. The site should focus on telling the organization's story through multimedia elements using principles learned in class.
+2. Using Wordpress, create a site with at least four pages. The site should focus on telling the organization's story through multimedia elements using principles learned in class. It must include both still photography and video.
 4. Your site should be created using a subdomain following instructions given in class. __Post a link to your project in #general__.
 
 ### Grading Rubric
 
 Design shows considerable effort and reflects principles learned in class | 10
-Multimedia and text are used effectively to tell the organization's story | 10
+Multimedia and text are used effectively to tell the organization's story | 20
 Site uses Wordpress content types and plugins effectively and in ways that reflect principles learned in class | 10

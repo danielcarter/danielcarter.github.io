@@ -2,13 +2,14 @@
 menu: true
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
-dates: Summer Session II 2018, MTWRF 2:00 - 3:40pm
+dates: Fall 2018, MW 3:30 - 4:50pm
 venue: Old Main 106B
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
-slack_link: https://mc4315summer2018.slack.com
+slack_link: https://mc4315fall2018.slack.com
 glitch_link: http://glitch.com/drcarter
 assignments:
-  - web_design_publishing_personal_site
+  - web_design_publishing_student_bio
+  - web_design_publishing_student_bio_redesign
   - web_design_publishing_multimedia_profile
   - web_design_publishing_organization_site
   - reading_response_short
@@ -21,9 +22,10 @@ This course introduces students to web design and development. In addition to ga
 
 By the end of this course, students will be able to:
 
-- design and develop projects in HTML and CSS, as well as using current frameworks and content management systems.
-- critique examples of online storytelling.
-- produce online, multimedia packages.
+- demonstrate the use of HTML, CSS and other design technologies in digital storytelling
+- critique examples of online storytelling
+- explain the role of interactive, multimedia storytelling, including issues of diversity and inclusiveness
+- develop functional sites that demonstrate user-centered design concepts using current frameworks and content management systems
 
 ### Course Organization
 
@@ -33,16 +35,19 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to  [Slack](https://mc4315summer2018.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to  [Slack](https://mc4315fall2018.slack.com).
 
 ### Evaluation
 
-Project 1: Personal Site | 10%
-Project 2: Multimedia Profile | 20%
-Project 3: Organization Site | 30%
-Troubleshooting Quizzes | 20%
+Project 1: Student Bio | 10%
+Project 1: Student Bio - Redesign | 10%
+Project 2: Multimedia Profile - Draft | 5%
+Project 2: Multimedia Profile | 15%
+Project 3: Organization Site - Draft | 5%
+Project 3: Organization Site | 20%
+Troubleshooting Quizzes | 15%
 Reading Responses | 10%
-Attendance | 10%
+Participation and Attendance | 10%
 
 ### Grade Scale
 
@@ -54,11 +59,11 @@ F | < 60
 
 ### Attendance
 
-Each absence in addition to two will result in a loss of 10% of the attendance portion of your grade.
+Each absence in addition to two will result in a loss of 5% of the attendance portion of your grade.
 
 ### Late Work
 
-Unless you have received an extension, assignments turned in late will have five points deducted per day. Work turned in over five days late will not be graded. Reading responses cannot be turned in late, and in-class quizzes cannot be completed outside of class without an approved excused absence.
+You may turn in one assignment late during the semester, if you make prior arrangements. Any other late assignments will receive a grade of F
 
 ### Communication
 

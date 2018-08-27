@@ -1,10 +1,12 @@
 ---
-menu: false
+menu: true
 title: MC 5312 Online Media Design
 short_title: Online Media Design
-dates: Fall 2017, Th 6:30 - 9:20pm
+dates: Fall 2018, Th 6:00 - 8:50pm
 venue: Old Main 238
-schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule_fall2017.html
+schedule_link: /courses/online_media_design/mc_5312_online_media_design_schedule_fall2018.html
+glitch_link: http://glitch.com/drcarter
+slack_link: https://mc5312fall2018.slack.com
 assignments:
   - online_media_project_1
   - online_media_user_research
@@ -25,9 +27,9 @@ This course introduces students to web design and development. In addition to ga
 By the end of this course, students will be able to:
 
 - design and develop projects in HTML and CSS, as well as using current frameworks and content management systems.
+- critique examples of online storytelling.
 - conduct user research.
-- use human-centered design methods.
-- think creatively about web publishing.
+- produce online, multimedia packages.
 
 ### Course Organization
 
@@ -37,7 +39,7 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online, and we'll talk in class about how to find good resources. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc5312fall2017.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to the #questions channel on  [Slack](https://mc5312fall2018.slack.com).
 
 ### Evaluation
 
