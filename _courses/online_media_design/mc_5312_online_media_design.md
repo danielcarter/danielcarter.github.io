@@ -38,12 +38,11 @@ If you have questions that might be of interest to everyone or want to discuss a
 
 Project 1: Personal Site | 10%
 Project 2: Multimedia Profile: Draft | 5%
-Project 2: Multimedia Profile | 15%
+Project 2: Multimedia Profile | 20%
 Project 3: Organization Site: Draft | 5%
 Project 3: Organization Site | 20%
-User Research Project | 15%
+User Research Project | 20%
 Reading Responses | 10%
-Quizzes | 10%
 Participation and attendance | 10%
 
 ### Grade Scale
@@ -56,7 +55,7 @@ F | < 60
 
 ### Extra Credit
 
-Based on class voting, I'll add one point to the final grade of the student who has the best pitch day presentation and multimedia check-in.
+Based on class voting, I'll add one point to the final grade of the student who has the best pitch day presentation.
 
 ### Late Work
 

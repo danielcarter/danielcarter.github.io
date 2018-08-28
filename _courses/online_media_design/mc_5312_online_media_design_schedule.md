@@ -3,24 +3,24 @@ menu: false
 title: "MC 5312 Online Media Design: Schedule"
 short_title: Web Design Publishing
 venue: Old Main 238
-dates: Fall 2017, Th 6:30 - 9:20pm
+dates: Fall 2018, Th 6:00 - 8:50pm
 
 ---
 
 Date | Description | Due
 ---: | :----------- | :---
-Th 8/31 | Introduction to the Internet | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html)<br /> Watch [The True Story of the Internet: People](https://www.youtube.com/watch?v=f42J_reRO0Q)
-Th 9/7 | Introduction to HTML | Read [HTML Dog Beginner HTML Tutorials, Getting Started through Putting It All Together](http://htmldog.com/guides/html/beginner/), [HTML Doctor: Let's Talk About Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-Th 9/14 | Introduction to CSS | __[Project 1: Personal Site (Phase 1)](/assignments/online_media/online_media_project_1.html)__ <br />Read [HTML Dog CSS Tutorials, all beginner tutorials, Class and ID Slelectors, Grouping and Nesting, Specificity and Display](http://www.htmldog.com/guides/css/) <br />Watch [Chrome DevTools - Elements Panel](https://www.youtube.com/watch?v=DO54CzdVrBQ)
-Th 9/21 | Introduction to Design | __[Project 1: Personal Site (Phase 2)](/assignments/online_media/online_media_project_1.html)__ <br />Read [IDEO Field Guide to Human-Centered Design, pages 9-25](/assets/readings/field_guide_to_user_centered_design.pdf)
-Th 9/28 | User Research | Read [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/) <br />Read [IDEO Field Guide to Human-Centered Design, pages 29-127](/assets/readings/field_guide_to_user_centered_design.pdf) (Skim this but pick several methods to focus on.)
-Th 10/5 | CSS Frameworks | Complete [code_cademy Bootstrap Tutorial](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)<br /> Read [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/)<br /> Look over [Bootstrap CSS Documentation](https://getbootstrap.com/css/) and [Bootstrap Components Documentation](https://getbootstrap.com/components/)
-Th 10/12 | Responsive Design | __[User Research Project](/assignments/online_media/online_media_user_research.html)__ <br />Read [Pew Research Center Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/), [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
-Th 10/19 | NO CLASS | Attend Mass Comm. Week
-Th 10/26 | Multimedia | __[Project 2: Organization Site](/assignments/online_media/online_media_project_2.html)__ <br />Watch [Introducing Photoshop: Design, sections 1-4 and 8](https://www.lynda.com/Photoshop-tutorials/Up-Running-Photoshop-CC-Design/108138-2.html), [iMovie Essential Training, sections 1-5](https://www.lynda.com/iMovie-tutorials/iMovie-10-1-1-Essential-Training/487935-2.html)
-Th 11/2 | Multimedia Journalism | Read [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/), [Living in China's Expanding Deserts](https://www.nytimes.com/interactive/2016/10/24/world/asia/living-in-chinas-expanding-deserts.html)
-Th 11/9 | Content Management Systems | __[iMovie Exercise](/assignments/online_media/online_media_imovie_project.html)__ <br />Watch [An Introduction to Wordpress](https://www.youtube.com/watch?v=FAwbe17cGpw) <br />[Install Wordpress on your server](https://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2)
-Th 11/16 | Content Management Systems | Read: [COPE: Create Once, Publish Everywhere](https://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13), [Battle for the Body Field](https://alistapart.com/article/battle-for-the-body-field) <br />Watch [Content in a Zombie Apocalypse](https://karenmcgrane.com/2014/10/15/content-in-a-zombie-apocalypse/)
-Th 11/23 | NO CLASS |
-Th 11/30 | Work Day |
-Th 12/7 | Presentations | __[Project 3: Multimedia Journalism Project](/assignments/online_media/online_media_project_3.html)__ <br />Read [Nieman Lab: Predictions for Journalism, 2017](http://www.niemanlab.org/collection/predictions-2017/) (Pick a few related to course content to focus on.)
+Th 8/30 | Introduction to the Internet and HTML | Read [Duckett, Chapters 1 through 4](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+Th 9/6 | HTML and CSS | [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html) <br /> Read [Duckett, Chapters 5, 8, 10, 11 and 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
+Th 9/13 | CSS Layout | Read [Duckett, Chapters 13 and 17](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)<br />
+Th 9/20 | Multimedia | __[Pitch Day Post](/assignments/general/pitch_day_post.html)__ __[Reading Response](/assignments/general/reading_response_.html)__ <br /> Read [Dwayne Johnson for President!](https://www.gq.com/story/dwayne-johnson-for-president-cover?src=longreads) <br />Look at [Port of Mokha](http://www.portofmokha.com) and [Women Are Making the Best Rock Music Today](https://www.nytimes.com/interactive/2017/09/05/arts/music/25-women-making-best-rock-music-today.html#snail-mail-quote)
+Th 9/27 | Responsive Design | __[Project 1: Student Bio](/assignments/online_media/online_media_personal_site.html)__{: .major_project}  __[Reading Response](/assignments/general/reading_response_.html)__ <br /> Read [Orchid Fever](http://www.susanorlean.com/articles/orchid_fever.php)
+Th 10/4 | CSS Frameworks |
+Th 10/11 | Critique Day | __[Project 2: Multimedia Profile: Draft](/assignments/online_media/online_media_multimedia_profile.html)__
+Th 10/18 | NO CLASS | Attend Mass Comm. Week
+Th 10/25 | User Research | __[Reading Response](/assignments/general/reading_response_.html)__<br /> Read [Generating Implications for Design through Design Research](/assets/readings/implications_for_design.pdf) <br />Read [IDEO Field Guide to Human-Centered Design, pages 29-127](/assets/readings/field_guide_to_user_centered_design.pdf) (Skim this but pick several methods to focus on.)
+Th 11/1 | Content Management Systems | __[Project 2: Multimedia Profile](/assignments/online_media/online_media_multimedia_profile.html)__{: .major_project}
+Th 11/8 | Content Management Systems | __[Reading Response](/assignments/general/reading_response_.html)__<br /> Read: [COPE: Create Once, Publish Everywhere](https://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13), [Battle for the Body Field](https://alistapart.com/article/battle-for-the-body-field) <br />Watch [Content in a Zombie Apocalypse](https://karenmcgrane.com/2014/10/15/content-in-a-zombie-apocalypse/)
+Th 11/15 | Critique Day | __[User Research Project](/assignments/online_media/online_media_user_research.html)__{: .major_project} __[Project 3: Organization Site: Draft](/assignments/online_media/online_media_organization_site.html)__
+Th 11/22 | NO CLASS |
+Th 11/29 | Work Day |
+Th 12/6 | Wrap-up | __[Project 3: Organization Site](/assignments/online_media/online_media_organization_site.html)__{: .major_project}
