@@ -12,7 +12,7 @@ For your first project, you'll be creating a simple personal site that describes
 
 ### Instructions
 
-1. Your site needs to include at least four pages. One page should include links to your assignments for the course.
+1. Your site needs to include at least three pages. One page should be a portfolio that can eventually include links to your assignments for the course. Include at least one portfolio item to start with.
 2. Remix the class's project in Glitch. Add your content and make <strong>significant</strong> changes to the HTML content.  
 3. Your site should include:
   - a <ul> for your menu.
