@@ -18,8 +18,7 @@ For your second project, you'll use web design and multimedia skills to enhance 
 4. Remix the class's Bootstrap project in Glitch. Add your writing and multimedia elements and make <strong>significant</strong> changes to the design.
 5. Your site must include:
   - 1200-1500 words of text.
-  - at least one video. The video should contain at least three clips, b-roll with audio from another clip and titles and other text elements as appropriate.
-  - at least one carousel.
+  - at least one video.
   - your contact information.
 6. Additionally, your site should be responsive and should demonstrate significant thought in customizing the content for different screens.
 7. Create a folder on your server and upload your project. Include a link to your project in your portfolio and also post a link to __#general__ so others can see your work.
