@@ -14,8 +14,8 @@ W 8/29 | HTML | Read [Duckett, Chapters 1 and 2](https://ebookcentral-proquest-c
 __M 9/3__{: .week}  | | NO CLASS
 W 9/5 | HTML | Read [Duckett, Chapter 3](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)
 __M 9/10__{: .week}  | HTML | Read [Duckett, Chapters 4 and 5](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) <br /> [Sign up for Reclaim Hosting](/resources/instructions_reclaim_hosting.html)
-W 9/12 | CSS | Read [Duckett, Chapters 10 through 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)<br /> Watch [Tutorial: File management and FTP](https://youtu.be/GBLs4PSeITE)
-__M 9/17__{: .week}  | CSS | Read [Duckett, Chapters 8 and 13](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) <br /> __Due: [Project 1: Student Bio](/assignments/web_design_publishing/web_design_publishing_student_bio.html)__{: .major_project}
+W 9/12 | CSS | Read [Duckett, Chapters 8, 10, 11 and 12](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871)<br /> Watch [Tutorial: File management and FTP](https://youtu.be/GBLs4PSeITE)
+__M 9/17__{: .week}  | CSS | Read [Duckett, Chapters 13 and 14 (only lists)](https://ebookcentral-proquest-com.libproxy.txstate.edu/lib/txstate/detail.action?docID=817871) <br /> __Due: [Project 1: Student Bio](/assignments/web_design_publishing/web_design_publishing_student_bio.html)__{: .major_project}
 W 9/19 | CSS | Complete [Flexbox Froggy](https://flexboxfroggy.com/)
 __M 9/24__{: .week}  | CSS |
 W 9/26 | Pitch Day | Read [Dwayne Johnson for President!](https://www.gq.com/story/dwayne-johnson-for-president-cover?src=longreads) <br />Look at [Port of Mokha](http://www.portofmokha.com) <br /> Optional: Read [Orchid Fever](http://www.susanorlean.com/articles/orchid_fever.php) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__ <br />__[Due: Pitch Day Post](/assignments/general/pitch_day_post.html)__
