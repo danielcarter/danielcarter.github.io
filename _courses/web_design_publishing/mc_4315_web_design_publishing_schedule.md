@@ -23,8 +23,8 @@ __M 10/1__{: .week}  | Quiz 1 |
 W 10/3 | Multimedia Stories | Read [Women Are Making the Best Rock Music Today](https://www.nytimes.com/interactive/2017/09/05/arts/music/25-women-making-best-rock-music-today.html#snail-mail-quote) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
 __M 10/8__{: .week}  | Multimedia: Photography | __Due: [Project 1: Student Bio Redesign](/assignments/web_design_publishing/web_design_publishing_student_bio_redesign.html)__{: .major_project}
 W 10/10 | Multimedia: Video | Watch [Hear the Otherworldly Sounds of Skating on Thin Ice](https://www.youtube.com/watch?v=v3O9vNi-dkA) and [The Aria of Babyface Cauliflower Brown](https://www.youtube.com/watch?v=ULhejU7K7DQ) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__
-__M 10/15__{: .week}  | Responsive Design | [Read Pew Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
-W 10/17 | Responsive Design |
+__M 10/15__{: .week}  | Attend Mass Comm. Week Panel |
+W 10/17 | Responsive Design | Mass Comm Week Panel Response <br />[Read Pew Mobile Fact Sheet](http://www.pewinternet.org/fact-sheet/mobile/)
 __M 10/22__{: .week}  | CSS Frameworks | Watch [Introduction to Bootstrap](https://www.youtube.com/watch?v=-cX3IQA0-p4)
 W 10/24 | CSS Frameworks |
 __M 10/29__{: .week}  | Multimedia Check-in | __[Due: Multimedia Check-in Post](/assignments/general/multimedia_checkin.html)__
