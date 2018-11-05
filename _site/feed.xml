@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-07T09:09:34-05:00</updated><id>http://localhost:4000/</id><subtitle>Assistant professor of digital media studying online labor and technology adaptation.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+<link href="https://danielcarter.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="https://danielcarter.github.io/" rel="alternate" type="text/html" />
+<updated>2018-09-30T18:29:01-05:00</updated>
+<id>https://danielcarter.github.io/</id>
+<subtitle>Assistant professor of digital media studying online labor and technology adaptation.</subtitle>
+</feed>
