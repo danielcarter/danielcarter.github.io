@@ -2,7 +2,7 @@
 menu: true
 title: MC 5317 Advanced Online Media
 short_title: Advanced Online Media
-dates: Spring 2018, W 6:30 - 9:20pm
+dates: Spring 2019, TTh 7:30 - 8:56pm
 venue: Old Main 106B
 schedule_link: /courses/advanced_online_media/mc_5317_advanced_online_media_schedule_spring2018.html
 slack_link: http://mc5317spring2019.slack.com/

@@ -3,7 +3,7 @@ menu: false
 title: "MC 5317 Advanced Online Media: Schedule"
 short_title: Advanced Online Media
 venue: Old Main 106B
-dates: Spring 2018, W 6:30 - 9:20pm
+dates: Spring 2019, TTh 7:30 - 8:56pm
 booking_link: false
 
 ---
