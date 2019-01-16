@@ -2,10 +2,10 @@
 menu: true
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
-dates: Fall 2018, MW 3:30 - 4:50pm
-venue: Old Main 106B
+dates: Spring 2019, M 12:30 - 3:20pm
+venue: Old Main 212
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
-slack_link: https://mc4315fall2018.slack.com
+slack_link: http://mc4315spring2019.slack.com/
 glitch_link: https://glitch.com/@danielcarter
 assignments:
   - web_design_publishing_student_bio
@@ -13,8 +13,6 @@ assignments:
   - web_design_publishing_multimedia_profile
   - web_design_publishing_organization_site
   - reading_response_short
-resources:
-  - video_tutorials
 
 ---
 
@@ -35,7 +33,7 @@ This course involves learning technical skills and also developing ways of think
 
 Many resources are available to you online. Additional assistance is available during designated times in the Media Innovation Lab. You can also come to my office hours or email me.
 
-If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to  [Slack](https://mc4315fall2018.slack.com).
+If you have questions that might be of interest to everyone or want to discuss anything related to class, post them to  [Slack]({{page.slack_link}}).
 
 ### Evaluation
 

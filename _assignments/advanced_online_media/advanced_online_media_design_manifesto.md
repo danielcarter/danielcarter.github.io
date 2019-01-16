@@ -5,7 +5,7 @@ short_title: advanced_online_media_design_maifesto
 
 ### Instruction
 
-1. Write a 900-word manifesto stating why you design, what makes good design and how design relates to communication.
+1. Write a 900-word manifesto on what makes good communication design.
 4. Add your manifesto to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.
 
 ### Grading Rubric

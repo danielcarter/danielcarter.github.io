@@ -3,7 +3,7 @@ title: 'Project 2: Interaction Project'
 short_title: advanced_online_media_interaction_project
 ---
 
-For this project, you'll produce a small narrative that utilizes the interaction techniques covered to this point of the course.
+For this project, you'll produce a prototype that utilizes the interaction techniques covered to this point of the course.
 
 ### Learning Objectives
 
@@ -13,14 +13,6 @@ For this project, you'll produce a small narrative that utilizes the interaction
 
 ### Instruction
 
-1. Choose a story to tell. It can be a story that you're reporting on, a personal story or a fictional story.
-2. Conceptualize your story as an interactive web project. Think about how you want users to experience your story.
-3. Create your project using HTML, CSS and JavaScript.
-4. Add your project to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.
-
-### Grading Rubric
-
-Coding contains few errors and demonstrates a good understanding of JavaScript techniques covered in the course | 10
-Design shows considerable effort and thought | 10
-Content -- including text, images and/or video -- shows considerable effort and is effective | 10
-Interactions are used effectively to enhance the story | 10
+1. Extend your work from Project 1 to include appropriate interactions. You should demonstrate techniques learned in class and show significant work refining the prototype's visual design and interactive elements.
+2. Write a 150-word statement on the prototype, explaining why it is interesting and how it is in conversation with other examples of interaction design. You might consider, for example, how your design applies existing concepts in an interesting way or how you are using interaction to explore ideas about communication on the web.
+3. Add your project and statement to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.

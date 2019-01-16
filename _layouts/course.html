@@ -14,6 +14,10 @@
     <a href="{{ page.schedule_link }}">Full Schedule</a>
   {% endif %}
 
+  {% if site.office_hours_booking and page.booking_link != false %}
+    <a href="{{ site.office_hours_booking }}">Book an Appointment</a>
+  {% endif %}
+
   {% if page.slack_link %}
     <a href="{{ page.slack_link }}">Slack</a>
   {% endif %}
@@ -21,6 +25,7 @@
   {% if page.glitch_link %}
     <a href="{{ page.glitch_link }}">Glitch</a>
   {% endif %}
+
   </p>
 
   {{content}}

@@ -14,14 +14,6 @@ For this project, you'll produce a small narrative that utilizes the data visual
 
 ### Instruction
 
-1. Choose a story to tell that can be enhanced using data.
-2. Conceptualize your story as an interactive web project. Think about how data visualizations can support or extend your story.
-3. Create your project using HTML, CSS and JavaScript.
-4. Add your project to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.
-
-### Grading Rubric
-
-Coding contains few errors and demonstrates a good understanding of JavaScript techniques covered in the course | 10
-Design shows considerable effort and thought | 10
-Content -- including text, images and/or video -- shows considerable effort and is effective | 10
-Data visualizations are used effectively to enhance the story | 10
+1. Find or create a dataset that interests you. Working with Plotly, explore the data and create an interactive visualization that allows users to explore the data. The project doesn't need to include extensive writing, but you should include a brief introductory paragraph and should spend enough time designing the page that it can serve as a portfolio piece.
+2. Write a 150-word statement on the visualization, explaining the data and why you have presented it as you have.
+3. Add your project and statement to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.
