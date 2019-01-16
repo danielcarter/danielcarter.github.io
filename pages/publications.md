@@ -4,7 +4,7 @@ title: Selected Publications
 permalink: publications.html
 ---
 
-### Peer Reviewed Articles and Conference Proceedings
+(2018) **D. Carter**. [Reimagining the Big Data assemblage](https://journals.sagepub.com/doi/10.1177/2053951718818194). *Big Data and Society*.
 
 (2018) **D. Carter** and T. Welsh. “Everybody Wants to Work With Me”: Collaborative Labor in Hip Hop. *Popular Music and Society*.
 
@@ -20,12 +20,4 @@ permalink: publications.html
 
 (2016) **D. Carter** and D. Sholler. Data science on the ground: Hype, criticism, and everyday work. *Journal of the Association for Information Science and Technology*, 67(10), 2309–2319.
 
-(2014) **D. Carter**. Encouraging Ambiguous Experience: Guides for Personal Meaning Making. *Extended Abstracts of the ACM Conference on Designing Interactive Systems 2014*.
-
-(2014) M. Feinberg, **D. Carter**, and J. Bullard. A story without end: writing the residual into databases. *Proceedings of the ACM Conference on Designing Interactive Systems 2014*.
-
-(2014) M. Feinberg, **D. Carter**, and J. Bullard. Always somewhere, never there: using critical design to understand database interactions. *Proceedings of the ACM Conference on Human Factors in Computing Systems 2014*. Best paper honorable mention award.
-
-### Book Chapters
-
-T. Clement and **D. Carter**. Information. In R. F. Davis, M. K. Gold, K. D. Harris, & J. Sayers (Eds.), *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*. MLA Commons. Forthcoming.
+[Full CV](/assets/Carter_Daniel_CV.pdf)
