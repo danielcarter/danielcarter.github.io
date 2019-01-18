@@ -68,7 +68,7 @@ You must use an active Texas State email account. Communication via TRACS uses y
 
 ### Academic Honesty
 
-The School of Journalism and Mass Communication takes your graduate education seriously. Therefore, to do this class properly, the School demands the highest standard of academic honesty and integrity from you. Violations of academic honesty, including but not limited to colluding with other students (without permission) on assignments or exams, can lead to severe penalties. Disciplinary actions are outlined in the Texas State Academic Honesty Statement, which can be found in the [Texas State University student handbook](http://www.dos.txstate.edu/handbook.html).
+The School of Journalism and Mass Communication takes your education seriously. Therefore, to do this class properly, the School demands the highest standard of academic honesty and integrity from you. Violations of academic honesty, including but not limited to colluding with other students (without permission) on assignments or exams, can lead to severe penalties. Disciplinary actions are outlined in the Texas State Academic Honesty Statement, which can be found in the [Texas State University student handbook](http://www.dos.txstate.edu/handbook.html).
 
 Other references: [Code of Student Conduct](http://www.dos.txstate.edu/handbook/rules/cosc.html) and [The Honor Code](http://www.txstate.edu/honorcodecouncil/Academic-Integrity.html)
 
