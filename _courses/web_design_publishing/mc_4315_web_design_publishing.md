@@ -6,7 +6,7 @@ dates: Spring 2019, M 12:30 - 3:20pm
 venue: Old Main 212
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
 slack_link: http://mc4315spring2019.slack.com/
-glitch_link: https://glitch.com/@danielcarter
+glitch_link: https://glitch.com/@danielcarter/4315-spring-2019
 assignments:
   - web_design_publishing_student_bio
   - web_design_publishing_student_bio_redesign
