@@ -5,7 +5,7 @@ short_title: advanced_online_media_design_maifesto
 
 ### Instruction
 
-1. Write a 900-word manifesto on what makes good communication design.
+1. Write a 250- to 300-word (or the equivalent in whatever form speaks to you) manifesto on what makes good communication design.
 4. Add your manifesto to your portfolio and push your changes to your github repository. __When you're done, post a link to your project in #general__.
 
 ### Grading Rubric
