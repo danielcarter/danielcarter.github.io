@@ -6,7 +6,7 @@ dates: Spring 2019, TTh 7:30 - 8:56pm
 venue: Old Main 106B
 schedule_link: /courses/advanced_online_media/mc_5317_advanced_online_media_schedule_spring2018.html
 slack_link: http://mc5317spring2019.slack.com/
-glitch_link: https://glitch.com/@danielcarter/5312-spring-2019
+glitch_link: https://glitch.com/@danielcarter/5317-spring-2019
 assignments:
   - advanced_online_media_prototyping
   - advanced_online_media_interaction_project
