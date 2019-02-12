@@ -18,6 +18,6 @@ permalink: publications.html
 
 (2016) **D. Carter**. Infrastructure and the Experience of Documents. *Journal of Documentation* 72(1), 65-80.
 
-(2016) **D. Carter** and D. Sholler. Data science on the ground: Hype, criticism, and everyday work. *Journal of the Association for Information Science and Technology*, 67(10), 2309–2319.
+(2016) **D. Carter** and D. Sholler. [Data science on the ground: Hype, criticism, and everyday work](https://digital.library.txstate.edu/handle/10877/7866). *Journal of the Association for Information Science and Technology*, 67(10), 2309–2319.
 
 [Full CV](/assets/Carter_Daniel_CV.pdf)
