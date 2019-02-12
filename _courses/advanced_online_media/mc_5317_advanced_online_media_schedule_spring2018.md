@@ -35,7 +35,7 @@ Th 4/4 | Javascript: Introduction to Visualization |
 T 4/9 | Javascript: Plotly |
 Th 4/11 | Javascript: Plotly |
 T 4/16 | Javascript: Plotly | __[Learning Journal](/assignments/general/learning_journal.html)__
-Th 4/18 | Design: Models and Inspirations | __[Data Project](/assignments/advanced_online_media/advanced_online_media_data_project.html)__{: .major_project}
+Th 4/18 | NO CLASS | __[Data Project](/assignments/advanced_online_media/advanced_online_media_data_project.html)__{: .major_project}
 T 4/23 | Final Project Proposals |
 Th 4/25 | Work Day |
 T 4/30 | Design: Social Contexts | Read [Experience Design: Technology for All the Right Reasons, Chapter 5 (18 pages)](/assets/readings/Experience_Design_Technology_For_All_The_Right_Reasons_Chp_5.pdf)
