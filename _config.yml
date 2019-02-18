@@ -18,7 +18,7 @@ description: "Assistant professor of digital media studying online labor and tec
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielcarter.github.io"
 
-office_hours: "OM 208 | M 3:20 - 5:00pm, T 5:30 - 7:30pm and by appointment"
+office_hours: "OM 208 | M 3:20 - 5:00pm, T 5:30 - 6:30pm and by appointment"
 office_hours_booking: "https://danielcarter.youcanbook.me/"
 
 collections:
