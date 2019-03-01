@@ -24,10 +24,10 @@ T 2/26 | Design: Prototype Critiques | __[Prototyping Project: Phase 2](/assignm
 Th 2/28 | Javascript: jQuery | [*JavaScript and jQuery*, Chapter 7 (74 pages)](/assets/readings/Javascript_and_jQuery_Chap_7.pdf) <br /> __[Learning Journal](/assignments/general/learning_journal.html)__
 T 3/5 | Design: Models and Inspirations | __[Reading Response](/assignments/general/reading_response.html)__
 Th 3/7 | Javascript: Animation | __[Learning Journal](/assignments/general/learning_journal.html)__
-T 3/12 | Javascript: Animation |
+T 3/12 | NO CLASS: SXSW |
 Th 3/14 | Javascript: Animation | __[Learning Journal](/assignments/general/learning_journal.html)__
-T 3/19 | NO CLASS |
-Th 3/21 | NO CLASS |
+T 3/19 | NO CLASS: SPRING BREAK |
+Th 3/21 | NO CLASS: SPRING BREAK |
 T 3/26 | Project Critiques |
 Th 3/28 | Introduction to Data | Read [The death of interactive infographics?](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb) and [Dear Data](http://giorgialupi.com/dear-data/) <br /> __[Reading Response](/assignments/general/reading_response.html)__
 T 4/2 | NO CLASS | __[Interaction Project](/assignments/advanced_online_media/advanced_online_media_interaction_project.html)__{: .major_project}
