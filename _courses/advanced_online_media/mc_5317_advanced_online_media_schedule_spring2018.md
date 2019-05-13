@@ -40,4 +40,4 @@ T 4/23 | Final Project Proposals |
 Th 4/25 | Work Day |
 T 4/30 | Work Day |
 Th 5/2 | Wrap-up | Reading TBA
-T 5/15 | NO CLASS | __[Final Project](/assignments/advanced_online_media/advanced_online_media_final_project.html)__{: .major_project} __[Design Manifesto](/assignments/advanced_online_media/advanced_online_media_design_manifesto.html)__{: .major_project}
+W 5/15 | NO CLASS | __[Final Project](/assignments/advanced_online_media/advanced_online_media_final_project.html)__{: .major_project} __[Design Manifesto](/assignments/advanced_online_media/advanced_online_media_design_manifesto.html)__{: .major_project}
