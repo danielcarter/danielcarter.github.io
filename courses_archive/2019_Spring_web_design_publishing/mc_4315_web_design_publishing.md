@@ -2,12 +2,11 @@
 menu: true
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
-dates: Fall 2019, Th 6:30 - 9:20pm
-venue: Old Main 106-B
+dates: Spring 2019, M 12:30 - 3:20pm
+venue: Old Main 212
 schedule_link: /courses/web_design_publishing/mc_4315_web_design_publishing_schedule.html
-slack_link: https://mc4315fall2019.slack.com
-glitch_link: https://glitch.com/@danielcarter/4315-fall-2019
-booking_link: false
+slack_link: http://mc4315spring2019.slack.com/
+glitch_link: https://glitch.com/@danielcarter/4315-spring-2019
 assignments:
   - web_design_publishing_student_bio
   - web_design_publishing_student_bio_redesign
@@ -62,7 +61,7 @@ Based on class voting, I'll add one point to the final grade of the student who 
 
 ### Attendance
 
-Each absence in addition to two will result in a loss of 10% of the attendance portion of your grade.
+Each absence in addition to two will result in a loss of 5% of the attendance portion of your grade.
 
 ### Late Work
 
