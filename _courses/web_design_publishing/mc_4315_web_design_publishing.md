@@ -17,18 +17,21 @@ assignments:
 
 ---
 
-This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will analyze examples of online storytelling and will think about web design and development in the context of social issues such as access and diversity.
+This course is designed to instruct students in Web site construction and design. Students will learn Hypertext Markup Language (HTML) and Cascading Stylesheets (CSS) coding and be introduced to graphics and multimedia programs, web development frameworks and content management systems. The course will address user-centered design, graphics and multimedia on Web sites for journalism, advertising, public relations and other communication related applications. Students will work on several small Web projects that will lead to a final multimedia project. The goal is to emphasize more than just the skills associated with individual programs, but the integration of several programs and concepts into creating well designed and effective Web sites.
 
+In addition, the class will address the history and social implications of creating for the web, including developing for diversity and inclusiveness.
+
+The course requires attendance at lab sessions and lectures as topics tend to build upon one another. In past semesters, students who attended class regularly turned in the more creative, impressive projects.
+
+<!--
+This course introduces students to web design and development. In addition to gaining skills in HTML and CSS, students will analyze examples of online storytelling and will think about web design and development in the context of social issues such as access and diversity.
+-->
 By the end of this course, students will be able to:
 
 - demonstrate the use of HTML, CSS and other design technologies in digital storytelling
 - critique examples of online storytelling
 - explain the role of interactive, multimedia storytelling, including issues of diversity and inclusiveness
 - develop functional sites that demonstrate user-centered design concepts using current frameworks and content management systems
-
-### Course Organization
-
-This course involves learning technical skills and also developing ways of thinking about web design and publishing. Classes will be split between workshop time -- when we learn by doing and work together to create web projects -- and discussions of readings and relevant topics. You should expect to spend several hours each week reading, working on projects and completing other assignments.
 
 ### Getting Help
 
