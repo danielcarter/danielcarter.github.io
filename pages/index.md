@@ -6,6 +6,10 @@ template-options:
   - no-title
 ---
 
-I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study how sociotechnical systems collect, analyze, make available and obscure data, specifically in relation to labor and the monetization of personal communication. I'm interested in the constraints systems place on what can be known and said, as well as the literacy required to use technologies in creative ways that align with diverse values.
+I'm an assistant professor of digital media in the School of Journalism and Mass Communication at Texas State University. I study:
+
+how sociotechnical systems collect, analyze, make available and obscure data, specifically in relation to labor and the monetization of personal communication.
+
+how sociomaterial systems, especially infrastructures, form the bases for near and distant futures and how these bases can ground modes of design that lead to more creative, sustainable and equitable ways of life.
 
 Academic publications in: [Big Data and Society](https://journals.sagepub.com/doi/10.1177/2053951718818194), [Social Media + Society](http://journals.sagepub.com/doi/abs/10.1177/2056305116666305), [First Monday](http://firstmonday.org/ojs/index.php/fm/article/view/8055/6544), [Popular Music and Society](http://www.tandfonline.com/doi/full/10.1080/03007766.2018.1441639), ACM Proceedings on [Human-Computer Interaction](https://dl.acm.org/citation.cfm?id=2557055) and [Designing Interactive Systems](https://dl.acm.org/citation.cfm?id=2602782), [Journal of Documentation](http://www.emeraldinsight.com/doi/abs/10.1108/JD-12-2014-0169) and [Journal of the Association for Information Science and Technology](http://onlinelibrary.wiley.com/doi/10.1002/asi.23563/full).
