@@ -18,7 +18,7 @@ description: "Assistant professor of digital media | Infrastructure studies | Cr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielcarter.github.io"
 
-office_hours: "OM 208 | T 12:30 - 3:30pm, W 9:00 - 11:00am and by appointment"
+office_hours: "OM 208 | T 12:30 - 3:30pm, W 9:30 - 11:00am and by appointment"
 office_hours_booking: "https://danielcarter.youcanbook.me/"
 
 collections:
