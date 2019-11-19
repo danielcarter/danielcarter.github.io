@@ -23,5 +23,6 @@ Th 10/31 | CSS Frameworks |
 Th 11/7 | Critique and Work Day | __Due: [Project 2: Multimedia Profile Draft](/assignments/web_design_publishing/web_design_publishing_multimedia_profile.html)__{: .major_project}
 Th 11/14 | Content Management Systems | Read [A Restaurant Grows in Austin](https://paidpost.nytimes.com/hennessy/a-restaurant-grows-in-austin.html) <br /> Look at [Port of Mokha](http://www.portofmokha.com) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__ <br />__Due: [Project 2: Multimedia Profile ](/assignments/web_design_publishing/web_design_publishing_multimedia_profile.html)__{: .major_project}
 Th 11/21 | Content Management Systems |
-Th 11/28 | Critique and Work Day | __Due: [Project 3: Organization Site Draft](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
-Th 12/5 | Wrap-up | Read [Poor Millenials](https://highline.huffingtonpost.com/articles/en/poor-millennials/) <br />__[Due: Reading Response](/assignments/general/reading_response_short.html)__ <br /> __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+Th 11/28 | NO CLASS |
+Th 12/5 | Critique and Work Day | __Due: [Project 3: Organization Site Draft](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+F 12/6 | NO CLASS | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
