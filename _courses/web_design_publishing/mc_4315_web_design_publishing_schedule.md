@@ -25,4 +25,4 @@ Th 11/14 | Content Management Systems | Read [A Restaurant Grows in Austin](http
 Th 11/21 | Content Management Systems |
 Th 11/28 | NO CLASS |
 Th 12/5 | Critique and Work Day | __Due: [Project 3: Organization Site Draft](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
-F 12/6 | NO CLASS | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
+Su 12/8 | NO CLASS | __Due: [Project 3: Organization Site](/assignments/web_design_publishing/web_design_publishing_organization_site.html)__{: .major_project}
