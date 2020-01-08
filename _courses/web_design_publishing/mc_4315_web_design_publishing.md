@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 title: MC 4315 Web Design and Publishing
 short_title: Web Design and Publishing
 dates: Fall 2019, Th 6:30 - 9:20pm
