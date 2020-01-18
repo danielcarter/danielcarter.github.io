@@ -1,4 +1,4 @@
-var words = ['ephedra','interferon','glorioso','leviosa','crupulus','pepsicola'];
+var words = ['ephedra','interferon','glorioso','leviosa','crupulus','pepsicola','leopold','visacard'];
 
 var theWord = words[Math.floor(Math.random() * words.length)]
 
