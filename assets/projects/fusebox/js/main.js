@@ -6,6 +6,7 @@ $( document ).ready(function() {
     console.log( "success" );
   })
 
+  console.log(jqxhr);
 
 
 
