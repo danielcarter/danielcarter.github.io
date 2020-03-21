@@ -181,15 +181,200 @@ textarea {
   clear: both;
 }
 
+
+
+
+
+
+
+/**** START FUSEBOX ****/
+
+body {
+  background-color: #000;
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+.test_pattern {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 999;
+}
+
+.test_pattern .floater {
+  position: absolute;
+}
+
+.test_pattern .moment {
+  height: 18vh;
+  width: auto;
+  top: 60vh;
+  left: 20vw;
+}
+
+.test_pattern .column {
+  height: 40vh;
+  width: auto;
+  top: 50vh;
+  left: 50vw;
+}
+
+
+.test_pattern .beast {
+  height: 40vh;
+  width: auto;
+  top: -15vh;
+  left: -10vw;
+}
+
+.test_pattern .background {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.test_pattern .background div {
+  height: 50%;
+  width: 50%;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  background-color: #E62790;
+}
+
+main {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  background-color: #000;
+}
+
+main img {
+  width: 100vw;
+  height: auto;
+}
+
+main h1 {
+  color: #fff;
+  position: absolute;
+  text-transform: uppercase;
+  top: 0;
+  left: 0;
+  font-size: 4em;
+  width: 28%;
+  margin: 0;
+  line-height: .8em;
+  padding: .5em;
+  background-color: #E62790;
+}
+
+main h1 span {
+  font-size: .3em;
+  text-transform: none;
+  display: block;
+  line-height: 1em;
+}
+
+nav {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 99;
+  overflow: scroll;
+}
+
+nav ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  list-style-type: none;
+  background-color: #fff;
+  color: #fff;
+  padding: 3em;
+  flex-basis: 28%;
+  flex-shrink: 0;
+  min-height: 8em;
+}
+
+nav ul li.arrow {
+  flex-basis: 14%;
+  background-color: #3585C6 !important;
+  background: #3585C6 url(../img/arrow.png) center center no-repeat;
+}
+
+nav ul li:nth-child(4n) {
+  background-color: #E62790;
+}
+
+nav ul li:nth-child(3n + 1) {
+  background-color: #3585C6;
+}
+
+nav ul li:nth-child(3n + 2) {
+  background-color: #00AD4C;
+}
+
+nav ul li h2 {
+  margin: 0;
+  font-size: 3em;
+}
+
+nav ul li p {
+  margin: 0;
+  font-size:1.5em;
+}
+
+
+
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
+   Small Screens
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
+@media only screen and (max-width: 80em) {
+
+  nav {
+    width: 100%;
+    position: relative;
+    padding-top: 56.25%;
+  }
+
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav ul li {
+    flex-basis: 100%;
+    flex-shrink: 0;
+  }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media print,
   (-webkit-min-device-pixel-ratio: 1.25),
@@ -262,4 +447,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
