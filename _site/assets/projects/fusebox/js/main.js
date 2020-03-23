@@ -9,15 +9,15 @@ $(document).ready(function() {
      });
 
      $('.column').animate(
-       {rotate: '-90deg', left: '-=90vw'}, 12000
+       {rotate: '-90deg', left: '-=70vw', top: '-=10vh'}, 8000
      );
 
      $('.beast').animate(
-       {rotate: '78deg', left: '+=40vw', top: '+=20vh'}, 8000
+       {rotate: '110deg', left: '+=100vw', top: '+=90vh'}, 8000
      );
 
      $('.moment').animate(
-       {rotate: '25deg', left: '+=30vw', top: '-=20vh'}, 8000
+       {rotate: '70deg', left: '+=100vw', top: '-=80vh'}, 8000
      );
 
      window.setTimeout( function() {
@@ -45,6 +45,8 @@ $(document).ready(function() {
      window.setTimeout( function() {
        $('.test_pattern').remove();
      }, 3500)
+
+     //$('.test_pattern').remove();
 
 });
 
@@ -78,11 +80,3 @@ function processData(allText) {
     }
 
 }
-
-$(window).scroll(function(){
-
-  var scrollPos = $(window).scrollTop();
-
-  console.log(scrollPos);
-
-});

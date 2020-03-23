@@ -4,7 +4,9 @@ title: Selected Publications
 permalink: publications.html
 ---
 
-(2019) **D. Carter**. How to Debate a Border: Supporting Infrastructure PublicsThrough Communication System Design. *Proceedings of the ACM Conference in Design of Communication 2019*.
+(2020) **D. Carter** and A. Acker. [To oblivion and beyond: Imagining infrastructure after collapse](assets/oa/Carter_Acker_To-Oblivion-.pdf). *Environment and Planning D: Society and Space*.
+
+(2019) **D. Carter**. How to Debate a Border: Supporting Infrastructure Publics Through Communication System Design. *Proceedings of the ACM Conference in Design of Communication 2019*.
 
 (2018) **D. Carter**. [Reimagining the Big Data assemblage](https://journals.sagepub.com/doi/10.1177/2053951718818194). *Big Data and Society*.
 
