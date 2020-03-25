@@ -1,4 +1,5 @@
 
+var animate = true;
 
 $(document).ready(function() {
     $.ajax({
@@ -8,46 +9,117 @@ $(document).ready(function() {
         success: function(data) {processData(data);}
      });
 
-     $('.column').animate(
-       {rotate: '-90deg', left: '-=70vw', top: '-=10vh'}, 8000
-     );
+     if (animate) {
 
-     $('.beast').animate(
-       {rotate: '110deg', left: '+=100vw', top: '+=90vh'}, 8000
-     );
+       //$('.column').animate(
+         //{rotate: '-90deg', left: '-=70vw', top: '-=10vh'}, 8000
+       //);
 
-     $('.moment').animate(
-       {rotate: '70deg', left: '+=100vw', top: '-=80vh'}, 8000
-     );
+       $('.wave').animate(
+         {rotate: '+=2deg', right: '-=2vw', top: '-=1vh'}, 8000
+       );
 
-     window.setTimeout( function() {
-       $('.test_pattern')
-        .animate(
-          {opacity: 0}, 10
-        ).delay(10)
-        .animate(
-          {opacity: 1}, 10
-        ).delay(6)
-        .animate(
-          {opacity: 0}, 10
-        )
-        .animate(
-          {opacity: 0}, 10
-        ).delay(13)
-        .animate(
-          {opacity: 1}, 10
-        ).delay(8)
-        .animate(
-          {opacity: 0}, 10
-        )
-     }, 3000)
+       window.setTimeout( function() {
+         $('.test_pattern')
+          .animate(
+            {opacity: 0}, 10
+          ).delay(10)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(6)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(13)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(8)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(10)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(6)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(13)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(8)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(10)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(6)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(13)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(8)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(10)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(6)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(13)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(8)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(10)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(6)
+          .animate(
+            {opacity: 0}, 10
+          )
+          .animate(
+            {opacity: 0}, 10
+          ).delay(13)
+          .animate(
+            {opacity: 1}, 10
+          ).delay(8)
+          .animate(
+            {opacity: 0}, 10
+          )
+       }, 2000)
 
-     window.setTimeout( function() {
-       $('.test_pattern').remove();
-     }, 3500)
+       window.setTimeout( function() {
+         $('.test_pattern').remove();
+         $('.off').removeClass('off');
+       }, 4000)
 
-     //$('.test_pattern').remove();
 
+     } // if animate
 });
 
 function processData(allText) {
@@ -69,13 +141,19 @@ function processData(allText) {
     } // Read lines into array
 
     // Update now playing
-    $('main').append('<h1>Now Playing: ' + lines[0][3] + '<br /><span>' + lines[0][4] + '</span></h1>');
+    $('body').prepend('<h1><span class="now_playing">Now Playing:</span><br class="now_break" /> ' + lines[0][3] + '<br /><span>' + lines[0][4] + '</span></h1>');
 
     // Build menu
     for (var i = 0; i < lines.length; i++) {
-      $('nav ul').append('<li><h2>' + lines[i][3] + '</h2><p>' + lines[i][4] + '</p></li>');
-      if (i % 2 != 0) {
+      $('nav ul').append('<li><p class="date">' + lines[i][1] + '</p><h3>' + lines[i][3] + '</h3><p>' + lines[i][4] + '</p></li>');
+      if (i % 4 == 0) {
         $('nav ul').append('<li class="arrow"></li>');
+      }
+      if (i == 2) {
+        $('nav ul').append('<li><h3>Sell the catalog here.</h3></li>');
+      }
+      if (i == 4) {
+        $('nav ul').append('<li><h3>Plug a sponsor here.</h3></li>');
       }
     }
 
