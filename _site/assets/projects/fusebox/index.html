@@ -28,25 +28,48 @@
   <![endif]-->
 
 
-  <h2 class="logo">
+  <h1 class="logo">
     <img src="img/logo.png" alt="Fusebox Festival: Virtual Edition" />
-  </h2>
+  </h1>
 
   <main>
-    <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/Xn8tufsbSz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-    <a href="#" title="Watch Livestream"><span>Watch</span></a>
+    <div>
+      <a href="#" title="Watch Livestream"><span>Watch Now&rarr;</span></a>
+    </div>
   </main>
 
-  <nav class="shows">
+  <nav class="main_shows" aria-live="polite">
     <h2>Upcoming:</h2>
     <ul></ul>
   </nav>
 
-  <!--<img src="img/moment.png" alt="One Moment Please" class="moment floater" />-->
-  <!--<img src="img/column.png" alt="" class="column floater" />-->
-  <img src="img/wave.png" alt="" class="wave floater" />
+  <nav class="secondary_shows" role="region" aria-live="polite">
+    <ul>
+      <li class="bonus star">
+        <a href="#">
+          <img src="img/bonus_todd.png" alt="Todd Mein in a mask." />
+          <div>
+            <h3>BONUS: Todd TV <br />
+            Todd bakes a cake.</h3>
+          </div>
+        </a>
+      </li>
+      <li class="bonus tv">
+        <a href="#">
+          <img src="img/bonus_raccoon_spa.gif" alt="A raccoon takes a bath." />
+          <div>
+            <h3>BONUS: Raccoon Spa<br />
+            Relax with Fusebox.</h3>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </nav>
 
-  <div class="test_pattern">
+  <img src="img/wave.png" alt="" class="wave floater"  aria-hidden="true" />
+  <img src="img/beast.png" alt="" class="beast floater"  aria-hidden="true" />
+
+  <div class="test_pattern"  aria-hidden="true">
     <div class="background">
       <div></div>
       <div></div>
@@ -55,7 +78,7 @@
     </div>
   </div>
 
-  <div class="test_pattern">
+  <div class="test_pattern"  aria-hidden="true">
     <div class="background2">
       <div></div>
       <div></div>

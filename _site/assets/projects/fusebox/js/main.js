@@ -140,20 +140,25 @@ function processData(allText) {
         }
     } // Read lines into array
 
+
+    // Plan: Start with everything on the page as HTML and then remove everything in the past.
+    // Still need to figure out how to handle now playing ... does aria-live work?
+
+
     // Update now playing
-    $('body').prepend('<h1><span class="now_playing">Now Playing:</span><br class="now_break" /> ' + lines[0][3] + '<br /><span>' + lines[0][4] + '</span></h1>');
+    $('main div').prepend('<h2><span class="now_playing">Live:</span><br class="now_break" /> ' + lines[0][3] + '<br /><span>' + lines[0][4] + '</span></h2>');
 
     // Build menu
     for (var i = 0; i < lines.length; i++) {
-      $('nav ul').append('<li><p class="date">' + lines[i][1] + '</p><h3>' + lines[i][3] + '</h3><p>' + lines[i][4] + '</p></li>');
+      $('nav.main_shows ul').append('<li><p class="date">' + lines[i][1] + '</p><h3>' + lines[i][3] + '</h3><p>' + lines[i][4] + '</p></li>');
       if (i % 4 == 0) {
-        $('nav ul').append('<li class="arrow"></li>');
+        $('nav.main_shows ul').append('<li class="arrow"></li>');
       }
       if (i == 2) {
-        $('nav ul').append('<li><h3>Sell the catalog here.</h3></li>');
+        $('nav.main_shows ul').append('<li class="catalog ad"><a href="" title="Buy the 2020 Fusebox catalog"><img src="img/catalog.png" alt="Illustration of the 2020 Fusebox catalog" /><p>Buy the 2020 Fusebox Catalog: a document of a thing that does not exist!</p></a></li>');
       }
       if (i == 4) {
-        $('nav ul').append('<li><h3>Plug a sponsor here.</h3></li>');
+        $('nav.main_shows ul').append('<li class="ad logo"><img src="img/sponsor_lodge.jpg" alt="Black Sheep Lodge Logo" /><p>Virtual Sponsor</p></li>');
       }
     }
 
