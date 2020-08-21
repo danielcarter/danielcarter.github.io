@@ -1,0 +1,596 @@
+<html>
+<style>
+* { background-size: 800% }
+body {display:flex; justify-content: center; align-items: center;height:100vh;margin:0;background-color:#fff;}
+#a {height:600px;width:800px;position: relative;overflow:hidden;}
+
+#a div {
+  height: 600px;
+  width: 800px;
+  position: absolute;
+}
+
+#bg_space {
+  background: transparent url(a.png) -2479px -1520px no-repeat;
+  background-size: 448%;
+}
+
+#flare_1 {
+  background: transparent url(a.png) 0px -901px no-repeat;
+  background-size: 646%;
+  opacity: .4;
+  right: -100%;
+  transition: all 4s linear;
+  width: 104%;
+  transform: skew(0);
+  top: 0;
+}
+
+#flare_1.on {
+  opacity: 1;
+  right: 104%;
+}
+
+#flare_2 {
+  background: transparent url(a.png) -974px -2151px no-repeat;
+  background-size: 453%;
+  opacity: 1;
+  right: -55%;
+  transition: all 4s linear;
+  width: 100%;
+}
+
+#flare_2.on {
+  right: 0;
+}
+
+#flare_3 {
+  background: transparent url(a.png) -740px -1555px no-repeat;
+  background-size: 453%;
+  opacity: 0;
+  right: -30%;
+  transition: all 4s ease-in;
+  width: 100%;
+  transform: scale(.8);
+}
+
+#flare_3.on {
+  right: -10%;
+  transform: scale(1);
+  opacity: .9;
+  top: 10%;
+}
+
+#flare_2.off, #flare_3.off {
+  opacity: 0;
+  transition: all 1s ease-in;
+}
+
+#flare_4 {
+  background: transparent url(a.png) -1530px -1555px no-repeat;
+  background-size: 453%;
+  opacity: 0;
+  right: 0%;
+  transition: all 10s linear;
+  width: 100%;
+}
+
+#flare_4.on {
+  opacity: .5;
+}
+
+#flare_5 {
+  background: transparent url(a.png) 0px -901px no-repeat;
+  background-size: 646%;
+  opacity: 0;
+  transition: all 1.5s ease-out;
+  width: 104%;
+  transform: skew(-41deg) scale(2);
+  top: 0;
+}
+
+#flare_5.on {
+  opacity: .5;
+  transform: skew(-20deg) scale(2.4);
+}
+
+#a #ship_1 {
+  background: transparent url(a.png) -100px -199px no-repeat;
+  background-size: 447%;
+  height: 470px;
+  width: 710px;
+  top: 65%;
+  left: -81%;
+  transform: scale(1);
+  transition: all 8s ease-in;
+  z-index: 999;
+}
+
+#a #ship_1.on {
+  top: -5%;
+  left: 9%;
+  transform: scale(0.01)
+}
+
+#bg_space_2 {
+  background: transparent url(a.png) -2479px -1520px no-repeat;
+  background-size: 448%;
+  opacity: 0;
+  transform: scale(1) rotate(0deg);
+  transition: all 3s linear;
+}
+
+#bg_space_2.on {
+  opacity: 1;
+}
+
+#bg_space_2.off {
+  transition: all 12s linear;
+  transform: scale(1.2) rotate(3deg);
+}
+
+#a #title {
+  background: transparent url(a.png) 0px 0px no-repeat;
+  background-size: 646%;
+  height: 200px;
+  width: 600px;
+  margin: 170px 0 0 107px;
+  opacity: 0;
+  transition: all 1s linear;
+}
+
+#a #title.on {
+  opacity: 1;
+}
+
+#a #title.off {
+  opacity: 0;
+}
+
+#a #ship_2 {
+  background: transparent url(a.png) -1683px -60px no-repeat;
+  background-size: 328%;
+  opacity: 1;
+  transition: all 7s linear;
+  height: 1430px;
+  width: 1740px;
+  left: -210%;
+  top: 80%;
+  transform: rotate(0deg) skewX(0deg);
+}
+
+#a #ship_2.on {
+  top: -210%;
+  left: 100%;
+  transform: rotate(13deg) skewX(-14deg);
+}
+
+#ocean {
+  background: transparent url(a.png) -2269px -305px no-repeat;
+  background-size: 388%;
+  opacity: 0;
+  transition: all 13s ease-out;
+  left:150%;
+  top: 110%;
+  transform: rotate(0) skewX(0) scale(1);
+  z-index: 0;
+}
+
+#ocean.on {
+  opacity: 1;
+  left: -150%;
+  top: 0%;
+  transform: scale(4);
+  z-index: 999;
+}
+
+#ocean.off {
+  opacity: 0;
+  transition: all 2s ease-out;
+}
+
+#ship_3 {
+  background: transparent url(a.png) -2669px -2065px no-repeat;
+  background-size: 438%;
+  opacity: 0;
+  transition: all 13s ease-out;
+  left: 0%;
+  transform: rotate(28deg) skewX(0) scale(1.4);
+  z-index: 0;
+}
+
+#ship_3.on {
+  opacity: .6;
+  transform: rotate(32deg) skewX(4deg) scale(1.2);
+}
+
+#ship_3.off {
+  opacity: 0;
+  transition: all 2s ease-out;
+}
+
+
+#ocean_2 {
+  background: transparent url(a.png) -2669px -2065px no-repeat;
+  background-size: 438%;
+  opacity: 1;
+  transition: all 7s linear;
+  top: 10%;
+  left: -100%;
+  transform: scale(1);
+}
+
+#ocean_2.on {
+  opacity: 1;
+  top: 0%%;
+  left: 0%;
+  transform: scale(1.4);
+}
+
+#ocean_2.off {
+  opacity: 0;
+  transition: all 3s linear;
+}
+
+#ocean_2.off {
+  opacity: 0;
+  transition: all 3s linear;
+}
+
+#planet_1 {
+  background: transparent url(a.png) -0px -2060px no-repeat;
+  background-size: 438%;
+  opacity: 0;
+  transition: all 12s linear, opacity .5s linear;
+  top: 71%;
+  left: -81%;
+  transform: scale(2) rotate(4deg);
+}
+
+#planet_1.on {
+  opacity: 1;
+  top: 11%;
+  left: 0%;
+  transform: scale(1.2);
+  transition: all 5s linear;
+}
+
+#planet_1.off {
+  opacity: 1;
+  top: 107%;
+}
+
+#a #ship_4 {
+  background: transparent url(a.png) -1150px -17px no-repeat;
+  background-size: 238%;
+  opacity: 0;
+  transition: all 5s linear, opacity .1s linear;
+  transform: scale(.1);
+  top: 61%;
+  left: -30%;
+  height: 200px;
+}
+
+#a #ship_4.on {
+  transform: scale(1);
+  top: -19%;
+  left: 100%;
+  opacity: 1;
+}
+
+
+#a #neelix {
+  background: transparent url(a.png) -180px -251px no-repeat;
+  background-size: 200%;
+  background-size: 1200px;
+  opacity: 0;
+  transition: all 1s linear;
+  transform: scale(3);
+  top: 80%;
+  left: 58%;
+  height: 38px;
+  width: 140px;
+}
+
+#a #neelix.on {
+  opacity: 1;
+}
+
+#a #neelix.off {
+  opacity: 0;
+}
+
+#planet_2 {
+  background: transparent url(a.png) 80px -1500px no-repeat;
+  background-size: 438%;
+  opacity: 0;
+  transition: all 7s linear, opacity 1s linear;
+  top: 0;
+  left: -50%;
+  transform: scale(1.6) rotate(-13deg);
+}
+
+#planet_2.on {
+  opacity: 1;
+  left: 0%;
+  transform: scale(1.2) rotate(0deg);
+}
+
+#planet_2.off {
+  opacity: 0;
+}
+
+#planet_2b {
+  background: transparent url(a.png) 60px -960px no-repeat;
+  background-size: 438%;
+  opacity: 1;
+  transition: all 4s linear, opacity 1s linear;
+  top: -120%;
+  left: -50%;
+  transform: scale(1.2) rotate(-12deg);
+}
+
+#planet_2b.on {
+  top: 120%;
+  left: 0;
+  transform: scale(1.25) rotate(0deg);
+}
+
+#planet_2c {
+  background: transparent url(a.png) -670px -960px no-repeat;
+  background-size: 438%;
+  opacity: 0;
+  transition: all 4s linear, opacity 1s linear;
+  top: 0%;
+  left: 0%;
+  transform: scale(1.2);
+}
+
+#planet_2c.on {
+  opacity: 1;
+}
+
+#planet_2c.off {
+  opacity: 0;
+}
+
+#a #ship_5 {
+  background: transparent url(a.png) -175px -17px no-repeat;
+  background-size: 1200px;
+  opacity: 1;
+  transition: all 9s linear;
+  transform: scale(1.5);
+  top: 71%;
+  left: -20%;
+  height: 70px;
+  width: 140px;
+}
+
+#a #ship_5.on {
+  transform: scale(1.9);
+  top: 58%;
+  left: 60%;
+}
+
+#a #ship_5.off {
+  transition: all 1s linear;
+  opacity: 0;
+}
+
+#planet_3 {
+  background: transparent url(a.png) -1016px -792px no-repeat;
+  background-size: 378%;
+  opacity: 0;
+  transition: all 1s linear;
+  top: 0;
+  left: -30%;
+  transform: scale(1.6);
+}
+
+#planet_3.on {
+  opacity: 1;
+}
+
+#a #planet_3.off {
+  transition: all 5s linear, width 0s linear;
+  left: -130%;
+}
+
+#planet_3b {
+  background: transparent url(a.png) -1754px -792px no-repeat;
+  background-size: 378%;
+  opacity: 0;
+  transition: all .5s linear;
+  top: 0;
+  left: 0%;
+  transform: scale(1.6);
+}
+
+#planet_3b.on {
+  opacity: 1;
+}
+
+#planet_3b.off {
+  opacity: .2;
+  transition: all .5s linear, left 1.5s linear;
+}
+
+#a #ship_6 {
+  background: transparent url(a.png) -751px -17px no-repeat;
+  background-size: 1200px;
+  opacity: 0;
+  transition: all 5s linear, opacity .5s linear;
+  transform: scale(.5);
+  top: 53%;
+  left: 0%;
+  height: 130px;
+  width: 584px;
+}
+
+#a #ship_6.on {
+  transform: scale(1.5);
+  top: 59%;
+  left: 50%;
+  opacity: 1;
+}
+
+#a #ship_6.off {
+  transition: all 1s linear;
+  opacity: 0;
+}
+
+#a #planet_3c {
+  background: transparent url(a.png) -2584px -792px no-repeat;
+  background-size: 3000px;
+  opacity: 1;
+  transition: all 5s linear;
+  top: 0;
+  left: 120%;
+  transform: scale(1.6);
+  width: 400px;
+}
+
+#a #planet_3c.on {
+  left: -30px;
+}
+
+#a #planet_4 {
+  background: transparent url(a.png) -1671px -232px no-repeat;
+  background-size: 2770px;
+  opacity: 0;
+  transition: all 1s linear;
+  top: 0;
+  left: 51%;
+  transform: scale(1.6);
+  width: 300px;
+}
+
+#a #planet_4.on {
+  opacity: 1;
+}
+
+#a #ship_7 {
+  background: transparent url(a.png) -841px -592px no-repeat;
+  background-size: 2770px;
+  opacity: 0;
+  transition: all 1s linear;
+  top: 42%;
+  left: 31%;
+  transform: scale(.4);
+  width: 370px;
+  height: 200px;
+}
+
+#a #ship_7.on {
+  opacity: 1;
+}
+
+#a #ship_7.on {
+  transform: scale(0);
+  top: 33%;
+  left: 67%;
+}
+
+
+
+</style>
+
+<script>
+  var w = window;
+  var d = document;
+  //w.setTimeout(fi, 2500, 'title');
+  w.setTimeout(fi, 500, 'flare_1')
+  w.setTimeout(fi, 4000, 'flare_2')
+  w.setTimeout(fi, 7000, 'ship_1')
+  w.setTimeout(fi, 7000, 'flare_3')
+  w.setTimeout(fi, 12000, 'flare_4')
+  w.setTimeout(fi, 15500, 'flare_5')
+  w.setTimeout(fo, 15000, 'flare_3')
+  w.setTimeout(fo, 15000, 'flare_2')
+  w.setTimeout(fi, 16000, 'bg_space_2')
+  w.setTimeout(fi, 18000, 'title')
+  w.setTimeout(fi, 20000, 'ship_2')
+  w.setTimeout(fo, 20000, 'title')
+  w.setTimeout(fi, 26000, 'ocean')
+  w.setTimeout(fi, 28000, 'ship_3')
+  w.setTimeout(fo, 42000, 'ship_3')
+  w.setTimeout(fo, 42000, 'ocean')
+  w.setTimeout(fi, 40000, 'ocean_2')
+  w.setTimeout(fo, 43000, 'ocean_2')
+  w.setTimeout(fi, 48000, 'planet_1')
+  w.setTimeout(fo, 58000, 'planet_1')
+  w.setTimeout(fi, 58000, 'ship_4')
+  w.setTimeout(fi, 63000, 'neelix')
+  w.setTimeout(fo, 63000, 'bg_space_2')
+  w.setTimeout(fo, 66000, 'neelix')
+  w.setTimeout(fi, 67000, 'planet_2')
+  w.setTimeout(fi, 71000, 'planet_2b')
+  w.setTimeout(fo, 72000, 'planet_2')
+  w.setTimeout(fi, 72000, 'planet_2c')
+  w.setTimeout(fi, 72000, 'ship_5')
+  w.setTimeout(fo, 80000, 'ship_5')
+  w.setTimeout(fo, 80000, 'planet_2')
+  w.setTimeout(fo, 80000, 'planet_2c')
+  w.setTimeout(fi, 81000, 'planet_3')
+  w.setTimeout(fi, 83500, 'planet_3b')
+  w.setTimeout(fo, 84000, 'planet_3b')
+  w.setTimeout(fi, 83500, 'ship_6')
+  w.setTimeout(fo, 84000, 'planet_3')
+  w.setTimeout(fi, 86000, 'planet_3c')
+  w.setTimeout(fi, 91000, 'planet_4')
+  w.setTimeout(fo, 91000, 'ship_6')
+  w.setTimeout(fi, 92000, 'ship_7')
+  w.setTimeout(fi, 92000, 'ship_7')
+  w.setTimeout(fo, 94000, 'ship_7')
+  w.setTimeout(fi, 96000, 'credits')
+  w.setTimeout(fo, 100000, 'credits')
+
+
+  function fi(e) {
+    d.getElementById(e).classList.add("on");;
+   }
+
+   function fo(e) {
+     d.getElementById(e).classList.add("off");;
+    }
+</script>
+
+<body>
+
+
+
+<audio src="a.mp3" autoplay></audio>
+
+<div id="a">
+
+  <div id="bg_space"></div>
+  <div id="flare_1"></div>
+  <div id="flare_2"></div>
+  <div id="ship_1"></div>
+  <div id="flare_3"></div>
+  <div id="flare_4"></div>
+  <div id="flare_5"></div>
+  <div id="bg_space_2"></div>
+  <div id="title"></div>
+  <div id="ship_2"></div>
+  <div id="ocean"></div>
+  <div id="ship_3"></div>
+  <div id="ocean_2"></div>
+  <div id="planet_1"></div>
+  <div id="ship_4"></div>
+  <div id="neelix"></div>
+  <div id="planet_2"></div>
+  <div id="planet_2b"></div>
+  <div id="planet_2c"></div>
+  <div id="ship_5"></div>
+  <div id="planet_3"></div>
+  <div id="planet_3b"></div>
+  <div id="planet_3c"></div>
+  <div id="planet_4"></div>
+  <div id="ship_6"></div>
+  <div id="ship_7"></div>
+  <div id="credits"></div>
+
+</div>
+
+</body></html>
