@@ -194,7 +194,7 @@ textarea {
 
 html {
   font-family: 'DM Mono', monospace;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, div.icons {
@@ -345,8 +345,6 @@ svg {
 
 
 
-@media only screen and (max-width: 80rem) {
-
   body {
     display: flex;
     flex-direction: column;
@@ -363,8 +361,6 @@ svg {
     margin-top: 6rem;
   }
 
-
-}
 
 
 
