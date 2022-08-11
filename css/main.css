@@ -199,7 +199,6 @@ html {
 
 h1, h2, h3, h4, h5, h6, p, ul, div.icons {
   font-size: 1rem;
-  font-weight: normal;
   padding: 0;
   margin: 0 0 1rem 0;
 }
@@ -222,7 +221,7 @@ ul {
 }
 
 ul li {
-  list-style-type: none;
+  list-style-position: inside;
 }
 
 section ul li {
@@ -232,95 +231,6 @@ section ul li {
 body {
   margin: 4rem;
 }
-
-header {
-  text-align: center;
-  padding: 0 0 2rem;
-}
-
-main {
-  display: flex;
-  justify-content: space-between;
-}
-
-body section {
-  flex-basis: 30%;
-}
-
-body header {
-  flex-basis: 10%;
-}
-
-.icons {
-  display: flex;
-  justify-content: space-between;
-}
-
-.icons h2 {
-  text-align: center;
-  flex-basis: 100%;
-}
-
-svg {
-  fill: #ed1b7a;
-}
-
-
-
-
-
-/*
-.academics svg {
-  fill: #c20658;
-}
-
-.academics svg:nth-child(2n) {
-  fill: #ff0070;
-}
-
-.academics .icons svg {
-  fill: #c20658;
-}
-
-.academics a {
-  border-bottom: 1px solid #c20658;
-}
-
-.web svg {
-  fill: #0078ab;
-}
-
-.web svg:nth-child(2n) {
-  fill: #00b3ff;
-}
-
-.web .icons {
-  color: #0078ab;
-}
-
-.web a {
-  border-bottom: 1px solid #0078ab;
-
-.fun svg {
-  fill: #aabd00;
-}
-
-.fun svg:nth-child(2n) {
-  fill: #d4c600;
-}
-
-
-.fun .icons {
-  color: #aabd00;
-}
-
-.fun a {
-  border-bottom: 1px solid #aabd00;
-}
-*/
-
-
-
 
 
 
@@ -346,20 +256,15 @@ svg {
 
 
   body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    margin: 40px auto;
+    padding: 0 40px;
+    max-width: 50em;
   }
 
   main {
-    flex-direction: column;
-    max-width: 50rem;
-    align-content: center;
+
   }
 
-  main .web, main .fun {
-    margin-top: 6rem;
-  }
 
 
 
