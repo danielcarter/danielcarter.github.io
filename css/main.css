@@ -194,7 +194,7 @@ textarea {
 
 html {
   font-family: 'DM Mono', monospace;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, div.icons {
@@ -259,6 +259,13 @@ body {
     margin: 40px auto;
     padding: 0 40px;
     max-width: 50em;
+  }
+
+  .header_image {
+    border-radius: 75px;
+    margin: 30px auto;
+    width: 150px;
+    display: block;
   }
 
   main {
